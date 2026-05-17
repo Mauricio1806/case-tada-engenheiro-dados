@@ -1,0 +1,2001 @@
+cliente_id,nome,email,cidade,data_cadastro
+CLI00001,Cliente 0001,cliente0001@email.exemplo,Salvador,2023-04-25
+CLI00002,Cliente 0002,cliente0002@email.exemplo,Sao Paulo,2023-10-09
+CLI00003,Cliente 0003,cliente0003@email.exemplo,Rio de Janeiro,2023-08-17
+CLI00004,Cliente 0004,cliente0004@email.exemplo,Sao Paulo,2023-04-15
+CLI00005,Cliente 0005,cliente0005@email.exemplo,Salvador,2024-07-12
+CLI00006,Cliente 0006,cliente0006@email.exemplo,Sao Paulo,2024-08-27
+CLI00007,Cliente 0007,cliente0007@email.exemplo,Porto Alegre,2023-02-02
+CLI00008,Cliente 0008,cliente0008@email.exemplo,Sao Paulo,2023-04-06
+CLI00009,Cliente 0009,cliente0009@email.exemplo,Rio de Janeiro,2023-08-27
+CLI00010,Cliente 0010,cliente0010@email.exemplo,Brasilia,2024-09-08
+CLI00011,Cliente 0011,cliente0011@email.exemplo,Sao Paulo,2024-07-28
+CLI00012,Cliente 0012,cliente0012@email.exemplo,Rio de Janeiro,2024-10-27
+CLI00013,Cliente 0013,cliente0013@email.exemplo,Fortaleza,2024-07-12
+CLI00014,Cliente 0014,cliente0014@email.exemplo,Porto Alegre,2023-08-14
+CLI00015,Cliente 0015,cliente0015@email.exemplo,Curitiba,2024-08-26
+CLI00016,Cliente 0016,cliente0016@email.exemplo,Rio de Janeiro,2023-01-07
+CLI00017,Cliente 0017,cliente0017@email.exemplo,Sao Paulo,2024-03-08
+CLI00018,Cliente 0018,cliente0018@email.exemplo,Belo Horizonte,2023-10-12
+CLI00019,Cliente 0019,cliente0019@email.exemplo,Sao Paulo,2023-08-09
+CLI00020,Cliente 0020,cliente0020@email.exemplo,Belo Horizonte,2023-04-15
+CLI00021,Cliente 0021,cliente0021@email.exemplo,Sao Paulo,2024-01-25
+CLI00022,Cliente 0022,cliente0022@email.exemplo,Sao Paulo,2024-01-03
+CLI00023,Cliente 0023,cliente0023@email.exemplo,Belo Horizonte,2024-09-10
+CLI00024,Cliente 0024,cliente0024@email.exemplo,Rio de Janeiro,2023-02-14
+CLI00025,Cliente 0025,cliente0025@email.exemplo,Fortaleza,2024-04-15
+CLI00026,Cliente 0026,cliente0026@email.exemplo,Brasilia,2023-05-08
+CLI00027,Cliente 0027,cliente0027@email.exemplo,Porto Alegre,2023-03-22
+CLI00028,Cliente 0028,cliente0028@email.exemplo,Brasilia,2023-10-28
+CLI00029,Cliente 0029,cliente0029@email.exemplo,Salvador,2024-09-25
+CLI00030,Cliente 0030,cliente0030@email.exemplo,Belo Horizonte,2024-08-14
+CLI00031,Cliente 0031,cliente0031@email.exemplo,Rio de Janeiro,2023-03-13
+CLI00032,Cliente 0032,cliente0032@email.exemplo,Sao Paulo,2024-11-08
+CLI00033,Cliente 0033,cliente0033@email.exemplo,Rio de Janeiro,2023-10-24
+CLI00034,Cliente 0034,cliente0034@email.exemplo,Sao Paulo,2023-08-27
+CLI00035,Cliente 0035,cliente0035@email.exemplo,Sao Paulo,2024-01-25
+CLI00036,Cliente 0036,cliente0036@email.exemplo,Rio de Janeiro,2024-04-09
+CLI00037,Cliente 0037,cliente0037@email.exemplo,Salvador,2024-01-09
+CLI00038,Cliente 0038,cliente0038@email.exemplo,Sao Paulo,2024-01-15
+CLI00039,Cliente 0039,cliente0039@email.exemplo,Belo Horizonte,2023-08-03
+CLI00040,Cliente 0040,cliente0040@email.exemplo,Salvador,2023-10-01
+CLI00041,Cliente 0041,cliente0041@email.exemplo,Fortaleza,2024-11-30
+CLI00042,Cliente 0042,cliente0042@email.exemplo,Salvador,2023-03-15
+CLI00043,Cliente 0043,cliente0043@email.exemplo,Recife,2024-10-12
+CLI00044,Cliente 0044,cliente0044@email.exemplo,Sao Paulo,2024-06-30
+CLI00045,Cliente 0045,cliente0045@email.exemplo,Fortaleza,2023-09-08
+CLI00046,Cliente 0046,cliente0046@email.exemplo,Sao Paulo,2024-04-18
+CLI00047,Cliente 0047,cliente0047@email.exemplo,Porto Alegre,2023-10-04
+CLI00048,Cliente 0048,cliente0048@email.exemplo,Salvador,2024-07-24
+CLI00049,Cliente 0049,cliente0049@email.exemplo,Rio de Janeiro,2023-11-29
+CLI00050,Cliente 0050,cliente0050@email.exemplo,Sao Paulo,2023-08-23
+CLI00051,Cliente 0051,cliente0051@email.exemplo,Sao Paulo,2023-11-20
+CLI00052,Cliente 0052,cliente0052@email.exemplo,Porto Alegre,2023-10-02
+CLI00053,Cliente 0053,cliente0053@email.exemplo,Sao Paulo,2023-08-05
+CLI00054,Cliente 0054,cliente0054@email.exemplo,Recife,2023-11-19
+CLI00055,Cliente 0055,cliente0055@email.exemplo,Rio de Janeiro,2024-11-02
+CLI00056,Cliente 0056,cliente0056@email.exemplo,Curitiba,2024-02-10
+CLI00057,Cliente 0057,cliente0057@email.exemplo,Salvador,2024-04-14
+CLI00058,Cliente 0058,cliente0058@email.exemplo,Sao Paulo,2023-09-29
+CLI00059,Cliente 0059,cliente0059@email.exemplo,Sao Paulo,2023-09-10
+CLI00060,Cliente 0060,cliente0060@email.exemplo,Fortaleza,2024-07-28
+CLI00061,Cliente 0061,cliente0061@email.exemplo,Brasilia,2023-09-27
+CLI00062,Cliente 0062,cliente0062@email.exemplo,Fortaleza,2024-08-21
+CLI00063,Cliente 0063,cliente0063@email.exemplo,Porto Alegre,2024-08-20
+CLI00064,Cliente 0064,cliente0064@email.exemplo,Porto Alegre,2024-01-06
+CLI00065,Cliente 0065,cliente0065@email.exemplo,Rio de Janeiro,2023-05-22
+CLI00066,Cliente 0066,cliente0066@email.exemplo,Brasilia,2024-05-20
+CLI00067,Cliente 0067,cliente0067@email.exemplo,Sao Paulo,2023-02-18
+CLI00068,Cliente 0068,cliente0068@email.exemplo,Sao Paulo,2023-06-06
+CLI00069,Cliente 0069,cliente0069@email.exemplo,Salvador,2023-06-13
+CLI00070,Cliente 0070,cliente0070@email.exemplo,Salvador,2024-03-08
+CLI00071,Cliente 0071,cliente0071@email.exemplo,Recife,2023-03-07
+CLI00072,Cliente 0072,cliente0072@email.exemplo,Porto Alegre,2024-01-26
+CLI00073,Cliente 0073,cliente0073@email.exemplo,Recife,2024-04-24
+CLI00074,Cliente 0074,cliente0074@email.exemplo,Brasilia,2023-09-15
+CLI00075,Cliente 0075,cliente0075@email.exemplo,Brasilia,2023-01-12
+CLI00076,Cliente 0076,cliente0076@email.exemplo,Salvador,2023-04-28
+CLI00077,Cliente 0077,cliente0077@email.exemplo,Salvador,2024-07-03
+CLI00078,Cliente 0078,cliente0078@email.exemplo,Rio de Janeiro,2024-10-18
+CLI00079,Cliente 0079,cliente0079@email.exemplo,Belo Horizonte,2023-04-25
+CLI00080,Cliente 0080,cliente0080@email.exemplo,Rio de Janeiro,2024-03-21
+CLI00081,Cliente 0081,cliente0081@email.exemplo,Sao Paulo,2024-04-09
+CLI00082,Cliente 0082,cliente0082@email.exemplo,Sao Paulo,2023-09-27
+CLI00083,Cliente 0083,cliente0083@email.exemplo,Brasilia,2023-07-02
+CLI00084,Cliente 0084,cliente0084@email.exemplo,Brasilia,2023-04-19
+CLI00085,Cliente 0085,cliente0085@email.exemplo,Salvador,2023-11-02
+CLI00086,Cliente 0086,cliente0086@email.exemplo,Salvador,2024-06-03
+CLI00087,Cliente 0087,cliente0087@email.exemplo,Recife,2023-07-23
+CLI00088,Cliente 0088,cliente0088@email.exemplo,Sao Paulo,2024-01-18
+CLI00089,Cliente 0089,cliente0089@email.exemplo,Sao Paulo,2024-07-06
+CLI00090,Cliente 0090,cliente0090@email.exemplo,Brasilia,2023-01-01
+CLI00091,Cliente 0091,cliente0091@email.exemplo,Recife,2023-11-28
+CLI00092,Cliente 0092,cliente0092@email.exemplo,Curitiba,2023-01-20
+CLI00093,Cliente 0093,cliente0093@email.exemplo,Sao Paulo,2024-01-07
+CLI00094,Cliente 0094,cliente0094@email.exemplo,Rio de Janeiro,2023-09-03
+CLI00095,Cliente 0095,cliente0095@email.exemplo,Sao Paulo,2023-09-04
+CLI00096,Cliente 0096,cliente0096@email.exemplo,Recife,2023-03-22
+CLI00097,Cliente 0097,cliente0097@email.exemplo,Sao Paulo,2024-05-12
+CLI00098,Cliente 0098,cliente0098@email.exemplo,Sao Paulo,2024-06-29
+CLI00099,Cliente 0099,cliente0099@email.exemplo,Sao Paulo,2023-05-12
+CLI00100,Cliente 0100,cliente0100@email.exemplo,Salvador,2024-05-01
+CLI00101,Cliente 0101,cliente0101@email.exemplo,Brasilia,2023-06-19
+CLI00102,Cliente 0102,cliente0102@email.exemplo,Rio de Janeiro,2024-06-24
+CLI00103,Cliente 0103,cliente0103@email.exemplo,Recife,2024-03-09
+CLI00104,Cliente 0104,cliente0104@email.exemplo,Rio de Janeiro,2024-07-06
+CLI00105,Cliente 0105,cliente0105@email.exemplo,Fortaleza,2023-07-25
+CLI00106,Cliente 0106,cliente0106@email.exemplo,Fortaleza,2023-11-16
+CLI00107,Cliente 0107,cliente0107@email.exemplo,Porto Alegre,2024-11-18
+CLI00108,Cliente 0108,cliente0108@email.exemplo,Salvador,2024-01-18
+CLI00109,Cliente 0109,cliente0109@email.exemplo,Curitiba,2024-06-13
+CLI00110,Cliente 0110,cliente0110@email.exemplo,Curitiba,2023-05-04
+CLI00111,Cliente 0111,cliente0111@email.exemplo,Rio de Janeiro,2023-08-19
+CLI00112,Cliente 0112,cliente0112@email.exemplo,Sao Paulo,2023-12-13
+CLI00113,Cliente 0113,cliente0113@email.exemplo,Sao Paulo,2024-08-25
+CLI00114,Cliente 0114,cliente0114@email.exemplo,Brasilia,2023-08-24
+CLI00115,Cliente 0115,cliente0115@email.exemplo,Recife,2023-08-14
+CLI00116,Cliente 0116,cliente0116@email.exemplo,Sao Paulo,2023-03-14
+CLI00117,Cliente 0117,cliente0117@email.exemplo,Fortaleza,2024-10-08
+CLI00118,Cliente 0118,cliente0118@email.exemplo,Sao Paulo,2023-08-23
+CLI00119,Cliente 0119,cliente0119@email.exemplo,Sao Paulo,2023-02-02
+CLI00120,Cliente 0120,cliente0120@email.exemplo,Belo Horizonte,2023-03-14
+CLI00121,Cliente 0121,cliente0121@email.exemplo,Brasilia,2023-09-01
+CLI00122,Cliente 0122,cliente0122@email.exemplo,Rio de Janeiro,2024-11-16
+CLI00123,Cliente 0123,cliente0123@email.exemplo,Curitiba,2023-08-08
+CLI00124,Cliente 0124,cliente0124@email.exemplo,Brasilia,2023-05-16
+CLI00125,Cliente 0125,cliente0125@email.exemplo,Fortaleza,2024-08-07
+CLI00126,Cliente 0126,cliente0126@email.exemplo,Recife,2024-04-29
+CLI00127,Cliente 0127,cliente0127@email.exemplo,Rio de Janeiro,2024-04-29
+CLI00128,Cliente 0128,cliente0128@email.exemplo,Porto Alegre,2023-07-14
+CLI00129,Cliente 0129,cliente0129@email.exemplo,Sao Paulo,2023-04-10
+CLI00130,Cliente 0130,cliente0130@email.exemplo,Salvador,2024-03-17
+CLI00131,Cliente 0131,cliente0131@email.exemplo,Belo Horizonte,2024-03-09
+CLI00132,Cliente 0132,cliente0132@email.exemplo,Porto Alegre,2024-04-23
+CLI00133,Cliente 0133,cliente0133@email.exemplo,Fortaleza,2023-02-25
+CLI00134,Cliente 0134,cliente0134@email.exemplo,Salvador,2024-10-31
+CLI00135,Cliente 0135,cliente0135@email.exemplo,Salvador,2023-04-11
+CLI00136,Cliente 0136,cliente0136@email.exemplo,Sao Paulo,2024-02-17
+CLI00137,Cliente 0137,cliente0137@email.exemplo,Fortaleza,2023-12-14
+CLI00138,Cliente 0138,cliente0138@email.exemplo,Sao Paulo,2023-09-12
+CLI00139,Cliente 0139,cliente0139@email.exemplo,Rio de Janeiro,2023-07-14
+CLI00140,Cliente 0140,cliente0140@email.exemplo,Brasilia,2024-04-04
+CLI00141,Cliente 0141,cliente0141@email.exemplo,Sao Paulo,2024-03-08
+CLI00142,Cliente 0142,cliente0142@email.exemplo,Sao Paulo,2023-10-13
+CLI00143,Cliente 0143,cliente0143@email.exemplo,Curitiba,2023-09-13
+CLI00144,Cliente 0144,cliente0144@email.exemplo,Sao Paulo,2024-03-29
+CLI00145,Cliente 0145,cliente0145@email.exemplo,Brasilia,2023-04-11
+CLI00146,Cliente 0146,cliente0146@email.exemplo,Sao Paulo,2024-10-29
+CLI00147,Cliente 0147,cliente0147@email.exemplo,Brasilia,2023-01-16
+CLI00148,Cliente 0148,cliente0148@email.exemplo,Sao Paulo,2023-08-31
+CLI00149,Cliente 0149,cliente0149@email.exemplo,Sao Paulo,2024-02-21
+CLI00150,Cliente 0150,cliente0150@email.exemplo,Curitiba,2024-05-07
+CLI00151,Cliente 0151,cliente0151@email.exemplo,Rio de Janeiro,2024-02-15
+CLI00152,Cliente 0152,cliente0152@email.exemplo,Sao Paulo,2023-06-18
+CLI00153,Cliente 0153,cliente0153@email.exemplo,Porto Alegre,2023-01-03
+CLI00154,Cliente 0154,cliente0154@email.exemplo,Porto Alegre,2023-09-29
+CLI00155,Cliente 0155,cliente0155@email.exemplo,Curitiba,2023-10-20
+CLI00156,Cliente 0156,cliente0156@email.exemplo,Porto Alegre,2024-07-23
+CLI00157,Cliente 0157,cliente0157@email.exemplo,Salvador,2024-05-13
+CLI00158,Cliente 0158,cliente0158@email.exemplo,Sao Paulo,2023-07-14
+CLI00159,Cliente 0159,cliente0159@email.exemplo,Rio de Janeiro,2023-08-11
+CLI00160,Cliente 0160,cliente0160@email.exemplo,Sao Paulo,2024-08-16
+CLI00161,Cliente 0161,cliente0161@email.exemplo,Fortaleza,2024-07-09
+CLI00162,Cliente 0162,cliente0162@email.exemplo,Sao Paulo,2023-11-18
+CLI00163,Cliente 0163,cliente0163@email.exemplo,Sao Paulo,2023-02-21
+CLI00164,Cliente 0164,cliente0164@email.exemplo,Recife,2024-05-03
+CLI00165,Cliente 0165,cliente0165@email.exemplo,Brasilia,2024-06-27
+CLI00166,Cliente 0166,cliente0166@email.exemplo,Sao Paulo,2023-02-28
+CLI00167,Cliente 0167,cliente0167@email.exemplo,Brasilia,2023-03-24
+CLI00168,Cliente 0168,cliente0168@email.exemplo,Sao Paulo,2023-03-12
+CLI00169,Cliente 0169,cliente0169@email.exemplo,Recife,2023-03-11
+CLI00170,Cliente 0170,cliente0170@email.exemplo,Salvador,2023-08-29
+CLI00171,Cliente 0171,cliente0171@email.exemplo,Porto Alegre,2023-05-03
+CLI00172,Cliente 0172,cliente0172@email.exemplo,Recife,2023-09-10
+CLI00173,Cliente 0173,cliente0173@email.exemplo,Recife,2024-08-31
+CLI00174,Cliente 0174,cliente0174@email.exemplo,Sao Paulo,2024-09-26
+CLI00175,Cliente 0175,cliente0175@email.exemplo,Sao Paulo,2024-03-05
+CLI00176,Cliente 0176,cliente0176@email.exemplo,Salvador,2024-08-20
+CLI00177,Cliente 0177,cliente0177@email.exemplo,Recife,2024-06-19
+CLI00178,Cliente 0178,cliente0178@email.exemplo,Belo Horizonte,2023-09-25
+CLI00179,Cliente 0179,cliente0179@email.exemplo,Rio de Janeiro,2024-11-16
+CLI00180,Cliente 0180,cliente0180@email.exemplo,Fortaleza,2023-11-18
+CLI00181,Cliente 0181,cliente0181@email.exemplo,Rio de Janeiro,2023-09-29
+CLI00182,Cliente 0182,cliente0182@email.exemplo,Porto Alegre,2023-05-15
+CLI00183,Cliente 0183,cliente0183@email.exemplo,Salvador,2024-10-22
+CLI00184,Cliente 0184,cliente0184@email.exemplo,Rio de Janeiro,2024-04-13
+CLI00185,Cliente 0185,cliente0185@email.exemplo,Belo Horizonte,2023-03-16
+CLI00186,Cliente 0186,cliente0186@email.exemplo,Sao Paulo,2024-04-14
+CLI00187,Cliente 0187,cliente0187@email.exemplo,Recife,2024-07-30
+CLI00188,Cliente 0188,cliente0188@email.exemplo,Sao Paulo,2023-03-17
+CLI00189,Cliente 0189,cliente0189@email.exemplo,Brasilia,2023-08-07
+CLI00190,Cliente 0190,cliente0190@email.exemplo,Brasilia,2023-09-29
+CLI00191,Cliente 0191,cliente0191@email.exemplo,Sao Paulo,2023-12-24
+CLI00192,Cliente 0192,cliente0192@email.exemplo,Sao Paulo,2023-09-08
+CLI00193,Cliente 0193,cliente0193@email.exemplo,Belo Horizonte,2023-10-19
+CLI00194,Cliente 0194,cliente0194@email.exemplo,Sao Paulo,2024-03-24
+CLI00195,Cliente 0195,cliente0195@email.exemplo,Brasilia,2023-11-06
+CLI00196,Cliente 0196,cliente0196@email.exemplo,Recife,2024-10-31
+CLI00197,Cliente 0197,cliente0197@email.exemplo,Brasilia,2023-01-09
+CLI00198,Cliente 0198,cliente0198@email.exemplo,Salvador,2024-07-21
+CLI00199,Cliente 0199,cliente0199@email.exemplo,Rio de Janeiro,2024-11-10
+CLI00200,Cliente 0200,cliente0200@email.exemplo,Sao Paulo,2023-05-18
+CLI00201,Cliente 0201,cliente0201@email.exemplo,Rio de Janeiro,2023-04-29
+CLI00202,Cliente 0202,cliente0202@email.exemplo,Sao Paulo,2024-07-20
+CLI00203,Cliente 0203,cliente0203@email.exemplo,Sao Paulo,2023-10-06
+CLI00204,Cliente 0204,cliente0204@email.exemplo,Rio de Janeiro,2024-09-11
+CLI00205,Cliente 0205,cliente0205@email.exemplo,Rio de Janeiro,2023-12-18
+CLI00206,Cliente 0206,cliente0206@email.exemplo,Rio de Janeiro,2024-10-11
+CLI00207,Cliente 0207,cliente0207@email.exemplo,Rio de Janeiro,2024-06-01
+CLI00208,Cliente 0208,cliente0208@email.exemplo,Curitiba,2023-09-15
+CLI00209,Cliente 0209,cliente0209@email.exemplo,Sao Paulo,2023-04-05
+CLI00210,Cliente 0210,cliente0210@email.exemplo,Salvador,2024-03-09
+CLI00211,Cliente 0211,cliente0211@email.exemplo,Rio de Janeiro,2023-02-15
+CLI00212,Cliente 0212,cliente0212@email.exemplo,Sao Paulo,2023-12-08
+CLI00213,Cliente 0213,cliente0213@email.exemplo,Sao Paulo,2024-10-14
+CLI00214,Cliente 0214,cliente0214@email.exemplo,Rio de Janeiro,2023-06-15
+CLI00215,Cliente 0215,cliente0215@email.exemplo,Fortaleza,2024-03-28
+CLI00216,Cliente 0216,cliente0216@email.exemplo,Brasilia,2024-03-13
+CLI00217,Cliente 0217,cliente0217@email.exemplo,Brasilia,2023-01-10
+CLI00218,Cliente 0218,cliente0218@email.exemplo,Sao Paulo,2023-03-19
+CLI00219,Cliente 0219,cliente0219@email.exemplo,Fortaleza,2023-06-02
+CLI00220,Cliente 0220,cliente0220@email.exemplo,Brasilia,2023-02-06
+CLI00221,Cliente 0221,cliente0221@email.exemplo,Belo Horizonte,2024-08-19
+CLI00222,Cliente 0222,cliente0222@email.exemplo,Brasilia,2023-06-01
+CLI00223,Cliente 0223,cliente0223@email.exemplo,Porto Alegre,2023-05-11
+CLI00224,Cliente 0224,cliente0224@email.exemplo,Sao Paulo,2023-11-12
+CLI00225,Cliente 0225,cliente0225@email.exemplo,Belo Horizonte,2023-02-10
+CLI00226,Cliente 0226,cliente0226@email.exemplo,Belo Horizonte,2023-08-04
+CLI00227,Cliente 0227,cliente0227@email.exemplo,Salvador,2023-09-13
+CLI00228,Cliente 0228,cliente0228@email.exemplo,Salvador,2023-04-16
+CLI00229,Cliente 0229,cliente0229@email.exemplo,Belo Horizonte,2024-07-27
+CLI00230,Cliente 0230,cliente0230@email.exemplo,Porto Alegre,2024-09-27
+CLI00231,Cliente 0231,cliente0231@email.exemplo,Fortaleza,2023-06-08
+CLI00232,Cliente 0232,cliente0232@email.exemplo,Rio de Janeiro,2023-06-16
+CLI00233,Cliente 0233,cliente0233@email.exemplo,Sao Paulo,2024-02-27
+CLI00234,Cliente 0234,cliente0234@email.exemplo,Sao Paulo,2023-07-03
+CLI00235,Cliente 0235,cliente0235@email.exemplo,Fortaleza,2023-12-07
+CLI00236,Cliente 0236,cliente0236@email.exemplo,Porto Alegre,2024-11-16
+CLI00237,Cliente 0237,cliente0237@email.exemplo,Fortaleza,2023-09-12
+CLI00238,Cliente 0238,cliente0238@email.exemplo,Rio de Janeiro,2023-06-13
+CLI00239,Cliente 0239,cliente0239@email.exemplo,Fortaleza,2023-04-21
+CLI00240,Cliente 0240,cliente0240@email.exemplo,Porto Alegre,2023-02-09
+CLI00241,Cliente 0241,cliente0241@email.exemplo,Curitiba,2023-08-16
+CLI00242,Cliente 0242,cliente0242@email.exemplo,Rio de Janeiro,2024-04-16
+CLI00243,Cliente 0243,cliente0243@email.exemplo,Belo Horizonte,2023-11-09
+CLI00244,Cliente 0244,cliente0244@email.exemplo,Rio de Janeiro,2023-08-17
+CLI00245,Cliente 0245,cliente0245@email.exemplo,Sao Paulo,2024-11-06
+CLI00246,Cliente 0246,cliente0246@email.exemplo,Rio de Janeiro,2024-02-13
+CLI00247,Cliente 0247,cliente0247@email.exemplo,Belo Horizonte,2023-10-13
+CLI00248,Cliente 0248,cliente0248@email.exemplo,Sao Paulo,2023-10-13
+CLI00249,Cliente 0249,cliente0249@email.exemplo,Belo Horizonte,2024-10-18
+CLI00250,Cliente 0250,cliente0250@email.exemplo,Brasilia,2024-02-14
+CLI00251,Cliente 0251,cliente0251@email.exemplo,Salvador,2024-07-03
+CLI00252,Cliente 0252,cliente0252@email.exemplo,Belo Horizonte,2023-01-29
+CLI00253,Cliente 0253,cliente0253@email.exemplo,Sao Paulo,2023-09-25
+CLI00254,Cliente 0254,cliente0254@email.exemplo,Sao Paulo,2024-08-17
+CLI00255,Cliente 0255,cliente0255@email.exemplo,Rio de Janeiro,2023-02-09
+CLI00256,Cliente 0256,cliente0256@email.exemplo,Sao Paulo,2024-09-02
+CLI00257,Cliente 0257,cliente0257@email.exemplo,Porto Alegre,2023-12-20
+CLI00258,Cliente 0258,cliente0258@email.exemplo,Fortaleza,2023-11-18
+CLI00259,Cliente 0259,cliente0259@email.exemplo,Porto Alegre,2024-09-12
+CLI00260,Cliente 0260,cliente0260@email.exemplo,Brasilia,2023-04-29
+CLI00261,Cliente 0261,cliente0261@email.exemplo,Porto Alegre,2024-08-13
+CLI00262,Cliente 0262,cliente0262@email.exemplo,Rio de Janeiro,2023-09-18
+CLI00263,Cliente 0263,cliente0263@email.exemplo,Sao Paulo,2024-03-22
+CLI00264,Cliente 0264,cliente0264@email.exemplo,Sao Paulo,2024-06-16
+CLI00265,Cliente 0265,cliente0265@email.exemplo,Brasilia,2024-11-17
+CLI00266,Cliente 0266,cliente0266@email.exemplo,Rio de Janeiro,2024-01-08
+CLI00267,Cliente 0267,cliente0267@email.exemplo,Porto Alegre,2023-03-13
+CLI00268,Cliente 0268,cliente0268@email.exemplo,Salvador,2023-12-05
+CLI00269,Cliente 0269,cliente0269@email.exemplo,Recife,2023-11-18
+CLI00270,Cliente 0270,cliente0270@email.exemplo,Salvador,2023-05-08
+CLI00271,Cliente 0271,cliente0271@email.exemplo,Fortaleza,2023-11-04
+CLI00272,Cliente 0272,cliente0272@email.exemplo,Brasilia,2023-11-13
+CLI00273,Cliente 0273,cliente0273@email.exemplo,Salvador,2024-02-23
+CLI00274,Cliente 0274,cliente0274@email.exemplo,Belo Horizonte,2024-02-17
+CLI00275,Cliente 0275,cliente0275@email.exemplo,Fortaleza,2023-10-30
+CLI00276,Cliente 0276,cliente0276@email.exemplo,Brasilia,2023-05-11
+CLI00277,Cliente 0277,cliente0277@email.exemplo,Rio de Janeiro,2024-03-06
+CLI00278,Cliente 0278,cliente0278@email.exemplo,Salvador,2024-01-24
+CLI00279,Cliente 0279,cliente0279@email.exemplo,Salvador,2023-06-28
+CLI00280,Cliente 0280,cliente0280@email.exemplo,Recife,2024-08-05
+CLI00281,Cliente 0281,cliente0281@email.exemplo,Rio de Janeiro,2024-02-20
+CLI00282,Cliente 0282,cliente0282@email.exemplo,Brasilia,2023-01-01
+CLI00283,Cliente 0283,cliente0283@email.exemplo,Rio de Janeiro,2023-10-21
+CLI00284,Cliente 0284,cliente0284@email.exemplo,Rio de Janeiro,2024-03-16
+CLI00285,Cliente 0285,cliente0285@email.exemplo,Recife,2024-09-13
+CLI00286,Cliente 0286,cliente0286@email.exemplo,Salvador,2023-11-26
+CLI00287,Cliente 0287,cliente0287@email.exemplo,Curitiba,2024-03-28
+CLI00288,Cliente 0288,cliente0288@email.exemplo,Curitiba,2024-11-22
+CLI00289,Cliente 0289,cliente0289@email.exemplo,Rio de Janeiro,2024-06-07
+CLI00290,Cliente 0290,cliente0290@email.exemplo,Curitiba,2023-06-23
+CLI00291,Cliente 0291,cliente0291@email.exemplo,Salvador,2023-03-28
+CLI00292,Cliente 0292,cliente0292@email.exemplo,Rio de Janeiro,2024-06-11
+CLI00293,Cliente 0293,cliente0293@email.exemplo,Salvador,2024-10-10
+CLI00294,Cliente 0294,cliente0294@email.exemplo,Recife,2023-12-10
+CLI00295,Cliente 0295,cliente0295@email.exemplo,Sao Paulo,2023-08-29
+CLI00296,Cliente 0296,cliente0296@email.exemplo,Salvador,2023-11-14
+CLI00297,Cliente 0297,cliente0297@email.exemplo,Rio de Janeiro,2023-07-23
+CLI00298,Cliente 0298,cliente0298@email.exemplo,Sao Paulo,2023-01-26
+CLI00299,Cliente 0299,cliente0299@email.exemplo,Sao Paulo,2023-09-08
+CLI00300,Cliente 0300,cliente0300@email.exemplo,Curitiba,2024-09-17
+CLI00301,Cliente 0301,cliente0301@email.exemplo,Sao Paulo,2024-04-11
+CLI00302,Cliente 0302,cliente0302@email.exemplo,Porto Alegre,2024-10-06
+CLI00303,Cliente 0303,cliente0303@email.exemplo,Recife,2023-07-19
+CLI00304,Cliente 0304,cliente0304@email.exemplo,Fortaleza,2024-01-29
+CLI00305,Cliente 0305,cliente0305@email.exemplo,Curitiba,2024-02-14
+CLI00306,Cliente 0306,cliente0306@email.exemplo,Rio de Janeiro,2023-06-01
+CLI00307,Cliente 0307,cliente0307@email.exemplo,Salvador,2023-01-06
+CLI00308,Cliente 0308,cliente0308@email.exemplo,Sao Paulo,2024-03-11
+CLI00309,Cliente 0309,cliente0309@email.exemplo,Rio de Janeiro,2023-06-30
+CLI00310,Cliente 0310,cliente0310@email.exemplo,Fortaleza,2024-06-14
+CLI00311,Cliente 0311,cliente0311@email.exemplo,Curitiba,2023-02-21
+CLI00312,Cliente 0312,cliente0312@email.exemplo,Brasilia,2023-09-13
+CLI00313,Cliente 0313,cliente0313@email.exemplo,Sao Paulo,2024-04-12
+CLI00314,Cliente 0314,cliente0314@email.exemplo,Sao Paulo,2024-04-20
+CLI00315,Cliente 0315,cliente0315@email.exemplo,Salvador,2024-06-27
+CLI00316,Cliente 0316,cliente0316@email.exemplo,Brasilia,2024-09-01
+CLI00317,Cliente 0317,cliente0317@email.exemplo,Belo Horizonte,2024-03-29
+CLI00318,Cliente 0318,cliente0318@email.exemplo,Recife,2024-05-31
+CLI00319,Cliente 0319,cliente0319@email.exemplo,Porto Alegre,2024-07-15
+CLI00320,Cliente 0320,cliente0320@email.exemplo,Curitiba,2023-06-12
+CLI00321,Cliente 0321,cliente0321@email.exemplo,Fortaleza,2024-05-01
+CLI00322,Cliente 0322,cliente0322@email.exemplo,Curitiba,2023-09-23
+CLI00323,Cliente 0323,cliente0323@email.exemplo,Rio de Janeiro,2024-10-14
+CLI00324,Cliente 0324,cliente0324@email.exemplo,Rio de Janeiro,2024-06-17
+CLI00325,Cliente 0325,cliente0325@email.exemplo,Curitiba,2024-10-03
+CLI00326,Cliente 0326,cliente0326@email.exemplo,Rio de Janeiro,2023-10-09
+CLI00327,Cliente 0327,cliente0327@email.exemplo,Curitiba,2023-03-21
+CLI00328,Cliente 0328,cliente0328@email.exemplo,Fortaleza,2023-10-20
+CLI00329,Cliente 0329,cliente0329@email.exemplo,Rio de Janeiro,2023-10-06
+CLI00330,Cliente 0330,cliente0330@email.exemplo,Belo Horizonte,2023-11-24
+CLI00331,Cliente 0331,cliente0331@email.exemplo,Brasilia,2023-03-24
+CLI00332,Cliente 0332,cliente0332@email.exemplo,Sao Paulo,2023-06-04
+CLI00333,Cliente 0333,cliente0333@email.exemplo,Rio de Janeiro,2024-01-28
+CLI00334,Cliente 0334,cliente0334@email.exemplo,Fortaleza,2023-06-06
+CLI00335,Cliente 0335,cliente0335@email.exemplo,Fortaleza,2023-08-08
+CLI00336,Cliente 0336,cliente0336@email.exemplo,Sao Paulo,2024-02-29
+CLI00337,Cliente 0337,cliente0337@email.exemplo,Porto Alegre,2023-12-05
+CLI00338,Cliente 0338,cliente0338@email.exemplo,Brasilia,2024-04-22
+CLI00339,Cliente 0339,cliente0339@email.exemplo,Porto Alegre,2023-03-05
+CLI00340,Cliente 0340,cliente0340@email.exemplo,Rio de Janeiro,2024-03-06
+CLI00341,Cliente 0341,cliente0341@email.exemplo,Porto Alegre,2024-08-21
+CLI00342,Cliente 0342,cliente0342@email.exemplo,Fortaleza,2023-01-21
+CLI00343,Cliente 0343,cliente0343@email.exemplo,Recife,2024-01-25
+CLI00344,Cliente 0344,cliente0344@email.exemplo,Curitiba,2023-01-07
+CLI00345,Cliente 0345,cliente0345@email.exemplo,Belo Horizonte,2023-11-02
+CLI00346,Cliente 0346,cliente0346@email.exemplo,Porto Alegre,2024-03-05
+CLI00347,Cliente 0347,cliente0347@email.exemplo,Brasilia,2024-07-13
+CLI00348,Cliente 0348,cliente0348@email.exemplo,Recife,2023-08-14
+CLI00349,Cliente 0349,cliente0349@email.exemplo,Curitiba,2023-08-13
+CLI00350,Cliente 0350,cliente0350@email.exemplo,Rio de Janeiro,2024-03-22
+CLI00351,Cliente 0351,cliente0351@email.exemplo,Curitiba,2023-01-30
+CLI00352,Cliente 0352,cliente0352@email.exemplo,Porto Alegre,2023-12-11
+CLI00353,Cliente 0353,cliente0353@email.exemplo,Salvador,2024-11-26
+CLI00354,Cliente 0354,cliente0354@email.exemplo,Porto Alegre,2023-06-19
+CLI00355,Cliente 0355,cliente0355@email.exemplo,Curitiba,2023-05-11
+CLI00356,Cliente 0356,cliente0356@email.exemplo,Recife,2024-06-30
+CLI00357,Cliente 0357,cliente0357@email.exemplo,Sao Paulo,2024-02-08
+CLI00358,Cliente 0358,cliente0358@email.exemplo,Recife,2024-07-31
+CLI00359,Cliente 0359,cliente0359@email.exemplo,Salvador,2023-01-28
+CLI00360,Cliente 0360,cliente0360@email.exemplo,Sao Paulo,2024-10-20
+CLI00361,Cliente 0361,cliente0361@email.exemplo,Porto Alegre,2023-05-19
+CLI00362,Cliente 0362,cliente0362@email.exemplo,Curitiba,2023-07-06
+CLI00363,Cliente 0363,cliente0363@email.exemplo,Sao Paulo,2023-09-24
+CLI00364,Cliente 0364,cliente0364@email.exemplo,Porto Alegre,2023-12-02
+CLI00365,Cliente 0365,cliente0365@email.exemplo,Rio de Janeiro,2024-04-10
+CLI00366,Cliente 0366,cliente0366@email.exemplo,Belo Horizonte,2023-12-12
+CLI00367,Cliente 0367,cliente0367@email.exemplo,Porto Alegre,2023-10-12
+CLI00368,Cliente 0368,cliente0368@email.exemplo,Porto Alegre,2023-09-16
+CLI00369,Cliente 0369,cliente0369@email.exemplo,Sao Paulo,2024-04-26
+CLI00370,Cliente 0370,cliente0370@email.exemplo,Sao Paulo,2024-07-06
+CLI00371,Cliente 0371,cliente0371@email.exemplo,Sao Paulo,2023-12-25
+CLI00372,Cliente 0372,cliente0372@email.exemplo,Rio de Janeiro,2024-10-27
+CLI00373,Cliente 0373,cliente0373@email.exemplo,Sao Paulo,2024-10-29
+CLI00374,Cliente 0374,cliente0374@email.exemplo,Sao Paulo,2023-02-01
+CLI00375,Cliente 0375,cliente0375@email.exemplo,Rio de Janeiro,2023-07-24
+CLI00376,Cliente 0376,cliente0376@email.exemplo,Sao Paulo,2024-09-28
+CLI00377,Cliente 0377,cliente0377@email.exemplo,Sao Paulo,2023-09-02
+CLI00378,Cliente 0378,cliente0378@email.exemplo,Sao Paulo,2024-04-29
+CLI00379,Cliente 0379,cliente0379@email.exemplo,Salvador,2023-04-28
+CLI00380,Cliente 0380,cliente0380@email.exemplo,Recife,2023-08-12
+CLI00381,Cliente 0381,cliente0381@email.exemplo,Curitiba,2023-09-20
+CLI00382,Cliente 0382,cliente0382@email.exemplo,Belo Horizonte,2023-06-21
+CLI00383,Cliente 0383,cliente0383@email.exemplo,Recife,2024-09-13
+CLI00384,Cliente 0384,cliente0384@email.exemplo,Fortaleza,2023-04-28
+CLI00385,Cliente 0385,cliente0385@email.exemplo,Sao Paulo,2023-11-15
+CLI00386,Cliente 0386,cliente0386@email.exemplo,Sao Paulo,2024-08-15
+CLI00387,Cliente 0387,cliente0387@email.exemplo,Sao Paulo,2023-11-16
+CLI00388,Cliente 0388,cliente0388@email.exemplo,Recife,2024-11-24
+CLI00389,Cliente 0389,cliente0389@email.exemplo,Porto Alegre,2024-02-11
+CLI00390,Cliente 0390,cliente0390@email.exemplo,Fortaleza,2023-07-23
+CLI00391,Cliente 0391,cliente0391@email.exemplo,Sao Paulo,2024-08-29
+CLI00392,Cliente 0392,cliente0392@email.exemplo,Fortaleza,2024-10-04
+CLI00393,Cliente 0393,cliente0393@email.exemplo,Rio de Janeiro,2023-04-15
+CLI00394,Cliente 0394,cliente0394@email.exemplo,Fortaleza,2023-11-05
+CLI00395,Cliente 0395,cliente0395@email.exemplo,Salvador,2024-09-06
+CLI00396,Cliente 0396,cliente0396@email.exemplo,Sao Paulo,2024-08-02
+CLI00397,Cliente 0397,cliente0397@email.exemplo,Sao Paulo,2023-12-22
+CLI00398,Cliente 0398,cliente0398@email.exemplo,Brasilia,2024-03-14
+CLI00399,Cliente 0399,cliente0399@email.exemplo,Salvador,2024-01-15
+CLI00400,Cliente 0400,cliente0400@email.exemplo,Sao Paulo,2024-06-02
+CLI00401,Cliente 0401,cliente0401@email.exemplo,Salvador,2023-12-16
+CLI00402,Cliente 0402,cliente0402@email.exemplo,Sao Paulo,2024-03-06
+CLI00403,Cliente 0403,cliente0403@email.exemplo,Curitiba,2023-04-19
+CLI00404,Cliente 0404,cliente0404@email.exemplo,Porto Alegre,2024-01-06
+CLI00405,Cliente 0405,cliente0405@email.exemplo,Salvador,2024-04-15
+CLI00406,Cliente 0406,cliente0406@email.exemplo,Fortaleza,2023-06-06
+CLI00407,Cliente 0407,cliente0407@email.exemplo,Porto Alegre,2023-06-30
+CLI00408,Cliente 0408,cliente0408@email.exemplo,Fortaleza,2024-06-18
+CLI00409,Cliente 0409,cliente0409@email.exemplo,Salvador,2023-10-04
+CLI00410,Cliente 0410,cliente0410@email.exemplo,Recife,2024-07-05
+CLI00411,Cliente 0411,cliente0411@email.exemplo,Curitiba,2024-04-21
+CLI00412,Cliente 0412,cliente0412@email.exemplo,Porto Alegre,2024-08-29
+CLI00413,Cliente 0413,cliente0413@email.exemplo,Rio de Janeiro,2023-11-27
+CLI00414,Cliente 0414,cliente0414@email.exemplo,Rio de Janeiro,2023-03-30
+CLI00415,Cliente 0415,cliente0415@email.exemplo,Rio de Janeiro,2024-04-06
+CLI00416,Cliente 0416,cliente0416@email.exemplo,Rio de Janeiro,2024-04-20
+CLI00417,Cliente 0417,cliente0417@email.exemplo,Recife,2024-09-16
+CLI00418,Cliente 0418,cliente0418@email.exemplo,Salvador,2024-01-24
+CLI00419,Cliente 0419,cliente0419@email.exemplo,Belo Horizonte,2023-01-30
+CLI00420,Cliente 0420,cliente0420@email.exemplo,Curitiba,2023-11-29
+CLI00421,Cliente 0421,cliente0421@email.exemplo,Sao Paulo,2024-05-14
+CLI00422,Cliente 0422,cliente0422@email.exemplo,Rio de Janeiro,2023-12-30
+CLI00423,Cliente 0423,cliente0423@email.exemplo,Rio de Janeiro,2023-12-15
+CLI00424,Cliente 0424,cliente0424@email.exemplo,Rio de Janeiro,2024-09-02
+CLI00425,Cliente 0425,cliente0425@email.exemplo,Fortaleza,2023-10-10
+CLI00426,Cliente 0426,cliente0426@email.exemplo,Brasilia,2023-01-11
+CLI00427,Cliente 0427,cliente0427@email.exemplo,Brasilia,2023-07-15
+CLI00428,Cliente 0428,cliente0428@email.exemplo,Sao Paulo,2023-09-05
+CLI00429,Cliente 0429,cliente0429@email.exemplo,Fortaleza,2024-02-21
+CLI00430,Cliente 0430,cliente0430@email.exemplo,Curitiba,2024-07-22
+CLI00431,Cliente 0431,cliente0431@email.exemplo,Rio de Janeiro,2024-05-02
+CLI00432,Cliente 0432,cliente0432@email.exemplo,Salvador,2024-05-17
+CLI00433,Cliente 0433,cliente0433@email.exemplo,Curitiba,2023-01-18
+CLI00434,Cliente 0434,cliente0434@email.exemplo,Sao Paulo,2023-10-29
+CLI00435,Cliente 0435,cliente0435@email.exemplo,Rio de Janeiro,2024-02-19
+CLI00436,Cliente 0436,cliente0436@email.exemplo,Fortaleza,2023-09-07
+CLI00437,Cliente 0437,cliente0437@email.exemplo,Rio de Janeiro,2024-11-10
+CLI00438,Cliente 0438,cliente0438@email.exemplo,Recife,2024-01-13
+CLI00439,Cliente 0439,cliente0439@email.exemplo,Curitiba,2024-07-20
+CLI00440,Cliente 0440,cliente0440@email.exemplo,Brasilia,2023-12-19
+CLI00441,Cliente 0441,cliente0441@email.exemplo,Porto Alegre,2024-07-17
+CLI00442,Cliente 0442,cliente0442@email.exemplo,Belo Horizonte,2023-12-27
+CLI00443,Cliente 0443,cliente0443@email.exemplo,Fortaleza,2024-04-09
+CLI00444,Cliente 0444,cliente0444@email.exemplo,Rio de Janeiro,2023-11-10
+CLI00445,Cliente 0445,cliente0445@email.exemplo,Rio de Janeiro,2023-08-25
+CLI00446,Cliente 0446,cliente0446@email.exemplo,Sao Paulo,2023-07-17
+CLI00447,Cliente 0447,cliente0447@email.exemplo,Belo Horizonte,2023-05-03
+CLI00448,Cliente 0448,cliente0448@email.exemplo,Fortaleza,2024-07-02
+CLI00449,Cliente 0449,cliente0449@email.exemplo,Fortaleza,2023-07-09
+CLI00450,Cliente 0450,cliente0450@email.exemplo,Rio de Janeiro,2023-08-10
+CLI00451,Cliente 0451,cliente0451@email.exemplo,Fortaleza,2024-05-10
+CLI00452,Cliente 0452,cliente0452@email.exemplo,Rio de Janeiro,2024-08-26
+CLI00453,Cliente 0453,cliente0453@email.exemplo,Brasilia,2024-09-03
+CLI00454,Cliente 0454,cliente0454@email.exemplo,Rio de Janeiro,2023-04-13
+CLI00455,Cliente 0455,cliente0455@email.exemplo,Rio de Janeiro,2023-10-31
+CLI00456,Cliente 0456,cliente0456@email.exemplo,Rio de Janeiro,2024-01-05
+CLI00457,Cliente 0457,cliente0457@email.exemplo,Sao Paulo,2023-11-06
+CLI00458,Cliente 0458,cliente0458@email.exemplo,Sao Paulo,2024-06-30
+CLI00459,Cliente 0459,cliente0459@email.exemplo,Sao Paulo,2023-10-08
+CLI00460,Cliente 0460,cliente0460@email.exemplo,Sao Paulo,2023-02-25
+CLI00461,Cliente 0461,cliente0461@email.exemplo,Brasilia,2023-10-27
+CLI00462,Cliente 0462,cliente0462@email.exemplo,Fortaleza,2023-05-10
+CLI00463,Cliente 0463,cliente0463@email.exemplo,Salvador,2024-05-17
+CLI00464,Cliente 0464,cliente0464@email.exemplo,Sao Paulo,2023-01-13
+CLI00465,Cliente 0465,cliente0465@email.exemplo,Recife,2023-10-19
+CLI00466,Cliente 0466,cliente0466@email.exemplo,Curitiba,2024-05-05
+CLI00467,Cliente 0467,cliente0467@email.exemplo,Curitiba,2023-12-15
+CLI00468,Cliente 0468,cliente0468@email.exemplo,Sao Paulo,2023-02-22
+CLI00469,Cliente 0469,cliente0469@email.exemplo,Rio de Janeiro,2024-05-04
+CLI00470,Cliente 0470,cliente0470@email.exemplo,Sao Paulo,2023-03-08
+CLI00471,Cliente 0471,cliente0471@email.exemplo,Porto Alegre,2024-05-18
+CLI00472,Cliente 0472,cliente0472@email.exemplo,Sao Paulo,2024-08-13
+CLI00473,Cliente 0473,cliente0473@email.exemplo,Salvador,2023-02-24
+CLI00474,Cliente 0474,cliente0474@email.exemplo,Sao Paulo,2023-06-02
+CLI00475,Cliente 0475,cliente0475@email.exemplo,Recife,2023-11-08
+CLI00476,Cliente 0476,cliente0476@email.exemplo,Sao Paulo,2023-09-12
+CLI00477,Cliente 0477,cliente0477@email.exemplo,Sao Paulo,2024-07-25
+CLI00478,Cliente 0478,cliente0478@email.exemplo,Porto Alegre,2024-09-12
+CLI00479,Cliente 0479,cliente0479@email.exemplo,Recife,2024-09-25
+CLI00480,Cliente 0480,cliente0480@email.exemplo,Rio de Janeiro,2024-06-19
+CLI00481,Cliente 0481,cliente0481@email.exemplo,Porto Alegre,2024-04-06
+CLI00482,Cliente 0482,cliente0482@email.exemplo,Curitiba,2023-11-01
+CLI00483,Cliente 0483,cliente0483@email.exemplo,Recife,2024-03-15
+CLI00484,Cliente 0484,cliente0484@email.exemplo,Rio de Janeiro,2024-08-05
+CLI00485,Cliente 0485,cliente0485@email.exemplo,Recife,2023-03-03
+CLI00486,Cliente 0486,cliente0486@email.exemplo,Recife,2023-04-12
+CLI00487,Cliente 0487,cliente0487@email.exemplo,Rio de Janeiro,2024-10-02
+CLI00488,Cliente 0488,cliente0488@email.exemplo,Rio de Janeiro,2023-09-28
+CLI00489,Cliente 0489,cliente0489@email.exemplo,Salvador,2023-03-25
+CLI00490,Cliente 0490,cliente0490@email.exemplo,Sao Paulo,2023-09-03
+CLI00491,Cliente 0491,cliente0491@email.exemplo,Sao Paulo,2024-07-19
+CLI00492,Cliente 0492,cliente0492@email.exemplo,Sao Paulo,2023-06-10
+CLI00493,Cliente 0493,cliente0493@email.exemplo,Sao Paulo,2024-02-23
+CLI00494,Cliente 0494,cliente0494@email.exemplo,Curitiba,2024-08-31
+CLI00495,Cliente 0495,cliente0495@email.exemplo,Curitiba,2023-10-26
+CLI00496,Cliente 0496,cliente0496@email.exemplo,Sao Paulo,2023-08-26
+CLI00497,Cliente 0497,cliente0497@email.exemplo,Rio de Janeiro,2023-10-17
+CLI00498,Cliente 0498,cliente0498@email.exemplo,Fortaleza,2024-04-09
+CLI00499,Cliente 0499,cliente0499@email.exemplo,Sao Paulo,2023-08-28
+CLI00500,Cliente 0500,cliente0500@email.exemplo,Rio de Janeiro,2024-10-02
+CLI00501,Cliente 0501,cliente0501@email.exemplo,Recife,2024-11-08
+CLI00502,Cliente 0502,cliente0502@email.exemplo,Rio de Janeiro,2024-03-11
+CLI00503,Cliente 0503,cliente0503@email.exemplo,Sao Paulo,2024-07-11
+CLI00504,Cliente 0504,cliente0504@email.exemplo,Rio de Janeiro,2024-10-25
+CLI00505,Cliente 0505,cliente0505@email.exemplo,Sao Paulo,2023-09-30
+CLI00506,Cliente 0506,cliente0506@email.exemplo,Sao Paulo,2023-03-15
+CLI00507,Cliente 0507,cliente0507@email.exemplo,Sao Paulo,2023-06-19
+CLI00508,Cliente 0508,cliente0508@email.exemplo,Rio de Janeiro,2024-09-01
+CLI00509,Cliente 0509,cliente0509@email.exemplo,Fortaleza,2024-08-05
+CLI00510,Cliente 0510,cliente0510@email.exemplo,Rio de Janeiro,2024-03-25
+CLI00511,Cliente 0511,cliente0511@email.exemplo,Sao Paulo,2024-04-24
+CLI00512,Cliente 0512,cliente0512@email.exemplo,Fortaleza,2023-11-08
+CLI00513,Cliente 0513,cliente0513@email.exemplo,Fortaleza,2024-02-17
+CLI00514,Cliente 0514,cliente0514@email.exemplo,Rio de Janeiro,2024-05-27
+CLI00515,Cliente 0515,cliente0515@email.exemplo,Brasilia,2024-05-20
+CLI00516,Cliente 0516,cliente0516@email.exemplo,Curitiba,2023-03-24
+CLI00517,Cliente 0517,cliente0517@email.exemplo,Recife,2023-02-10
+CLI00518,Cliente 0518,cliente0518@email.exemplo,Porto Alegre,2023-11-27
+CLI00519,Cliente 0519,cliente0519@email.exemplo,Recife,2023-09-14
+CLI00520,Cliente 0520,cliente0520@email.exemplo,Sao Paulo,2023-04-04
+CLI00521,Cliente 0521,cliente0521@email.exemplo,Rio de Janeiro,2024-11-21
+CLI00522,Cliente 0522,cliente0522@email.exemplo,Recife,2024-08-24
+CLI00523,Cliente 0523,cliente0523@email.exemplo,Sao Paulo,2024-11-19
+CLI00524,Cliente 0524,cliente0524@email.exemplo,Rio de Janeiro,2024-08-13
+CLI00525,Cliente 0525,cliente0525@email.exemplo,Sao Paulo,2023-06-29
+CLI00526,Cliente 0526,cliente0526@email.exemplo,Curitiba,2024-06-15
+CLI00527,Cliente 0527,cliente0527@email.exemplo,Salvador,2024-03-28
+CLI00528,Cliente 0528,cliente0528@email.exemplo,Rio de Janeiro,2023-07-05
+CLI00529,Cliente 0529,cliente0529@email.exemplo,Recife,2024-03-22
+CLI00530,Cliente 0530,cliente0530@email.exemplo,Salvador,2024-05-18
+CLI00531,Cliente 0531,cliente0531@email.exemplo,Sao Paulo,2024-04-26
+CLI00532,Cliente 0532,cliente0532@email.exemplo,Belo Horizonte,2024-02-23
+CLI00533,Cliente 0533,cliente0533@email.exemplo,Belo Horizonte,2023-11-25
+CLI00534,Cliente 0534,cliente0534@email.exemplo,Salvador,2023-04-18
+CLI00535,Cliente 0535,cliente0535@email.exemplo,Sao Paulo,2023-12-04
+CLI00536,Cliente 0536,cliente0536@email.exemplo,Porto Alegre,2024-05-22
+CLI00537,Cliente 0537,cliente0537@email.exemplo,Rio de Janeiro,2024-11-09
+CLI00538,Cliente 0538,cliente0538@email.exemplo,Porto Alegre,2024-07-17
+CLI00539,Cliente 0539,cliente0539@email.exemplo,Sao Paulo,2024-04-10
+CLI00540,Cliente 0540,cliente0540@email.exemplo,Sao Paulo,2023-11-19
+CLI00541,Cliente 0541,cliente0541@email.exemplo,Rio de Janeiro,2023-11-28
+CLI00542,Cliente 0542,cliente0542@email.exemplo,Sao Paulo,2024-02-18
+CLI00543,Cliente 0543,cliente0543@email.exemplo,Brasilia,2023-01-02
+CLI00544,Cliente 0544,cliente0544@email.exemplo,Salvador,2024-07-09
+CLI00545,Cliente 0545,cliente0545@email.exemplo,Curitiba,2024-02-28
+CLI00546,Cliente 0546,cliente0546@email.exemplo,Sao Paulo,2023-07-12
+CLI00547,Cliente 0547,cliente0547@email.exemplo,Brasilia,2024-01-06
+CLI00548,Cliente 0548,cliente0548@email.exemplo,Recife,2024-05-25
+CLI00549,Cliente 0549,cliente0549@email.exemplo,Salvador,2024-03-28
+CLI00550,Cliente 0550,cliente0550@email.exemplo,Sao Paulo,2023-07-28
+CLI00551,Cliente 0551,cliente0551@email.exemplo,Rio de Janeiro,2024-07-16
+CLI00552,Cliente 0552,cliente0552@email.exemplo,Sao Paulo,2023-10-22
+CLI00553,Cliente 0553,cliente0553@email.exemplo,Curitiba,2024-05-11
+CLI00554,Cliente 0554,cliente0554@email.exemplo,Sao Paulo,2023-01-30
+CLI00555,Cliente 0555,cliente0555@email.exemplo,Salvador,2024-09-15
+CLI00556,Cliente 0556,cliente0556@email.exemplo,Rio de Janeiro,2023-06-12
+CLI00557,Cliente 0557,cliente0557@email.exemplo,Rio de Janeiro,2024-07-18
+CLI00558,Cliente 0558,cliente0558@email.exemplo,Sao Paulo,2024-07-19
+CLI00559,Cliente 0559,cliente0559@email.exemplo,Porto Alegre,2023-04-06
+CLI00560,Cliente 0560,cliente0560@email.exemplo,Rio de Janeiro,2023-04-27
+CLI00561,Cliente 0561,cliente0561@email.exemplo,Curitiba,2023-05-01
+CLI00562,Cliente 0562,cliente0562@email.exemplo,Salvador,2023-06-07
+CLI00563,Cliente 0563,cliente0563@email.exemplo,Curitiba,2023-10-26
+CLI00564,Cliente 0564,cliente0564@email.exemplo,Brasilia,2023-10-07
+CLI00565,Cliente 0565,cliente0565@email.exemplo,Porto Alegre,2024-05-09
+CLI00566,Cliente 0566,cliente0566@email.exemplo,Curitiba,2023-09-07
+CLI00567,Cliente 0567,cliente0567@email.exemplo,Curitiba,2024-07-18
+CLI00568,Cliente 0568,cliente0568@email.exemplo,Sao Paulo,2024-01-28
+CLI00569,Cliente 0569,cliente0569@email.exemplo,Rio de Janeiro,2024-09-05
+CLI00570,Cliente 0570,cliente0570@email.exemplo,Brasilia,2023-05-20
+CLI00571,Cliente 0571,cliente0571@email.exemplo,Sao Paulo,2023-10-10
+CLI00572,Cliente 0572,cliente0572@email.exemplo,Porto Alegre,2023-12-15
+CLI00573,Cliente 0573,cliente0573@email.exemplo,Brasilia,2023-10-01
+CLI00574,Cliente 0574,cliente0574@email.exemplo,Sao Paulo,2023-10-17
+CLI00575,Cliente 0575,cliente0575@email.exemplo,Fortaleza,2023-11-02
+CLI00576,Cliente 0576,cliente0576@email.exemplo,Recife,2024-08-16
+CLI00577,Cliente 0577,cliente0577@email.exemplo,Salvador,2024-05-16
+CLI00578,Cliente 0578,cliente0578@email.exemplo,Sao Paulo,2024-04-02
+CLI00579,Cliente 0579,cliente0579@email.exemplo,Brasilia,2024-05-10
+CLI00580,Cliente 0580,cliente0580@email.exemplo,Belo Horizonte,2023-12-07
+CLI00581,Cliente 0581,cliente0581@email.exemplo,Brasilia,2024-07-10
+CLI00582,Cliente 0582,cliente0582@email.exemplo,Porto Alegre,2024-04-11
+CLI00583,Cliente 0583,cliente0583@email.exemplo,Belo Horizonte,2023-07-13
+CLI00584,Cliente 0584,cliente0584@email.exemplo,Fortaleza,2023-09-02
+CLI00585,Cliente 0585,cliente0585@email.exemplo,Recife,2024-01-28
+CLI00586,Cliente 0586,cliente0586@email.exemplo,Rio de Janeiro,2024-02-25
+CLI00587,Cliente 0587,cliente0587@email.exemplo,Sao Paulo,2023-11-22
+CLI00588,Cliente 0588,cliente0588@email.exemplo,Fortaleza,2024-04-29
+CLI00589,Cliente 0589,cliente0589@email.exemplo,Fortaleza,2024-01-26
+CLI00590,Cliente 0590,cliente0590@email.exemplo,Porto Alegre,2024-11-10
+CLI00591,Cliente 0591,cliente0591@email.exemplo,Salvador,2023-06-05
+CLI00592,Cliente 0592,cliente0592@email.exemplo,Curitiba,2023-02-07
+CLI00593,Cliente 0593,cliente0593@email.exemplo,Sao Paulo,2024-05-29
+CLI00594,Cliente 0594,cliente0594@email.exemplo,Recife,2023-12-06
+CLI00595,Cliente 0595,cliente0595@email.exemplo,Sao Paulo,2024-03-26
+CLI00596,Cliente 0596,cliente0596@email.exemplo,Sao Paulo,2024-06-22
+CLI00597,Cliente 0597,cliente0597@email.exemplo,Curitiba,2023-01-16
+CLI00598,Cliente 0598,cliente0598@email.exemplo,Fortaleza,2023-05-28
+CLI00599,Cliente 0599,cliente0599@email.exemplo,Porto Alegre,2024-11-01
+CLI00600,Cliente 0600,cliente0600@email.exemplo,Sao Paulo,2023-03-18
+CLI00601,Cliente 0601,cliente0601@email.exemplo,Curitiba,2023-09-29
+CLI00602,Cliente 0602,cliente0602@email.exemplo,Belo Horizonte,2024-09-30
+CLI00603,Cliente 0603,cliente0603@email.exemplo,Fortaleza,2024-02-12
+CLI00604,Cliente 0604,cliente0604@email.exemplo,Salvador,2023-03-24
+CLI00605,Cliente 0605,cliente0605@email.exemplo,Belo Horizonte,2024-11-21
+CLI00606,Cliente 0606,cliente0606@email.exemplo,Brasilia,2024-01-25
+CLI00607,Cliente 0607,cliente0607@email.exemplo,Belo Horizonte,2024-10-03
+CLI00608,Cliente 0608,cliente0608@email.exemplo,Fortaleza,2024-05-14
+CLI00609,Cliente 0609,cliente0609@email.exemplo,Brasilia,2023-02-06
+CLI00610,Cliente 0610,cliente0610@email.exemplo,Recife,2023-03-12
+CLI00611,Cliente 0611,cliente0611@email.exemplo,Rio de Janeiro,2024-10-08
+CLI00612,Cliente 0612,cliente0612@email.exemplo,Salvador,2023-10-22
+CLI00613,Cliente 0613,cliente0613@email.exemplo,Rio de Janeiro,2023-04-03
+CLI00614,Cliente 0614,cliente0614@email.exemplo,Porto Alegre,2023-04-11
+CLI00615,Cliente 0615,cliente0615@email.exemplo,Salvador,2023-04-13
+CLI00616,Cliente 0616,cliente0616@email.exemplo,Curitiba,2023-06-20
+CLI00617,Cliente 0617,cliente0617@email.exemplo,Fortaleza,2023-11-03
+CLI00618,Cliente 0618,cliente0618@email.exemplo,Sao Paulo,2023-02-17
+CLI00619,Cliente 0619,cliente0619@email.exemplo,Belo Horizonte,2023-02-27
+CLI00620,Cliente 0620,cliente0620@email.exemplo,Rio de Janeiro,2024-01-03
+CLI00621,Cliente 0621,cliente0621@email.exemplo,Belo Horizonte,2024-03-17
+CLI00622,Cliente 0622,cliente0622@email.exemplo,Sao Paulo,2023-09-08
+CLI00623,Cliente 0623,cliente0623@email.exemplo,Brasilia,2024-02-26
+CLI00624,Cliente 0624,cliente0624@email.exemplo,Recife,2024-11-29
+CLI00625,Cliente 0625,cliente0625@email.exemplo,Sao Paulo,2023-06-24
+CLI00626,Cliente 0626,cliente0626@email.exemplo,Sao Paulo,2023-03-22
+CLI00627,Cliente 0627,cliente0627@email.exemplo,Recife,2024-01-27
+CLI00628,Cliente 0628,cliente0628@email.exemplo,Recife,2024-11-30
+CLI00629,Cliente 0629,cliente0629@email.exemplo,Rio de Janeiro,2024-05-24
+CLI00630,Cliente 0630,cliente0630@email.exemplo,Recife,2023-05-27
+CLI00631,Cliente 0631,cliente0631@email.exemplo,Rio de Janeiro,2024-04-17
+CLI00632,Cliente 0632,cliente0632@email.exemplo,Salvador,2023-09-18
+CLI00633,Cliente 0633,cliente0633@email.exemplo,Curitiba,2023-09-19
+CLI00634,Cliente 0634,cliente0634@email.exemplo,Salvador,2023-01-10
+CLI00635,Cliente 0635,cliente0635@email.exemplo,Curitiba,2023-10-22
+CLI00636,Cliente 0636,cliente0636@email.exemplo,Salvador,2024-07-13
+CLI00637,Cliente 0637,cliente0637@email.exemplo,Sao Paulo,2023-03-17
+CLI00638,Cliente 0638,cliente0638@email.exemplo,Curitiba,2023-12-20
+CLI00639,Cliente 0639,cliente0639@email.exemplo,Recife,2023-11-03
+CLI00640,Cliente 0640,cliente0640@email.exemplo,Salvador,2024-03-10
+CLI00641,Cliente 0641,cliente0641@email.exemplo,Fortaleza,2023-09-14
+CLI00642,Cliente 0642,cliente0642@email.exemplo,Curitiba,2023-11-06
+CLI00643,Cliente 0643,cliente0643@email.exemplo,Rio de Janeiro,2024-01-29
+CLI00644,Cliente 0644,cliente0644@email.exemplo,Curitiba,2023-04-20
+CLI00645,Cliente 0645,cliente0645@email.exemplo,Rio de Janeiro,2024-01-26
+CLI00646,Cliente 0646,cliente0646@email.exemplo,Recife,2024-01-03
+CLI00647,Cliente 0647,cliente0647@email.exemplo,Recife,2023-10-30
+CLI00648,Cliente 0648,cliente0648@email.exemplo,Fortaleza,2023-10-30
+CLI00649,Cliente 0649,cliente0649@email.exemplo,Sao Paulo,2024-11-05
+CLI00650,Cliente 0650,cliente0650@email.exemplo,Porto Alegre,2023-10-09
+CLI00651,Cliente 0651,cliente0651@email.exemplo,Sao Paulo,2024-08-02
+CLI00652,Cliente 0652,cliente0652@email.exemplo,Salvador,2023-02-20
+CLI00653,Cliente 0653,cliente0653@email.exemplo,Recife,2024-05-23
+CLI00654,Cliente 0654,cliente0654@email.exemplo,Rio de Janeiro,2023-08-24
+CLI00655,Cliente 0655,cliente0655@email.exemplo,Recife,2023-12-27
+CLI00656,Cliente 0656,cliente0656@email.exemplo,Rio de Janeiro,2024-10-13
+CLI00657,Cliente 0657,cliente0657@email.exemplo,Rio de Janeiro,2024-09-27
+CLI00658,Cliente 0658,cliente0658@email.exemplo,Rio de Janeiro,2024-11-25
+CLI00659,Cliente 0659,cliente0659@email.exemplo,Fortaleza,2024-11-06
+CLI00660,Cliente 0660,cliente0660@email.exemplo,Salvador,2023-05-21
+CLI00661,Cliente 0661,cliente0661@email.exemplo,Salvador,2023-04-10
+CLI00662,Cliente 0662,cliente0662@email.exemplo,Salvador,2024-10-23
+CLI00663,Cliente 0663,cliente0663@email.exemplo,Sao Paulo,2023-11-13
+CLI00664,Cliente 0664,cliente0664@email.exemplo,Curitiba,2023-02-04
+CLI00665,Cliente 0665,cliente0665@email.exemplo,Recife,2024-01-09
+CLI00666,Cliente 0666,cliente0666@email.exemplo,Fortaleza,2023-05-15
+CLI00667,Cliente 0667,cliente0667@email.exemplo,Sao Paulo,2023-10-30
+CLI00668,Cliente 0668,cliente0668@email.exemplo,Belo Horizonte,2024-03-01
+CLI00669,Cliente 0669,cliente0669@email.exemplo,Sao Paulo,2023-07-25
+CLI00670,Cliente 0670,cliente0670@email.exemplo,Sao Paulo,2024-07-06
+CLI00671,Cliente 0671,cliente0671@email.exemplo,Belo Horizonte,2024-06-27
+CLI00672,Cliente 0672,cliente0672@email.exemplo,Brasilia,2023-10-07
+CLI00673,Cliente 0673,cliente0673@email.exemplo,Sao Paulo,2023-09-21
+CLI00674,Cliente 0674,cliente0674@email.exemplo,Curitiba,2023-10-30
+CLI00675,Cliente 0675,cliente0675@email.exemplo,Fortaleza,2023-12-13
+CLI00676,Cliente 0676,cliente0676@email.exemplo,Sao Paulo,2024-04-24
+CLI00677,Cliente 0677,cliente0677@email.exemplo,Sao Paulo,2023-05-25
+CLI00678,Cliente 0678,cliente0678@email.exemplo,Rio de Janeiro,2024-11-23
+CLI00679,Cliente 0679,cliente0679@email.exemplo,Fortaleza,2024-11-21
+CLI00680,Cliente 0680,cliente0680@email.exemplo,Porto Alegre,2024-07-24
+CLI00681,Cliente 0681,cliente0681@email.exemplo,Belo Horizonte,2023-04-03
+CLI00682,Cliente 0682,cliente0682@email.exemplo,Porto Alegre,2023-01-15
+CLI00683,Cliente 0683,cliente0683@email.exemplo,Rio de Janeiro,2024-07-03
+CLI00684,Cliente 0684,cliente0684@email.exemplo,Sao Paulo,2024-04-10
+CLI00685,Cliente 0685,cliente0685@email.exemplo,Belo Horizonte,2024-11-19
+CLI00686,Cliente 0686,cliente0686@email.exemplo,Fortaleza,2024-11-19
+CLI00687,Cliente 0687,cliente0687@email.exemplo,Rio de Janeiro,2024-08-21
+CLI00688,Cliente 0688,cliente0688@email.exemplo,Porto Alegre,2024-10-15
+CLI00689,Cliente 0689,cliente0689@email.exemplo,Belo Horizonte,2023-04-21
+CLI00690,Cliente 0690,cliente0690@email.exemplo,Salvador,2023-08-28
+CLI00691,Cliente 0691,cliente0691@email.exemplo,Curitiba,2023-01-26
+CLI00692,Cliente 0692,cliente0692@email.exemplo,Recife,2024-07-28
+CLI00693,Cliente 0693,cliente0693@email.exemplo,Belo Horizonte,2024-09-16
+CLI00694,Cliente 0694,cliente0694@email.exemplo,Rio de Janeiro,2024-10-25
+CLI00695,Cliente 0695,cliente0695@email.exemplo,Sao Paulo,2024-10-12
+CLI00696,Cliente 0696,cliente0696@email.exemplo,Curitiba,2023-11-06
+CLI00697,Cliente 0697,cliente0697@email.exemplo,Salvador,2024-02-23
+CLI00698,Cliente 0698,cliente0698@email.exemplo,Sao Paulo,2023-05-24
+CLI00699,Cliente 0699,cliente0699@email.exemplo,Sao Paulo,2023-02-08
+CLI00700,Cliente 0700,cliente0700@email.exemplo,Rio de Janeiro,2024-05-19
+CLI00701,Cliente 0701,cliente0701@email.exemplo,Sao Paulo,2023-04-10
+CLI00702,Cliente 0702,cliente0702@email.exemplo,Rio de Janeiro,2024-07-04
+CLI00703,Cliente 0703,cliente0703@email.exemplo,Sao Paulo,2024-02-02
+CLI00704,Cliente 0704,cliente0704@email.exemplo,Curitiba,2024-01-15
+CLI00705,Cliente 0705,cliente0705@email.exemplo,Salvador,2024-07-07
+CLI00706,Cliente 0706,cliente0706@email.exemplo,Porto Alegre,2024-08-24
+CLI00707,Cliente 0707,cliente0707@email.exemplo,Fortaleza,2023-06-08
+CLI00708,Cliente 0708,cliente0708@email.exemplo,Porto Alegre,2024-11-01
+CLI00709,Cliente 0709,cliente0709@email.exemplo,Sao Paulo,2024-05-16
+CLI00710,Cliente 0710,cliente0710@email.exemplo,Recife,2024-02-22
+CLI00711,Cliente 0711,cliente0711@email.exemplo,Rio de Janeiro,2023-02-03
+CLI00712,Cliente 0712,cliente0712@email.exemplo,Fortaleza,2024-01-15
+CLI00713,Cliente 0713,cliente0713@email.exemplo,Rio de Janeiro,2024-03-30
+CLI00714,Cliente 0714,cliente0714@email.exemplo,Curitiba,2023-08-30
+CLI00715,Cliente 0715,cliente0715@email.exemplo,Belo Horizonte,2023-04-12
+CLI00716,Cliente 0716,cliente0716@email.exemplo,Salvador,2024-01-12
+CLI00717,Cliente 0717,cliente0717@email.exemplo,Brasilia,2024-10-22
+CLI00718,Cliente 0718,cliente0718@email.exemplo,Belo Horizonte,2023-03-04
+CLI00719,Cliente 0719,cliente0719@email.exemplo,Porto Alegre,2023-10-10
+CLI00720,Cliente 0720,cliente0720@email.exemplo,Rio de Janeiro,2023-05-06
+CLI00721,Cliente 0721,cliente0721@email.exemplo,Curitiba,2023-04-04
+CLI00722,Cliente 0722,cliente0722@email.exemplo,Salvador,2023-08-06
+CLI00723,Cliente 0723,cliente0723@email.exemplo,Salvador,2024-10-16
+CLI00724,Cliente 0724,cliente0724@email.exemplo,Recife,2023-01-22
+CLI00725,Cliente 0725,cliente0725@email.exemplo,Sao Paulo,2023-12-08
+CLI00726,Cliente 0726,cliente0726@email.exemplo,Rio de Janeiro,2023-05-09
+CLI00727,Cliente 0727,cliente0727@email.exemplo,Recife,2023-07-30
+CLI00728,Cliente 0728,cliente0728@email.exemplo,Sao Paulo,2024-07-21
+CLI00729,Cliente 0729,cliente0729@email.exemplo,Rio de Janeiro,2024-08-23
+CLI00730,Cliente 0730,cliente0730@email.exemplo,Rio de Janeiro,2023-08-27
+CLI00731,Cliente 0731,cliente0731@email.exemplo,Belo Horizonte,2023-06-01
+CLI00732,Cliente 0732,cliente0732@email.exemplo,Recife,2023-01-03
+CLI00733,Cliente 0733,cliente0733@email.exemplo,Rio de Janeiro,2023-05-29
+CLI00734,Cliente 0734,cliente0734@email.exemplo,Sao Paulo,2024-07-07
+CLI00735,Cliente 0735,cliente0735@email.exemplo,Rio de Janeiro,2023-06-28
+CLI00736,Cliente 0736,cliente0736@email.exemplo,Sao Paulo,2024-11-07
+CLI00737,Cliente 0737,cliente0737@email.exemplo,Sao Paulo,2023-05-15
+CLI00738,Cliente 0738,cliente0738@email.exemplo,Sao Paulo,2024-01-02
+CLI00739,Cliente 0739,cliente0739@email.exemplo,Rio de Janeiro,2024-08-25
+CLI00740,Cliente 0740,cliente0740@email.exemplo,Belo Horizonte,2023-01-17
+CLI00741,Cliente 0741,cliente0741@email.exemplo,Sao Paulo,2023-09-29
+CLI00742,Cliente 0742,cliente0742@email.exemplo,Sao Paulo,2023-05-10
+CLI00743,Cliente 0743,cliente0743@email.exemplo,Fortaleza,2024-03-07
+CLI00744,Cliente 0744,cliente0744@email.exemplo,Brasilia,2023-04-27
+CLI00745,Cliente 0745,cliente0745@email.exemplo,Fortaleza,2023-03-07
+CLI00746,Cliente 0746,cliente0746@email.exemplo,Curitiba,2024-04-04
+CLI00747,Cliente 0747,cliente0747@email.exemplo,Belo Horizonte,2024-06-09
+CLI00748,Cliente 0748,cliente0748@email.exemplo,Recife,2023-04-22
+CLI00749,Cliente 0749,cliente0749@email.exemplo,Curitiba,2024-05-30
+CLI00750,Cliente 0750,cliente0750@email.exemplo,Rio de Janeiro,2024-09-21
+CLI00751,Cliente 0751,cliente0751@email.exemplo,Sao Paulo,2024-11-05
+CLI00752,Cliente 0752,cliente0752@email.exemplo,Brasilia,2023-11-05
+CLI00753,Cliente 0753,cliente0753@email.exemplo,Curitiba,2024-10-20
+CLI00754,Cliente 0754,cliente0754@email.exemplo,Sao Paulo,2023-03-04
+CLI00755,Cliente 0755,cliente0755@email.exemplo,Curitiba,2024-02-16
+CLI00756,Cliente 0756,cliente0756@email.exemplo,Porto Alegre,2023-04-21
+CLI00757,Cliente 0757,cliente0757@email.exemplo,Curitiba,2024-03-30
+CLI00758,Cliente 0758,cliente0758@email.exemplo,Sao Paulo,2023-03-24
+CLI00759,Cliente 0759,cliente0759@email.exemplo,Belo Horizonte,2024-09-14
+CLI00760,Cliente 0760,cliente0760@email.exemplo,Sao Paulo,2023-03-09
+CLI00761,Cliente 0761,cliente0761@email.exemplo,Sao Paulo,2023-10-09
+CLI00762,Cliente 0762,cliente0762@email.exemplo,Recife,2024-10-10
+CLI00763,Cliente 0763,cliente0763@email.exemplo,Recife,2024-07-15
+CLI00764,Cliente 0764,cliente0764@email.exemplo,Fortaleza,2023-11-29
+CLI00765,Cliente 0765,cliente0765@email.exemplo,Porto Alegre,2024-09-03
+CLI00766,Cliente 0766,cliente0766@email.exemplo,Brasilia,2023-10-29
+CLI00767,Cliente 0767,cliente0767@email.exemplo,Curitiba,2024-06-01
+CLI00768,Cliente 0768,cliente0768@email.exemplo,Recife,2024-03-16
+CLI00769,Cliente 0769,cliente0769@email.exemplo,Sao Paulo,2023-04-28
+CLI00770,Cliente 0770,cliente0770@email.exemplo,Salvador,2024-10-28
+CLI00771,Cliente 0771,cliente0771@email.exemplo,Brasilia,2023-08-09
+CLI00772,Cliente 0772,cliente0772@email.exemplo,Porto Alegre,2024-04-07
+CLI00773,Cliente 0773,cliente0773@email.exemplo,Rio de Janeiro,2024-02-28
+CLI00774,Cliente 0774,cliente0774@email.exemplo,Belo Horizonte,2024-04-09
+CLI00775,Cliente 0775,cliente0775@email.exemplo,Porto Alegre,2024-03-01
+CLI00776,Cliente 0776,cliente0776@email.exemplo,Fortaleza,2023-04-08
+CLI00777,Cliente 0777,cliente0777@email.exemplo,Belo Horizonte,2024-03-13
+CLI00778,Cliente 0778,cliente0778@email.exemplo,Belo Horizonte,2024-11-12
+CLI00779,Cliente 0779,cliente0779@email.exemplo,Rio de Janeiro,2024-01-19
+CLI00780,Cliente 0780,cliente0780@email.exemplo,Sao Paulo,2024-04-30
+CLI00781,Cliente 0781,cliente0781@email.exemplo,Sao Paulo,2023-04-04
+CLI00782,Cliente 0782,cliente0782@email.exemplo,Sao Paulo,2023-04-06
+CLI00783,Cliente 0783,cliente0783@email.exemplo,Porto Alegre,2023-04-09
+CLI00784,Cliente 0784,cliente0784@email.exemplo,Fortaleza,2024-01-17
+CLI00785,Cliente 0785,cliente0785@email.exemplo,Sao Paulo,2024-07-23
+CLI00786,Cliente 0786,cliente0786@email.exemplo,Sao Paulo,2024-08-23
+CLI00787,Cliente 0787,cliente0787@email.exemplo,Brasilia,2024-07-29
+CLI00788,Cliente 0788,cliente0788@email.exemplo,Belo Horizonte,2024-11-17
+CLI00789,Cliente 0789,cliente0789@email.exemplo,Sao Paulo,2024-02-25
+CLI00790,Cliente 0790,cliente0790@email.exemplo,Belo Horizonte,2024-11-12
+CLI00791,Cliente 0791,cliente0791@email.exemplo,Porto Alegre,2023-02-22
+CLI00792,Cliente 0792,cliente0792@email.exemplo,Rio de Janeiro,2024-09-06
+CLI00793,Cliente 0793,cliente0793@email.exemplo,Rio de Janeiro,2023-12-27
+CLI00794,Cliente 0794,cliente0794@email.exemplo,Sao Paulo,2024-08-14
+CLI00795,Cliente 0795,cliente0795@email.exemplo,Brasilia,2023-08-06
+CLI00796,Cliente 0796,cliente0796@email.exemplo,Sao Paulo,2024-11-03
+CLI00797,Cliente 0797,cliente0797@email.exemplo,Curitiba,2023-08-18
+CLI00798,Cliente 0798,cliente0798@email.exemplo,Sao Paulo,2023-12-25
+CLI00799,Cliente 0799,cliente0799@email.exemplo,Brasilia,2024-01-12
+CLI00800,Cliente 0800,cliente0800@email.exemplo,Sao Paulo,2023-10-13
+CLI00801,Cliente 0801,cliente0801@email.exemplo,Recife,2023-08-20
+CLI00802,Cliente 0802,cliente0802@email.exemplo,Porto Alegre,2024-07-28
+CLI00803,Cliente 0803,cliente0803@email.exemplo,Recife,2024-09-20
+CLI00804,Cliente 0804,cliente0804@email.exemplo,Salvador,2024-10-20
+CLI00805,Cliente 0805,cliente0805@email.exemplo,Brasilia,2023-01-27
+CLI00806,Cliente 0806,cliente0806@email.exemplo,Recife,2024-11-04
+CLI00807,Cliente 0807,cliente0807@email.exemplo,Fortaleza,2023-10-01
+CLI00808,Cliente 0808,cliente0808@email.exemplo,Sao Paulo,2023-07-04
+CLI00809,Cliente 0809,cliente0809@email.exemplo,Rio de Janeiro,2023-11-13
+CLI00810,Cliente 0810,cliente0810@email.exemplo,Belo Horizonte,2023-12-26
+CLI00811,Cliente 0811,cliente0811@email.exemplo,Sao Paulo,2023-07-05
+CLI00812,Cliente 0812,cliente0812@email.exemplo,Sao Paulo,2024-08-02
+CLI00813,Cliente 0813,cliente0813@email.exemplo,Salvador,2024-02-15
+CLI00814,Cliente 0814,cliente0814@email.exemplo,Sao Paulo,2023-05-26
+CLI00815,Cliente 0815,cliente0815@email.exemplo,Fortaleza,2024-10-10
+CLI00816,Cliente 0816,cliente0816@email.exemplo,Sao Paulo,2023-04-04
+CLI00817,Cliente 0817,cliente0817@email.exemplo,Fortaleza,2024-06-27
+CLI00818,Cliente 0818,cliente0818@email.exemplo,Rio de Janeiro,2024-01-21
+CLI00819,Cliente 0819,cliente0819@email.exemplo,Porto Alegre,2024-04-09
+CLI00820,Cliente 0820,cliente0820@email.exemplo,Belo Horizonte,2023-06-11
+CLI00821,Cliente 0821,cliente0821@email.exemplo,Belo Horizonte,2023-11-16
+CLI00822,Cliente 0822,cliente0822@email.exemplo,Fortaleza,2023-11-29
+CLI00823,Cliente 0823,cliente0823@email.exemplo,Recife,2024-09-02
+CLI00824,Cliente 0824,cliente0824@email.exemplo,Sao Paulo,2023-02-23
+CLI00825,Cliente 0825,cliente0825@email.exemplo,Sao Paulo,2023-06-11
+CLI00826,Cliente 0826,cliente0826@email.exemplo,Recife,2023-02-20
+CLI00827,Cliente 0827,cliente0827@email.exemplo,Salvador,2023-03-25
+CLI00828,Cliente 0828,cliente0828@email.exemplo,Rio de Janeiro,2024-03-29
+CLI00829,Cliente 0829,cliente0829@email.exemplo,Salvador,2024-03-10
+CLI00830,Cliente 0830,cliente0830@email.exemplo,Curitiba,2024-09-13
+CLI00831,Cliente 0831,cliente0831@email.exemplo,Curitiba,2024-02-29
+CLI00832,Cliente 0832,cliente0832@email.exemplo,Rio de Janeiro,2023-08-09
+CLI00833,Cliente 0833,cliente0833@email.exemplo,Brasilia,2023-04-27
+CLI00834,Cliente 0834,cliente0834@email.exemplo,Belo Horizonte,2024-03-16
+CLI00835,Cliente 0835,cliente0835@email.exemplo,Sao Paulo,2023-10-18
+CLI00836,Cliente 0836,cliente0836@email.exemplo,Salvador,2024-11-25
+CLI00837,Cliente 0837,cliente0837@email.exemplo,Recife,2024-05-13
+CLI00838,Cliente 0838,cliente0838@email.exemplo,Brasilia,2024-11-14
+CLI00839,Cliente 0839,cliente0839@email.exemplo,Rio de Janeiro,2023-02-16
+CLI00840,Cliente 0840,cliente0840@email.exemplo,Rio de Janeiro,2024-02-09
+CLI00841,Cliente 0841,cliente0841@email.exemplo,Recife,2023-02-26
+CLI00842,Cliente 0842,cliente0842@email.exemplo,Sao Paulo,2023-07-29
+CLI00843,Cliente 0843,cliente0843@email.exemplo,Rio de Janeiro,2023-08-05
+CLI00844,Cliente 0844,cliente0844@email.exemplo,Sao Paulo,2023-09-19
+CLI00845,Cliente 0845,cliente0845@email.exemplo,Rio de Janeiro,2023-12-02
+CLI00846,Cliente 0846,cliente0846@email.exemplo,Sao Paulo,2023-01-08
+CLI00847,Cliente 0847,cliente0847@email.exemplo,Curitiba,2024-03-16
+CLI00848,Cliente 0848,cliente0848@email.exemplo,Sao Paulo,2023-05-13
+CLI00849,Cliente 0849,cliente0849@email.exemplo,Porto Alegre,2024-06-29
+CLI00850,Cliente 0850,cliente0850@email.exemplo,Fortaleza,2023-08-24
+CLI00851,Cliente 0851,cliente0851@email.exemplo,Brasilia,2024-07-26
+CLI00852,Cliente 0852,cliente0852@email.exemplo,Salvador,2023-12-29
+CLI00853,Cliente 0853,cliente0853@email.exemplo,Sao Paulo,2024-02-11
+CLI00854,Cliente 0854,cliente0854@email.exemplo,Fortaleza,2023-02-13
+CLI00855,Cliente 0855,cliente0855@email.exemplo,Porto Alegre,2023-01-20
+CLI00856,Cliente 0856,cliente0856@email.exemplo,Curitiba,2023-03-21
+CLI00857,Cliente 0857,cliente0857@email.exemplo,Belo Horizonte,2024-08-12
+CLI00858,Cliente 0858,cliente0858@email.exemplo,Porto Alegre,2024-08-10
+CLI00859,Cliente 0859,cliente0859@email.exemplo,Porto Alegre,2024-10-17
+CLI00860,Cliente 0860,cliente0860@email.exemplo,Porto Alegre,2023-10-24
+CLI00861,Cliente 0861,cliente0861@email.exemplo,Sao Paulo,2024-02-19
+CLI00862,Cliente 0862,cliente0862@email.exemplo,Sao Paulo,2023-11-29
+CLI00863,Cliente 0863,cliente0863@email.exemplo,Sao Paulo,2024-09-24
+CLI00864,Cliente 0864,cliente0864@email.exemplo,Curitiba,2024-01-06
+CLI00865,Cliente 0865,cliente0865@email.exemplo,Sao Paulo,2024-03-23
+CLI00866,Cliente 0866,cliente0866@email.exemplo,Sao Paulo,2023-09-07
+CLI00867,Cliente 0867,cliente0867@email.exemplo,Porto Alegre,2024-08-26
+CLI00868,Cliente 0868,cliente0868@email.exemplo,Porto Alegre,2024-06-20
+CLI00869,Cliente 0869,cliente0869@email.exemplo,Sao Paulo,2024-02-10
+CLI00870,Cliente 0870,cliente0870@email.exemplo,Rio de Janeiro,2023-12-14
+CLI00871,Cliente 0871,cliente0871@email.exemplo,Rio de Janeiro,2023-12-08
+CLI00872,Cliente 0872,cliente0872@email.exemplo,Sao Paulo,2023-03-20
+CLI00873,Cliente 0873,cliente0873@email.exemplo,Brasilia,2024-10-10
+CLI00874,Cliente 0874,cliente0874@email.exemplo,Sao Paulo,2024-06-27
+CLI00875,Cliente 0875,cliente0875@email.exemplo,Brasilia,2023-07-18
+CLI00876,Cliente 0876,cliente0876@email.exemplo,Belo Horizonte,2023-12-26
+CLI00877,Cliente 0877,cliente0877@email.exemplo,Fortaleza,2024-10-22
+CLI00878,Cliente 0878,cliente0878@email.exemplo,Sao Paulo,2023-08-30
+CLI00879,Cliente 0879,cliente0879@email.exemplo,Sao Paulo,2023-05-30
+CLI00880,Cliente 0880,cliente0880@email.exemplo,Rio de Janeiro,2023-07-22
+CLI00881,Cliente 0881,cliente0881@email.exemplo,Sao Paulo,2024-09-08
+CLI00882,Cliente 0882,cliente0882@email.exemplo,Sao Paulo,2024-11-02
+CLI00883,Cliente 0883,cliente0883@email.exemplo,Sao Paulo,2023-07-01
+CLI00884,Cliente 0884,cliente0884@email.exemplo,Salvador,2024-05-20
+CLI00885,Cliente 0885,cliente0885@email.exemplo,Curitiba,2024-07-31
+CLI00886,Cliente 0886,cliente0886@email.exemplo,Recife,2024-04-04
+CLI00887,Cliente 0887,cliente0887@email.exemplo,Salvador,2024-08-01
+CLI00888,Cliente 0888,cliente0888@email.exemplo,Salvador,2024-10-12
+CLI00889,Cliente 0889,cliente0889@email.exemplo,Recife,2023-11-27
+CLI00890,Cliente 0890,cliente0890@email.exemplo,Salvador,2023-11-20
+CLI00891,Cliente 0891,cliente0891@email.exemplo,Sao Paulo,2024-03-26
+CLI00892,Cliente 0892,cliente0892@email.exemplo,Sao Paulo,2024-04-25
+CLI00893,Cliente 0893,cliente0893@email.exemplo,Curitiba,2024-10-08
+CLI00894,Cliente 0894,cliente0894@email.exemplo,Rio de Janeiro,2023-10-09
+CLI00895,Cliente 0895,cliente0895@email.exemplo,Recife,2023-02-27
+CLI00896,Cliente 0896,cliente0896@email.exemplo,Belo Horizonte,2024-06-03
+CLI00897,Cliente 0897,cliente0897@email.exemplo,Sao Paulo,2023-11-14
+CLI00898,Cliente 0898,cliente0898@email.exemplo,Curitiba,2024-04-07
+CLI00899,Cliente 0899,cliente0899@email.exemplo,Sao Paulo,2023-02-28
+CLI00900,Cliente 0900,cliente0900@email.exemplo,Belo Horizonte,2023-10-21
+CLI00901,Cliente 0901,cliente0901@email.exemplo,Sao Paulo,2024-10-22
+CLI00902,Cliente 0902,cliente0902@email.exemplo,Sao Paulo,2024-09-21
+CLI00903,Cliente 0903,cliente0903@email.exemplo,Recife,2024-06-03
+CLI00904,Cliente 0904,cliente0904@email.exemplo,Porto Alegre,2024-04-18
+CLI00905,Cliente 0905,cliente0905@email.exemplo,Recife,2024-07-21
+CLI00906,Cliente 0906,cliente0906@email.exemplo,Fortaleza,2023-02-12
+CLI00907,Cliente 0907,cliente0907@email.exemplo,Curitiba,2024-08-08
+CLI00908,Cliente 0908,cliente0908@email.exemplo,Salvador,2023-07-12
+CLI00909,Cliente 0909,cliente0909@email.exemplo,Belo Horizonte,2024-09-11
+CLI00910,Cliente 0910,cliente0910@email.exemplo,Curitiba,2024-05-28
+CLI00911,Cliente 0911,cliente0911@email.exemplo,Sao Paulo,2023-03-05
+CLI00912,Cliente 0912,cliente0912@email.exemplo,Curitiba,2023-04-16
+CLI00913,Cliente 0913,cliente0913@email.exemplo,Belo Horizonte,2023-03-28
+CLI00914,Cliente 0914,cliente0914@email.exemplo,Brasilia,2024-10-23
+CLI00915,Cliente 0915,cliente0915@email.exemplo,Sao Paulo,2023-02-10
+CLI00916,Cliente 0916,cliente0916@email.exemplo,Rio de Janeiro,2024-03-24
+CLI00917,Cliente 0917,cliente0917@email.exemplo,Curitiba,2024-06-20
+CLI00918,Cliente 0918,cliente0918@email.exemplo,Brasilia,2024-09-16
+CLI00919,Cliente 0919,cliente0919@email.exemplo,Sao Paulo,2024-01-08
+CLI00920,Cliente 0920,cliente0920@email.exemplo,Belo Horizonte,2023-10-17
+CLI00921,Cliente 0921,cliente0921@email.exemplo,Porto Alegre,2024-02-23
+CLI00922,Cliente 0922,cliente0922@email.exemplo,Belo Horizonte,2024-11-26
+CLI00923,Cliente 0923,cliente0923@email.exemplo,Recife,2023-02-23
+CLI00924,Cliente 0924,cliente0924@email.exemplo,Salvador,2024-10-24
+CLI00925,Cliente 0925,cliente0925@email.exemplo,Belo Horizonte,2023-03-09
+CLI00926,Cliente 0926,cliente0926@email.exemplo,Belo Horizonte,2023-04-07
+CLI00927,Cliente 0927,cliente0927@email.exemplo,Brasilia,2024-11-25
+CLI00928,Cliente 0928,cliente0928@email.exemplo,Porto Alegre,2023-10-18
+CLI00929,Cliente 0929,cliente0929@email.exemplo,Rio de Janeiro,2024-11-03
+CLI00930,Cliente 0930,cliente0930@email.exemplo,Recife,2023-06-03
+CLI00931,Cliente 0931,cliente0931@email.exemplo,Belo Horizonte,2023-03-25
+CLI00932,Cliente 0932,cliente0932@email.exemplo,Recife,2024-11-10
+CLI00933,Cliente 0933,cliente0933@email.exemplo,Sao Paulo,2023-12-25
+CLI00934,Cliente 0934,cliente0934@email.exemplo,Rio de Janeiro,2024-11-02
+CLI00935,Cliente 0935,cliente0935@email.exemplo,Fortaleza,2024-11-09
+CLI00936,Cliente 0936,cliente0936@email.exemplo,Porto Alegre,2023-05-13
+CLI00937,Cliente 0937,cliente0937@email.exemplo,Recife,2023-03-28
+CLI00938,Cliente 0938,cliente0938@email.exemplo,Rio de Janeiro,2024-07-26
+CLI00939,Cliente 0939,cliente0939@email.exemplo,Porto Alegre,2024-10-20
+CLI00940,Cliente 0940,cliente0940@email.exemplo,Belo Horizonte,2023-05-11
+CLI00941,Cliente 0941,cliente0941@email.exemplo,Salvador,2024-06-23
+CLI00942,Cliente 0942,cliente0942@email.exemplo,Sao Paulo,2024-10-23
+CLI00943,Cliente 0943,cliente0943@email.exemplo,Salvador,2024-03-09
+CLI00944,Cliente 0944,cliente0944@email.exemplo,Brasilia,2024-01-06
+CLI00945,Cliente 0945,cliente0945@email.exemplo,Sao Paulo,2024-01-07
+CLI00946,Cliente 0946,cliente0946@email.exemplo,Rio de Janeiro,2023-07-04
+CLI00947,Cliente 0947,cliente0947@email.exemplo,Rio de Janeiro,2023-12-16
+CLI00948,Cliente 0948,cliente0948@email.exemplo,Curitiba,2023-07-16
+CLI00949,Cliente 0949,cliente0949@email.exemplo,Rio de Janeiro,2023-05-21
+CLI00950,Cliente 0950,cliente0950@email.exemplo,Sao Paulo,2023-03-21
+CLI00951,Cliente 0951,cliente0951@email.exemplo,Rio de Janeiro,2023-04-14
+CLI00952,Cliente 0952,cliente0952@email.exemplo,Brasilia,2024-07-06
+CLI00953,Cliente 0953,cliente0953@email.exemplo,Fortaleza,2024-06-23
+CLI00954,Cliente 0954,cliente0954@email.exemplo,Sao Paulo,2024-11-08
+CLI00955,Cliente 0955,cliente0955@email.exemplo,Belo Horizonte,2024-09-24
+CLI00956,Cliente 0956,cliente0956@email.exemplo,Sao Paulo,2024-09-03
+CLI00957,Cliente 0957,cliente0957@email.exemplo,Porto Alegre,2023-06-07
+CLI00958,Cliente 0958,cliente0958@email.exemplo,Sao Paulo,2023-07-05
+CLI00959,Cliente 0959,cliente0959@email.exemplo,Fortaleza,2024-10-01
+CLI00960,Cliente 0960,cliente0960@email.exemplo,Sao Paulo,2024-03-24
+CLI00961,Cliente 0961,cliente0961@email.exemplo,Sao Paulo,2024-02-25
+CLI00962,Cliente 0962,cliente0962@email.exemplo,Belo Horizonte,2024-11-23
+CLI00963,Cliente 0963,cliente0963@email.exemplo,Fortaleza,2023-09-01
+CLI00964,Cliente 0964,cliente0964@email.exemplo,Curitiba,2024-09-17
+CLI00965,Cliente 0965,cliente0965@email.exemplo,Rio de Janeiro,2024-04-04
+CLI00966,Cliente 0966,cliente0966@email.exemplo,Rio de Janeiro,2024-06-30
+CLI00967,Cliente 0967,cliente0967@email.exemplo,Rio de Janeiro,2023-11-13
+CLI00968,Cliente 0968,cliente0968@email.exemplo,Curitiba,2023-07-18
+CLI00969,Cliente 0969,cliente0969@email.exemplo,Belo Horizonte,2024-11-25
+CLI00970,Cliente 0970,cliente0970@email.exemplo,Recife,2024-03-27
+CLI00971,Cliente 0971,cliente0971@email.exemplo,Curitiba,2023-10-16
+CLI00972,Cliente 0972,cliente0972@email.exemplo,Porto Alegre,2024-05-29
+CLI00973,Cliente 0973,cliente0973@email.exemplo,Brasilia,2024-03-04
+CLI00974,Cliente 0974,cliente0974@email.exemplo,Sao Paulo,2023-07-24
+CLI00975,Cliente 0975,cliente0975@email.exemplo,Recife,2023-05-22
+CLI00976,Cliente 0976,cliente0976@email.exemplo,Rio de Janeiro,2023-02-23
+CLI00977,Cliente 0977,cliente0977@email.exemplo,Salvador,2024-05-07
+CLI00978,Cliente 0978,cliente0978@email.exemplo,Belo Horizonte,2024-07-21
+CLI00979,Cliente 0979,cliente0979@email.exemplo,Sao Paulo,2024-06-12
+CLI00980,Cliente 0980,cliente0980@email.exemplo,Sao Paulo,2023-10-19
+CLI00981,Cliente 0981,cliente0981@email.exemplo,Sao Paulo,2023-06-14
+CLI00982,Cliente 0982,cliente0982@email.exemplo,Rio de Janeiro,2024-04-05
+CLI00983,Cliente 0983,cliente0983@email.exemplo,Brasilia,2023-05-31
+CLI00984,Cliente 0984,cliente0984@email.exemplo,Porto Alegre,2023-04-04
+CLI00985,Cliente 0985,cliente0985@email.exemplo,Rio de Janeiro,2024-04-06
+CLI00986,Cliente 0986,cliente0986@email.exemplo,Belo Horizonte,2023-01-28
+CLI00987,Cliente 0987,cliente0987@email.exemplo,Porto Alegre,2023-02-24
+CLI00988,Cliente 0988,cliente0988@email.exemplo,Porto Alegre,2024-05-29
+CLI00989,Cliente 0989,cliente0989@email.exemplo,Belo Horizonte,2023-08-30
+CLI00990,Cliente 0990,cliente0990@email.exemplo,Porto Alegre,2023-03-25
+CLI00991,Cliente 0991,cliente0991@email.exemplo,Belo Horizonte,2023-08-18
+CLI00992,Cliente 0992,cliente0992@email.exemplo,Sao Paulo,2023-11-23
+CLI00993,Cliente 0993,cliente0993@email.exemplo,Sao Paulo,2024-10-27
+CLI00994,Cliente 0994,cliente0994@email.exemplo,Belo Horizonte,2023-05-30
+CLI00995,Cliente 0995,cliente0995@email.exemplo,Sao Paulo,2023-02-09
+CLI00996,Cliente 0996,cliente0996@email.exemplo,Rio de Janeiro,2024-04-28
+CLI00997,Cliente 0997,cliente0997@email.exemplo,Fortaleza,2023-05-23
+CLI00998,Cliente 0998,cliente0998@email.exemplo,Fortaleza,2024-04-25
+CLI00999,Cliente 0999,cliente0999@email.exemplo,Curitiba,2024-09-22
+CLI01000,Cliente 1000,cliente1000@email.exemplo,Sao Paulo,2023-03-23
+CLI01001,Cliente 1001,cliente1001@email.exemplo,Sao Paulo,2023-09-20
+CLI01002,Cliente 1002,cliente1002@email.exemplo,Rio de Janeiro,2023-06-03
+CLI01003,Cliente 1003,cliente1003@email.exemplo,Brasilia,2024-09-15
+CLI01004,Cliente 1004,cliente1004@email.exemplo,Brasilia,2024-03-09
+CLI01005,Cliente 1005,cliente1005@email.exemplo,Sao Paulo,2023-10-23
+CLI01006,Cliente 1006,cliente1006@email.exemplo,Rio de Janeiro,2023-11-05
+CLI01007,Cliente 1007,cliente1007@email.exemplo,Sao Paulo,2023-02-18
+CLI01008,Cliente 1008,cliente1008@email.exemplo,Rio de Janeiro,2024-03-05
+CLI01009,Cliente 1009,cliente1009@email.exemplo,Salvador,2024-09-29
+CLI01010,Cliente 1010,cliente1010@email.exemplo,Curitiba,2023-03-06
+CLI01011,Cliente 1011,cliente1011@email.exemplo,Sao Paulo,2024-05-26
+CLI01012,Cliente 1012,cliente1012@email.exemplo,Recife,2024-07-02
+CLI01013,Cliente 1013,cliente1013@email.exemplo,Sao Paulo,2024-10-09
+CLI01014,Cliente 1014,cliente1014@email.exemplo,Brasilia,2024-08-11
+CLI01015,Cliente 1015,cliente1015@email.exemplo,Rio de Janeiro,2023-05-28
+CLI01016,Cliente 1016,cliente1016@email.exemplo,Rio de Janeiro,2024-03-15
+CLI01017,Cliente 1017,cliente1017@email.exemplo,Sao Paulo,2024-09-21
+CLI01018,Cliente 1018,cliente1018@email.exemplo,Belo Horizonte,2023-09-04
+CLI01019,Cliente 1019,cliente1019@email.exemplo,Recife,2024-03-02
+CLI01020,Cliente 1020,cliente1020@email.exemplo,Sao Paulo,2024-11-11
+CLI01021,Cliente 1021,cliente1021@email.exemplo,Salvador,2023-03-29
+CLI01022,Cliente 1022,cliente1022@email.exemplo,Brasilia,2024-01-05
+CLI01023,Cliente 1023,cliente1023@email.exemplo,Sao Paulo,2024-06-22
+CLI01024,Cliente 1024,cliente1024@email.exemplo,Brasilia,2024-06-03
+CLI01025,Cliente 1025,cliente1025@email.exemplo,Brasilia,2024-07-21
+CLI01026,Cliente 1026,cliente1026@email.exemplo,Sao Paulo,2024-02-04
+CLI01027,Cliente 1027,cliente1027@email.exemplo,Curitiba,2023-02-14
+CLI01028,Cliente 1028,cliente1028@email.exemplo,Salvador,2024-02-01
+CLI01029,Cliente 1029,cliente1029@email.exemplo,Belo Horizonte,2023-09-17
+CLI01030,Cliente 1030,cliente1030@email.exemplo,Fortaleza,2023-01-17
+CLI01031,Cliente 1031,cliente1031@email.exemplo,Belo Horizonte,2023-03-11
+CLI01032,Cliente 1032,cliente1032@email.exemplo,Belo Horizonte,2023-09-04
+CLI01033,Cliente 1033,cliente1033@email.exemplo,Fortaleza,2024-11-03
+CLI01034,Cliente 1034,cliente1034@email.exemplo,Salvador,2023-04-17
+CLI01035,Cliente 1035,cliente1035@email.exemplo,Recife,2023-12-07
+CLI01036,Cliente 1036,cliente1036@email.exemplo,Sao Paulo,2023-02-15
+CLI01037,Cliente 1037,cliente1037@email.exemplo,Belo Horizonte,2024-07-13
+CLI01038,Cliente 1038,cliente1038@email.exemplo,Belo Horizonte,2024-10-20
+CLI01039,Cliente 1039,cliente1039@email.exemplo,Sao Paulo,2024-04-20
+CLI01040,Cliente 1040,cliente1040@email.exemplo,Fortaleza,2024-05-05
+CLI01041,Cliente 1041,cliente1041@email.exemplo,Salvador,2023-07-06
+CLI01042,Cliente 1042,cliente1042@email.exemplo,Sao Paulo,2023-03-06
+CLI01043,Cliente 1043,cliente1043@email.exemplo,Fortaleza,2024-04-13
+CLI01044,Cliente 1044,cliente1044@email.exemplo,Sao Paulo,2023-10-28
+CLI01045,Cliente 1045,cliente1045@email.exemplo,Rio de Janeiro,2023-02-14
+CLI01046,Cliente 1046,cliente1046@email.exemplo,Rio de Janeiro,2023-02-12
+CLI01047,Cliente 1047,cliente1047@email.exemplo,Belo Horizonte,2023-11-14
+CLI01048,Cliente 1048,cliente1048@email.exemplo,Brasilia,2024-02-12
+CLI01049,Cliente 1049,cliente1049@email.exemplo,Brasilia,2024-04-29
+CLI01050,Cliente 1050,cliente1050@email.exemplo,Rio de Janeiro,2023-02-07
+CLI01051,Cliente 1051,cliente1051@email.exemplo,Salvador,2023-07-15
+CLI01052,Cliente 1052,cliente1052@email.exemplo,Rio de Janeiro,2024-01-01
+CLI01053,Cliente 1053,cliente1053@email.exemplo,Sao Paulo,2024-11-02
+CLI01054,Cliente 1054,cliente1054@email.exemplo,Belo Horizonte,2023-10-07
+CLI01055,Cliente 1055,cliente1055@email.exemplo,Sao Paulo,2024-01-12
+CLI01056,Cliente 1056,cliente1056@email.exemplo,Porto Alegre,2024-02-14
+CLI01057,Cliente 1057,cliente1057@email.exemplo,Fortaleza,2024-03-26
+CLI01058,Cliente 1058,cliente1058@email.exemplo,Porto Alegre,2023-12-14
+CLI01059,Cliente 1059,cliente1059@email.exemplo,Sao Paulo,2024-05-23
+CLI01060,Cliente 1060,cliente1060@email.exemplo,Fortaleza,2024-05-24
+CLI01061,Cliente 1061,cliente1061@email.exemplo,Belo Horizonte,2024-06-15
+CLI01062,Cliente 1062,cliente1062@email.exemplo,Rio de Janeiro,2023-03-26
+CLI01063,Cliente 1063,cliente1063@email.exemplo,Fortaleza,2024-03-10
+CLI01064,Cliente 1064,cliente1064@email.exemplo,Sao Paulo,2024-03-16
+CLI01065,Cliente 1065,cliente1065@email.exemplo,Recife,2023-07-04
+CLI01066,Cliente 1066,cliente1066@email.exemplo,Brasilia,2023-10-28
+CLI01067,Cliente 1067,cliente1067@email.exemplo,Belo Horizonte,2023-04-16
+CLI01068,Cliente 1068,cliente1068@email.exemplo,Sao Paulo,2023-12-02
+CLI01069,Cliente 1069,cliente1069@email.exemplo,Salvador,2023-10-30
+CLI01070,Cliente 1070,cliente1070@email.exemplo,Rio de Janeiro,2024-04-01
+CLI01071,Cliente 1071,cliente1071@email.exemplo,Recife,2024-03-12
+CLI01072,Cliente 1072,cliente1072@email.exemplo,Sao Paulo,2024-03-30
+CLI01073,Cliente 1073,cliente1073@email.exemplo,Belo Horizonte,2024-04-02
+CLI01074,Cliente 1074,cliente1074@email.exemplo,Sao Paulo,2023-12-28
+CLI01075,Cliente 1075,cliente1075@email.exemplo,Recife,2024-03-21
+CLI01076,Cliente 1076,cliente1076@email.exemplo,Rio de Janeiro,2024-10-16
+CLI01077,Cliente 1077,cliente1077@email.exemplo,Sao Paulo,2023-03-18
+CLI01078,Cliente 1078,cliente1078@email.exemplo,Salvador,2024-10-14
+CLI01079,Cliente 1079,cliente1079@email.exemplo,Porto Alegre,2024-01-08
+CLI01080,Cliente 1080,cliente1080@email.exemplo,Brasilia,2024-11-26
+CLI01081,Cliente 1081,cliente1081@email.exemplo,Sao Paulo,2023-02-01
+CLI01082,Cliente 1082,cliente1082@email.exemplo,Sao Paulo,2024-09-14
+CLI01083,Cliente 1083,cliente1083@email.exemplo,Salvador,2024-03-24
+CLI01084,Cliente 1084,cliente1084@email.exemplo,Sao Paulo,2023-05-10
+CLI01085,Cliente 1085,cliente1085@email.exemplo,Sao Paulo,2023-08-30
+CLI01086,Cliente 1086,cliente1086@email.exemplo,Salvador,2024-01-11
+CLI01087,Cliente 1087,cliente1087@email.exemplo,Belo Horizonte,2024-01-28
+CLI01088,Cliente 1088,cliente1088@email.exemplo,Recife,2023-02-03
+CLI01089,Cliente 1089,cliente1089@email.exemplo,Recife,2023-06-07
+CLI01090,Cliente 1090,cliente1090@email.exemplo,Salvador,2024-04-05
+CLI01091,Cliente 1091,cliente1091@email.exemplo,Belo Horizonte,2024-01-16
+CLI01092,Cliente 1092,cliente1092@email.exemplo,Curitiba,2023-03-20
+CLI01093,Cliente 1093,cliente1093@email.exemplo,Recife,2023-05-21
+CLI01094,Cliente 1094,cliente1094@email.exemplo,Brasilia,2024-01-11
+CLI01095,Cliente 1095,cliente1095@email.exemplo,Porto Alegre,2023-11-18
+CLI01096,Cliente 1096,cliente1096@email.exemplo,Salvador,2023-10-13
+CLI01097,Cliente 1097,cliente1097@email.exemplo,Rio de Janeiro,2023-04-27
+CLI01098,Cliente 1098,cliente1098@email.exemplo,Sao Paulo,2023-07-10
+CLI01099,Cliente 1099,cliente1099@email.exemplo,Curitiba,2024-06-14
+CLI01100,Cliente 1100,cliente1100@email.exemplo,Porto Alegre,2024-07-29
+CLI01101,Cliente 1101,cliente1101@email.exemplo,Sao Paulo,2023-09-26
+CLI01102,Cliente 1102,cliente1102@email.exemplo,Rio de Janeiro,2024-04-01
+CLI01103,Cliente 1103,cliente1103@email.exemplo,Rio de Janeiro,2024-09-18
+CLI01104,Cliente 1104,cliente1104@email.exemplo,Rio de Janeiro,2024-05-17
+CLI01105,Cliente 1105,cliente1105@email.exemplo,Rio de Janeiro,2023-05-06
+CLI01106,Cliente 1106,cliente1106@email.exemplo,Sao Paulo,2023-03-17
+CLI01107,Cliente 1107,cliente1107@email.exemplo,Curitiba,2023-06-26
+CLI01108,Cliente 1108,cliente1108@email.exemplo,Fortaleza,2024-03-31
+CLI01109,Cliente 1109,cliente1109@email.exemplo,Sao Paulo,2024-11-29
+CLI01110,Cliente 1110,cliente1110@email.exemplo,Belo Horizonte,2024-11-14
+CLI01111,Cliente 1111,cliente1111@email.exemplo,Belo Horizonte,2023-03-08
+CLI01112,Cliente 1112,cliente1112@email.exemplo,Brasilia,2024-07-09
+CLI01113,Cliente 1113,cliente1113@email.exemplo,Rio de Janeiro,2023-11-04
+CLI01114,Cliente 1114,cliente1114@email.exemplo,Sao Paulo,2024-10-15
+CLI01115,Cliente 1115,cliente1115@email.exemplo,Sao Paulo,2024-01-06
+CLI01116,Cliente 1116,cliente1116@email.exemplo,Brasilia,2023-08-18
+CLI01117,Cliente 1117,cliente1117@email.exemplo,Sao Paulo,2023-07-25
+CLI01118,Cliente 1118,cliente1118@email.exemplo,Sao Paulo,2023-08-31
+CLI01119,Cliente 1119,cliente1119@email.exemplo,Curitiba,2023-01-27
+CLI01120,Cliente 1120,cliente1120@email.exemplo,Belo Horizonte,2024-07-21
+CLI01121,Cliente 1121,cliente1121@email.exemplo,Recife,2024-01-13
+CLI01122,Cliente 1122,cliente1122@email.exemplo,Curitiba,2024-07-18
+CLI01123,Cliente 1123,cliente1123@email.exemplo,Sao Paulo,2024-09-18
+CLI01124,Cliente 1124,cliente1124@email.exemplo,Sao Paulo,2023-03-09
+CLI01125,Cliente 1125,cliente1125@email.exemplo,Rio de Janeiro,2024-02-12
+CLI01126,Cliente 1126,cliente1126@email.exemplo,Fortaleza,2024-05-05
+CLI01127,Cliente 1127,cliente1127@email.exemplo,Brasilia,2024-02-25
+CLI01128,Cliente 1128,cliente1128@email.exemplo,Porto Alegre,2024-08-11
+CLI01129,Cliente 1129,cliente1129@email.exemplo,Sao Paulo,2023-05-09
+CLI01130,Cliente 1130,cliente1130@email.exemplo,Belo Horizonte,2024-10-19
+CLI01131,Cliente 1131,cliente1131@email.exemplo,Sao Paulo,2024-04-05
+CLI01132,Cliente 1132,cliente1132@email.exemplo,Curitiba,2024-11-27
+CLI01133,Cliente 1133,cliente1133@email.exemplo,Brasilia,2023-12-19
+CLI01134,Cliente 1134,cliente1134@email.exemplo,Sao Paulo,2024-07-18
+CLI01135,Cliente 1135,cliente1135@email.exemplo,Salvador,2024-08-24
+CLI01136,Cliente 1136,cliente1136@email.exemplo,Sao Paulo,2023-05-13
+CLI01137,Cliente 1137,cliente1137@email.exemplo,Porto Alegre,2024-05-29
+CLI01138,Cliente 1138,cliente1138@email.exemplo,Sao Paulo,2023-05-08
+CLI01139,Cliente 1139,cliente1139@email.exemplo,Brasilia,2023-06-06
+CLI01140,Cliente 1140,cliente1140@email.exemplo,Rio de Janeiro,2023-06-18
+CLI01141,Cliente 1141,cliente1141@email.exemplo,Sao Paulo,2023-11-27
+CLI01142,Cliente 1142,cliente1142@email.exemplo,Fortaleza,2023-08-19
+CLI01143,Cliente 1143,cliente1143@email.exemplo,Belo Horizonte,2024-06-15
+CLI01144,Cliente 1144,cliente1144@email.exemplo,Rio de Janeiro,2023-03-22
+CLI01145,Cliente 1145,cliente1145@email.exemplo,Rio de Janeiro,2023-07-21
+CLI01146,Cliente 1146,cliente1146@email.exemplo,Salvador,2024-07-18
+CLI01147,Cliente 1147,cliente1147@email.exemplo,Rio de Janeiro,2023-05-09
+CLI01148,Cliente 1148,cliente1148@email.exemplo,Salvador,2023-11-07
+CLI01149,Cliente 1149,cliente1149@email.exemplo,Recife,2024-06-30
+CLI01150,Cliente 1150,cliente1150@email.exemplo,Sao Paulo,2024-05-29
+CLI01151,Cliente 1151,cliente1151@email.exemplo,Salvador,2023-06-22
+CLI01152,Cliente 1152,cliente1152@email.exemplo,Recife,2024-08-17
+CLI01153,Cliente 1153,cliente1153@email.exemplo,Sao Paulo,2023-06-25
+CLI01154,Cliente 1154,cliente1154@email.exemplo,Salvador,2024-10-01
+CLI01155,Cliente 1155,cliente1155@email.exemplo,Fortaleza,2024-09-11
+CLI01156,Cliente 1156,cliente1156@email.exemplo,Belo Horizonte,2024-07-31
+CLI01157,Cliente 1157,cliente1157@email.exemplo,Sao Paulo,2023-01-30
+CLI01158,Cliente 1158,cliente1158@email.exemplo,Sao Paulo,2023-02-16
+CLI01159,Cliente 1159,cliente1159@email.exemplo,Salvador,2024-08-13
+CLI01160,Cliente 1160,cliente1160@email.exemplo,Rio de Janeiro,2024-10-28
+CLI01161,Cliente 1161,cliente1161@email.exemplo,Rio de Janeiro,2024-08-08
+CLI01162,Cliente 1162,cliente1162@email.exemplo,Porto Alegre,2024-09-24
+CLI01163,Cliente 1163,cliente1163@email.exemplo,Salvador,2023-02-01
+CLI01164,Cliente 1164,cliente1164@email.exemplo,Curitiba,2024-10-04
+CLI01165,Cliente 1165,cliente1165@email.exemplo,Brasilia,2023-10-24
+CLI01166,Cliente 1166,cliente1166@email.exemplo,Salvador,2023-11-06
+CLI01167,Cliente 1167,cliente1167@email.exemplo,Curitiba,2023-09-08
+CLI01168,Cliente 1168,cliente1168@email.exemplo,Salvador,2024-02-20
+CLI01169,Cliente 1169,cliente1169@email.exemplo,Rio de Janeiro,2024-04-09
+CLI01170,Cliente 1170,cliente1170@email.exemplo,Sao Paulo,2023-03-03
+CLI01171,Cliente 1171,cliente1171@email.exemplo,Sao Paulo,2024-03-26
+CLI01172,Cliente 1172,cliente1172@email.exemplo,Porto Alegre,2024-05-10
+CLI01173,Cliente 1173,cliente1173@email.exemplo,Curitiba,2023-07-28
+CLI01174,Cliente 1174,cliente1174@email.exemplo,Belo Horizonte,2024-09-13
+CLI01175,Cliente 1175,cliente1175@email.exemplo,Sao Paulo,2023-11-17
+CLI01176,Cliente 1176,cliente1176@email.exemplo,Fortaleza,2023-11-23
+CLI01177,Cliente 1177,cliente1177@email.exemplo,Fortaleza,2023-12-20
+CLI01178,Cliente 1178,cliente1178@email.exemplo,Porto Alegre,2023-05-14
+CLI01179,Cliente 1179,cliente1179@email.exemplo,Belo Horizonte,2024-06-11
+CLI01180,Cliente 1180,cliente1180@email.exemplo,Brasilia,2023-04-19
+CLI01181,Cliente 1181,cliente1181@email.exemplo,Belo Horizonte,2023-09-05
+CLI01182,Cliente 1182,cliente1182@email.exemplo,Curitiba,2023-05-06
+CLI01183,Cliente 1183,cliente1183@email.exemplo,Rio de Janeiro,2024-04-05
+CLI01184,Cliente 1184,cliente1184@email.exemplo,Rio de Janeiro,2023-05-25
+CLI01185,Cliente 1185,cliente1185@email.exemplo,Sao Paulo,2023-02-21
+CLI01186,Cliente 1186,cliente1186@email.exemplo,Rio de Janeiro,2024-01-29
+CLI01187,Cliente 1187,cliente1187@email.exemplo,Recife,2024-03-04
+CLI01188,Cliente 1188,cliente1188@email.exemplo,Rio de Janeiro,2023-06-13
+CLI01189,Cliente 1189,cliente1189@email.exemplo,Belo Horizonte,2024-08-14
+CLI01190,Cliente 1190,cliente1190@email.exemplo,Fortaleza,2023-11-17
+CLI01191,Cliente 1191,cliente1191@email.exemplo,Rio de Janeiro,2023-06-13
+CLI01192,Cliente 1192,cliente1192@email.exemplo,Curitiba,2024-06-11
+CLI01193,Cliente 1193,cliente1193@email.exemplo,Curitiba,2024-05-25
+CLI01194,Cliente 1194,cliente1194@email.exemplo,Rio de Janeiro,2024-05-24
+CLI01195,Cliente 1195,cliente1195@email.exemplo,Sao Paulo,2023-04-03
+CLI01196,Cliente 1196,cliente1196@email.exemplo,Porto Alegre,2024-06-01
+CLI01197,Cliente 1197,cliente1197@email.exemplo,Curitiba,2023-09-04
+CLI01198,Cliente 1198,cliente1198@email.exemplo,Rio de Janeiro,2024-08-20
+CLI01199,Cliente 1199,cliente1199@email.exemplo,Belo Horizonte,2023-02-19
+CLI01200,Cliente 1200,cliente1200@email.exemplo,Sao Paulo,2023-10-16
+CLI01201,Cliente 1201,cliente1201@email.exemplo,Curitiba,2024-09-03
+CLI01202,Cliente 1202,cliente1202@email.exemplo,Salvador,2024-11-19
+CLI01203,Cliente 1203,cliente1203@email.exemplo,Curitiba,2023-10-20
+CLI01204,Cliente 1204,cliente1204@email.exemplo,Brasilia,2023-01-09
+CLI01205,Cliente 1205,cliente1205@email.exemplo,Sao Paulo,2024-03-17
+CLI01206,Cliente 1206,cliente1206@email.exemplo,Sao Paulo,2023-09-28
+CLI01207,Cliente 1207,cliente1207@email.exemplo,Fortaleza,2024-01-10
+CLI01208,Cliente 1208,cliente1208@email.exemplo,Porto Alegre,2024-01-10
+CLI01209,Cliente 1209,cliente1209@email.exemplo,Sao Paulo,2024-02-15
+CLI01210,Cliente 1210,cliente1210@email.exemplo,Sao Paulo,2024-08-06
+CLI01211,Cliente 1211,cliente1211@email.exemplo,Brasilia,2023-07-19
+CLI01212,Cliente 1212,cliente1212@email.exemplo,Belo Horizonte,2024-07-20
+CLI01213,Cliente 1213,cliente1213@email.exemplo,Rio de Janeiro,2023-03-17
+CLI01214,Cliente 1214,cliente1214@email.exemplo,Porto Alegre,2024-05-31
+CLI01215,Cliente 1215,cliente1215@email.exemplo,Curitiba,2024-07-17
+CLI01216,Cliente 1216,cliente1216@email.exemplo,Rio de Janeiro,2024-09-30
+CLI01217,Cliente 1217,cliente1217@email.exemplo,Salvador,2024-09-17
+CLI01218,Cliente 1218,cliente1218@email.exemplo,Sao Paulo,2023-05-12
+CLI01219,Cliente 1219,cliente1219@email.exemplo,Sao Paulo,2024-02-08
+CLI01220,Cliente 1220,cliente1220@email.exemplo,Belo Horizonte,2023-12-14
+CLI01221,Cliente 1221,cliente1221@email.exemplo,Brasilia,2024-01-10
+CLI01222,Cliente 1222,cliente1222@email.exemplo,Sao Paulo,2023-07-23
+CLI01223,Cliente 1223,cliente1223@email.exemplo,Recife,2024-06-05
+CLI01224,Cliente 1224,cliente1224@email.exemplo,Porto Alegre,2024-05-27
+CLI01225,Cliente 1225,cliente1225@email.exemplo,Sao Paulo,2023-02-16
+CLI01226,Cliente 1226,cliente1226@email.exemplo,Sao Paulo,2023-05-21
+CLI01227,Cliente 1227,cliente1227@email.exemplo,Fortaleza,2023-12-08
+CLI01228,Cliente 1228,cliente1228@email.exemplo,Curitiba,2024-06-15
+CLI01229,Cliente 1229,cliente1229@email.exemplo,Curitiba,2023-06-02
+CLI01230,Cliente 1230,cliente1230@email.exemplo,Recife,2024-06-11
+CLI01231,Cliente 1231,cliente1231@email.exemplo,Sao Paulo,2023-12-02
+CLI01232,Cliente 1232,cliente1232@email.exemplo,Recife,2023-11-23
+CLI01233,Cliente 1233,cliente1233@email.exemplo,Sao Paulo,2024-02-07
+CLI01234,Cliente 1234,cliente1234@email.exemplo,Recife,2023-11-03
+CLI01235,Cliente 1235,cliente1235@email.exemplo,Recife,2023-12-11
+CLI01236,Cliente 1236,cliente1236@email.exemplo,Brasilia,2024-06-05
+CLI01237,Cliente 1237,cliente1237@email.exemplo,Brasilia,2024-05-16
+CLI01238,Cliente 1238,cliente1238@email.exemplo,Fortaleza,2024-07-30
+CLI01239,Cliente 1239,cliente1239@email.exemplo,Rio de Janeiro,2024-05-01
+CLI01240,Cliente 1240,cliente1240@email.exemplo,Sao Paulo,2024-01-13
+CLI01241,Cliente 1241,cliente1241@email.exemplo,Belo Horizonte,2024-11-20
+CLI01242,Cliente 1242,cliente1242@email.exemplo,Sao Paulo,2024-03-02
+CLI01243,Cliente 1243,cliente1243@email.exemplo,Recife,2023-11-12
+CLI01244,Cliente 1244,cliente1244@email.exemplo,Fortaleza,2024-10-06
+CLI01245,Cliente 1245,cliente1245@email.exemplo,Sao Paulo,2024-09-03
+CLI01246,Cliente 1246,cliente1246@email.exemplo,Curitiba,2023-09-29
+CLI01247,Cliente 1247,cliente1247@email.exemplo,Salvador,2024-08-15
+CLI01248,Cliente 1248,cliente1248@email.exemplo,Recife,2023-08-22
+CLI01249,Cliente 1249,cliente1249@email.exemplo,Fortaleza,2023-02-22
+CLI01250,Cliente 1250,cliente1250@email.exemplo,Recife,2024-05-06
+CLI01251,Cliente 1251,cliente1251@email.exemplo,Sao Paulo,2024-06-20
+CLI01252,Cliente 1252,cliente1252@email.exemplo,Salvador,2024-09-26
+CLI01253,Cliente 1253,cliente1253@email.exemplo,Porto Alegre,2023-06-01
+CLI01254,Cliente 1254,cliente1254@email.exemplo,Salvador,2023-09-06
+CLI01255,Cliente 1255,cliente1255@email.exemplo,Sao Paulo,2024-08-09
+CLI01256,Cliente 1256,cliente1256@email.exemplo,Fortaleza,2023-04-23
+CLI01257,Cliente 1257,cliente1257@email.exemplo,Rio de Janeiro,2023-01-20
+CLI01258,Cliente 1258,cliente1258@email.exemplo,Curitiba,2023-11-18
+CLI01259,Cliente 1259,cliente1259@email.exemplo,Porto Alegre,2023-06-05
+CLI01260,Cliente 1260,cliente1260@email.exemplo,Porto Alegre,2023-07-28
+CLI01261,Cliente 1261,cliente1261@email.exemplo,Porto Alegre,2024-05-28
+CLI01262,Cliente 1262,cliente1262@email.exemplo,Recife,2024-04-27
+CLI01263,Cliente 1263,cliente1263@email.exemplo,Fortaleza,2023-03-05
+CLI01264,Cliente 1264,cliente1264@email.exemplo,Fortaleza,2023-05-22
+CLI01265,Cliente 1265,cliente1265@email.exemplo,Brasilia,2023-08-01
+CLI01266,Cliente 1266,cliente1266@email.exemplo,Brasilia,2023-11-29
+CLI01267,Cliente 1267,cliente1267@email.exemplo,Salvador,2024-05-04
+CLI01268,Cliente 1268,cliente1268@email.exemplo,Brasilia,2024-01-21
+CLI01269,Cliente 1269,cliente1269@email.exemplo,Belo Horizonte,2023-06-27
+CLI01270,Cliente 1270,cliente1270@email.exemplo,Curitiba,2024-06-29
+CLI01271,Cliente 1271,cliente1271@email.exemplo,Belo Horizonte,2024-07-13
+CLI01272,Cliente 1272,cliente1272@email.exemplo,Belo Horizonte,2024-11-23
+CLI01273,Cliente 1273,cliente1273@email.exemplo,Fortaleza,2024-11-28
+CLI01274,Cliente 1274,cliente1274@email.exemplo,Salvador,2023-09-28
+CLI01275,Cliente 1275,cliente1275@email.exemplo,Recife,2024-05-10
+CLI01276,Cliente 1276,cliente1276@email.exemplo,Rio de Janeiro,2023-09-10
+CLI01277,Cliente 1277,cliente1277@email.exemplo,Rio de Janeiro,2024-07-25
+CLI01278,Cliente 1278,cliente1278@email.exemplo,Rio de Janeiro,2023-08-19
+CLI01279,Cliente 1279,cliente1279@email.exemplo,Rio de Janeiro,2023-10-23
+CLI01280,Cliente 1280,cliente1280@email.exemplo,Fortaleza,2023-08-01
+CLI01281,Cliente 1281,cliente1281@email.exemplo,Fortaleza,2024-05-15
+CLI01282,Cliente 1282,cliente1282@email.exemplo,Belo Horizonte,2024-05-06
+CLI01283,Cliente 1283,cliente1283@email.exemplo,Belo Horizonte,2024-07-27
+CLI01284,Cliente 1284,cliente1284@email.exemplo,Fortaleza,2023-10-08
+CLI01285,Cliente 1285,cliente1285@email.exemplo,Rio de Janeiro,2023-05-05
+CLI01286,Cliente 1286,cliente1286@email.exemplo,Recife,2024-11-23
+CLI01287,Cliente 1287,cliente1287@email.exemplo,Brasilia,2024-01-24
+CLI01288,Cliente 1288,cliente1288@email.exemplo,Porto Alegre,2023-12-20
+CLI01289,Cliente 1289,cliente1289@email.exemplo,Sao Paulo,2023-10-25
+CLI01290,Cliente 1290,cliente1290@email.exemplo,Sao Paulo,2023-10-22
+CLI01291,Cliente 1291,cliente1291@email.exemplo,Fortaleza,2023-03-22
+CLI01292,Cliente 1292,cliente1292@email.exemplo,Belo Horizonte,2024-03-28
+CLI01293,Cliente 1293,cliente1293@email.exemplo,Salvador,2023-09-20
+CLI01294,Cliente 1294,cliente1294@email.exemplo,Fortaleza,2024-05-05
+CLI01295,Cliente 1295,cliente1295@email.exemplo,Rio de Janeiro,2023-07-26
+CLI01296,Cliente 1296,cliente1296@email.exemplo,Brasilia,2023-10-05
+CLI01297,Cliente 1297,cliente1297@email.exemplo,Brasilia,2023-10-06
+CLI01298,Cliente 1298,cliente1298@email.exemplo,Sao Paulo,2023-04-22
+CLI01299,Cliente 1299,cliente1299@email.exemplo,Recife,2024-08-23
+CLI01300,Cliente 1300,cliente1300@email.exemplo,Rio de Janeiro,2023-09-06
+CLI01301,Cliente 1301,cliente1301@email.exemplo,Sao Paulo,2024-11-16
+CLI01302,Cliente 1302,cliente1302@email.exemplo,Brasilia,2023-08-20
+CLI01303,Cliente 1303,cliente1303@email.exemplo,Salvador,2023-08-27
+CLI01304,Cliente 1304,cliente1304@email.exemplo,Sao Paulo,2023-04-13
+CLI01305,Cliente 1305,cliente1305@email.exemplo,Porto Alegre,2023-12-05
+CLI01306,Cliente 1306,cliente1306@email.exemplo,Fortaleza,2024-04-28
+CLI01307,Cliente 1307,cliente1307@email.exemplo,Sao Paulo,2024-11-28
+CLI01308,Cliente 1308,cliente1308@email.exemplo,Sao Paulo,2023-01-06
+CLI01309,Cliente 1309,cliente1309@email.exemplo,Brasilia,2023-06-11
+CLI01310,Cliente 1310,cliente1310@email.exemplo,Porto Alegre,2024-10-30
+CLI01311,Cliente 1311,cliente1311@email.exemplo,Curitiba,2024-05-03
+CLI01312,Cliente 1312,cliente1312@email.exemplo,Salvador,2023-07-24
+CLI01313,Cliente 1313,cliente1313@email.exemplo,Rio de Janeiro,2023-11-25
+CLI01314,Cliente 1314,cliente1314@email.exemplo,Rio de Janeiro,2024-10-23
+CLI01315,Cliente 1315,cliente1315@email.exemplo,Sao Paulo,2023-04-02
+CLI01316,Cliente 1316,cliente1316@email.exemplo,Salvador,2024-08-10
+CLI01317,Cliente 1317,cliente1317@email.exemplo,Rio de Janeiro,2024-07-01
+CLI01318,Cliente 1318,cliente1318@email.exemplo,Fortaleza,2023-02-08
+CLI01319,Cliente 1319,cliente1319@email.exemplo,Sao Paulo,2024-03-03
+CLI01320,Cliente 1320,cliente1320@email.exemplo,Sao Paulo,2023-02-07
+CLI01321,Cliente 1321,cliente1321@email.exemplo,Porto Alegre,2024-05-22
+CLI01322,Cliente 1322,cliente1322@email.exemplo,Sao Paulo,2023-10-24
+CLI01323,Cliente 1323,cliente1323@email.exemplo,Sao Paulo,2023-01-10
+CLI01324,Cliente 1324,cliente1324@email.exemplo,Rio de Janeiro,2024-08-04
+CLI01325,Cliente 1325,cliente1325@email.exemplo,Recife,2023-04-20
+CLI01326,Cliente 1326,cliente1326@email.exemplo,Belo Horizonte,2023-10-19
+CLI01327,Cliente 1327,cliente1327@email.exemplo,Curitiba,2024-10-18
+CLI01328,Cliente 1328,cliente1328@email.exemplo,Brasilia,2024-06-20
+CLI01329,Cliente 1329,cliente1329@email.exemplo,Curitiba,2023-05-18
+CLI01330,Cliente 1330,cliente1330@email.exemplo,Brasilia,2024-04-24
+CLI01331,Cliente 1331,cliente1331@email.exemplo,Rio de Janeiro,2023-07-17
+CLI01332,Cliente 1332,cliente1332@email.exemplo,Sao Paulo,2023-12-05
+CLI01333,Cliente 1333,cliente1333@email.exemplo,Sao Paulo,2024-04-14
+CLI01334,Cliente 1334,cliente1334@email.exemplo,Salvador,2023-09-21
+CLI01335,Cliente 1335,cliente1335@email.exemplo,Fortaleza,2023-07-10
+CLI01336,Cliente 1336,cliente1336@email.exemplo,Sao Paulo,2023-12-12
+CLI01337,Cliente 1337,cliente1337@email.exemplo,Rio de Janeiro,2024-08-04
+CLI01338,Cliente 1338,cliente1338@email.exemplo,Salvador,2023-07-17
+CLI01339,Cliente 1339,cliente1339@email.exemplo,Sao Paulo,2024-09-17
+CLI01340,Cliente 1340,cliente1340@email.exemplo,Salvador,2024-02-20
+CLI01341,Cliente 1341,cliente1341@email.exemplo,Porto Alegre,2024-06-11
+CLI01342,Cliente 1342,cliente1342@email.exemplo,Belo Horizonte,2023-03-30
+CLI01343,Cliente 1343,cliente1343@email.exemplo,Porto Alegre,2024-11-16
+CLI01344,Cliente 1344,cliente1344@email.exemplo,Sao Paulo,2023-07-09
+CLI01345,Cliente 1345,cliente1345@email.exemplo,Sao Paulo,2024-05-03
+CLI01346,Cliente 1346,cliente1346@email.exemplo,Belo Horizonte,2023-09-12
+CLI01347,Cliente 1347,cliente1347@email.exemplo,Sao Paulo,2023-09-25
+CLI01348,Cliente 1348,cliente1348@email.exemplo,Porto Alegre,2023-08-30
+CLI01349,Cliente 1349,cliente1349@email.exemplo,Curitiba,2023-10-01
+CLI01350,Cliente 1350,cliente1350@email.exemplo,Belo Horizonte,2023-11-06
+CLI01351,Cliente 1351,cliente1351@email.exemplo,Recife,2024-08-09
+CLI01352,Cliente 1352,cliente1352@email.exemplo,Sao Paulo,2023-09-25
+CLI01353,Cliente 1353,cliente1353@email.exemplo,Salvador,2024-01-04
+CLI01354,Cliente 1354,cliente1354@email.exemplo,Fortaleza,2023-08-30
+CLI01355,Cliente 1355,cliente1355@email.exemplo,Sao Paulo,2024-11-14
+CLI01356,Cliente 1356,cliente1356@email.exemplo,Sao Paulo,2024-04-21
+CLI01357,Cliente 1357,cliente1357@email.exemplo,Rio de Janeiro,2023-06-13
+CLI01358,Cliente 1358,cliente1358@email.exemplo,Porto Alegre,2024-05-29
+CLI01359,Cliente 1359,cliente1359@email.exemplo,Fortaleza,2023-11-15
+CLI01360,Cliente 1360,cliente1360@email.exemplo,Fortaleza,2023-05-01
+CLI01361,Cliente 1361,cliente1361@email.exemplo,Salvador,2023-10-30
+CLI01362,Cliente 1362,cliente1362@email.exemplo,Belo Horizonte,2024-09-21
+CLI01363,Cliente 1363,cliente1363@email.exemplo,Rio de Janeiro,2023-08-13
+CLI01364,Cliente 1364,cliente1364@email.exemplo,Sao Paulo,2024-05-04
+CLI01365,Cliente 1365,cliente1365@email.exemplo,Sao Paulo,2024-04-10
+CLI01366,Cliente 1366,cliente1366@email.exemplo,Fortaleza,2024-09-12
+CLI01367,Cliente 1367,cliente1367@email.exemplo,Belo Horizonte,2024-03-01
+CLI01368,Cliente 1368,cliente1368@email.exemplo,Fortaleza,2024-07-16
+CLI01369,Cliente 1369,cliente1369@email.exemplo,Curitiba,2024-07-04
+CLI01370,Cliente 1370,cliente1370@email.exemplo,Salvador,2023-08-12
+CLI01371,Cliente 1371,cliente1371@email.exemplo,Rio de Janeiro,2024-11-27
+CLI01372,Cliente 1372,cliente1372@email.exemplo,Recife,2023-03-25
+CLI01373,Cliente 1373,cliente1373@email.exemplo,Brasilia,2024-04-02
+CLI01374,Cliente 1374,cliente1374@email.exemplo,Brasilia,2024-01-06
+CLI01375,Cliente 1375,cliente1375@email.exemplo,Sao Paulo,2024-07-31
+CLI01376,Cliente 1376,cliente1376@email.exemplo,Sao Paulo,2023-03-05
+CLI01377,Cliente 1377,cliente1377@email.exemplo,Brasilia,2024-06-01
+CLI01378,Cliente 1378,cliente1378@email.exemplo,Rio de Janeiro,2024-08-09
+CLI01379,Cliente 1379,cliente1379@email.exemplo,Brasilia,2023-06-03
+CLI01380,Cliente 1380,cliente1380@email.exemplo,Sao Paulo,2023-12-02
+CLI01381,Cliente 1381,cliente1381@email.exemplo,Brasilia,2024-03-28
+CLI01382,Cliente 1382,cliente1382@email.exemplo,Sao Paulo,2024-11-27
+CLI01383,Cliente 1383,cliente1383@email.exemplo,Rio de Janeiro,2024-08-20
+CLI01384,Cliente 1384,cliente1384@email.exemplo,Curitiba,2023-04-04
+CLI01385,Cliente 1385,cliente1385@email.exemplo,Brasilia,2024-04-01
+CLI01386,Cliente 1386,cliente1386@email.exemplo,Sao Paulo,2024-04-09
+CLI01387,Cliente 1387,cliente1387@email.exemplo,Sao Paulo,2024-06-09
+CLI01388,Cliente 1388,cliente1388@email.exemplo,Porto Alegre,2024-04-12
+CLI01389,Cliente 1389,cliente1389@email.exemplo,Recife,2023-03-01
+CLI01390,Cliente 1390,cliente1390@email.exemplo,Brasilia,2024-04-18
+CLI01391,Cliente 1391,cliente1391@email.exemplo,Salvador,2023-11-12
+CLI01392,Cliente 1392,cliente1392@email.exemplo,Fortaleza,2023-01-23
+CLI01393,Cliente 1393,cliente1393@email.exemplo,Porto Alegre,2023-09-18
+CLI01394,Cliente 1394,cliente1394@email.exemplo,Sao Paulo,2023-08-12
+CLI01395,Cliente 1395,cliente1395@email.exemplo,Recife,2023-03-16
+CLI01396,Cliente 1396,cliente1396@email.exemplo,Sao Paulo,2024-03-09
+CLI01397,Cliente 1397,cliente1397@email.exemplo,Belo Horizonte,2023-03-07
+CLI01398,Cliente 1398,cliente1398@email.exemplo,Brasilia,2023-03-03
+CLI01399,Cliente 1399,cliente1399@email.exemplo,Sao Paulo,2024-04-28
+CLI01400,Cliente 1400,cliente1400@email.exemplo,Sao Paulo,2023-10-21
+CLI01401,Cliente 1401,cliente1401@email.exemplo,Porto Alegre,2023-07-04
+CLI01402,Cliente 1402,cliente1402@email.exemplo,Sao Paulo,2024-10-18
+CLI01403,Cliente 1403,cliente1403@email.exemplo,Fortaleza,2024-10-23
+CLI01404,Cliente 1404,cliente1404@email.exemplo,Porto Alegre,2024-01-19
+CLI01405,Cliente 1405,cliente1405@email.exemplo,Porto Alegre,2024-04-04
+CLI01406,Cliente 1406,cliente1406@email.exemplo,Porto Alegre,2024-01-20
+CLI01407,Cliente 1407,cliente1407@email.exemplo,Sao Paulo,2024-11-30
+CLI01408,Cliente 1408,cliente1408@email.exemplo,Salvador,2024-07-06
+CLI01409,Cliente 1409,cliente1409@email.exemplo,Sao Paulo,2024-10-31
+CLI01410,Cliente 1410,cliente1410@email.exemplo,Belo Horizonte,2023-05-02
+CLI01411,Cliente 1411,cliente1411@email.exemplo,Sao Paulo,2024-07-04
+CLI01412,Cliente 1412,cliente1412@email.exemplo,Porto Alegre,2024-06-25
+CLI01413,Cliente 1413,cliente1413@email.exemplo,Sao Paulo,2023-08-17
+CLI01414,Cliente 1414,cliente1414@email.exemplo,Sao Paulo,2023-01-24
+CLI01415,Cliente 1415,cliente1415@email.exemplo,Rio de Janeiro,2024-04-19
+CLI01416,Cliente 1416,cliente1416@email.exemplo,Salvador,2024-07-11
+CLI01417,Cliente 1417,cliente1417@email.exemplo,Porto Alegre,2024-06-28
+CLI01418,Cliente 1418,cliente1418@email.exemplo,Porto Alegre,2023-08-24
+CLI01419,Cliente 1419,cliente1419@email.exemplo,Rio de Janeiro,2024-04-16
+CLI01420,Cliente 1420,cliente1420@email.exemplo,Belo Horizonte,2023-06-08
+CLI01421,Cliente 1421,cliente1421@email.exemplo,Rio de Janeiro,2023-07-13
+CLI01422,Cliente 1422,cliente1422@email.exemplo,Fortaleza,2023-04-26
+CLI01423,Cliente 1423,cliente1423@email.exemplo,Sao Paulo,2024-11-07
+CLI01424,Cliente 1424,cliente1424@email.exemplo,Porto Alegre,2024-09-21
+CLI01425,Cliente 1425,cliente1425@email.exemplo,Sao Paulo,2023-09-04
+CLI01426,Cliente 1426,cliente1426@email.exemplo,Rio de Janeiro,2023-03-10
+CLI01427,Cliente 1427,cliente1427@email.exemplo,Sao Paulo,2024-08-31
+CLI01428,Cliente 1428,cliente1428@email.exemplo,Sao Paulo,2024-04-02
+CLI01429,Cliente 1429,cliente1429@email.exemplo,Recife,2024-11-19
+CLI01430,Cliente 1430,cliente1430@email.exemplo,Fortaleza,2023-02-19
+CLI01431,Cliente 1431,cliente1431@email.exemplo,Rio de Janeiro,2023-02-15
+CLI01432,Cliente 1432,cliente1432@email.exemplo,Porto Alegre,2024-03-25
+CLI01433,Cliente 1433,cliente1433@email.exemplo,Rio de Janeiro,2024-07-06
+CLI01434,Cliente 1434,cliente1434@email.exemplo,Rio de Janeiro,2023-02-27
+CLI01435,Cliente 1435,cliente1435@email.exemplo,Sao Paulo,2024-05-30
+CLI01436,Cliente 1436,cliente1436@email.exemplo,Rio de Janeiro,2023-08-28
+CLI01437,Cliente 1437,cliente1437@email.exemplo,Fortaleza,2024-08-12
+CLI01438,Cliente 1438,cliente1438@email.exemplo,Belo Horizonte,2024-08-14
+CLI01439,Cliente 1439,cliente1439@email.exemplo,Recife,2024-11-19
+CLI01440,Cliente 1440,cliente1440@email.exemplo,Belo Horizonte,2023-08-31
+CLI01441,Cliente 1441,cliente1441@email.exemplo,Rio de Janeiro,2023-05-27
+CLI01442,Cliente 1442,cliente1442@email.exemplo,Salvador,2024-06-17
+CLI01443,Cliente 1443,cliente1443@email.exemplo,Rio de Janeiro,2024-02-28
+CLI01444,Cliente 1444,cliente1444@email.exemplo,Rio de Janeiro,2023-10-09
+CLI01445,Cliente 1445,cliente1445@email.exemplo,Sao Paulo,2024-07-24
+CLI01446,Cliente 1446,cliente1446@email.exemplo,Recife,2023-06-29
+CLI01447,Cliente 1447,cliente1447@email.exemplo,Salvador,2024-11-26
+CLI01448,Cliente 1448,cliente1448@email.exemplo,Porto Alegre,2024-07-23
+CLI01449,Cliente 1449,cliente1449@email.exemplo,Curitiba,2023-02-18
+CLI01450,Cliente 1450,cliente1450@email.exemplo,Belo Horizonte,2024-10-20
+CLI01451,Cliente 1451,cliente1451@email.exemplo,Salvador,2024-01-26
+CLI01452,Cliente 1452,cliente1452@email.exemplo,Brasilia,2023-11-23
+CLI01453,Cliente 1453,cliente1453@email.exemplo,Fortaleza,2024-03-02
+CLI01454,Cliente 1454,cliente1454@email.exemplo,Porto Alegre,2023-06-02
+CLI01455,Cliente 1455,cliente1455@email.exemplo,Rio de Janeiro,2024-01-21
+CLI01456,Cliente 1456,cliente1456@email.exemplo,Sao Paulo,2024-07-04
+CLI01457,Cliente 1457,cliente1457@email.exemplo,Curitiba,2023-09-04
+CLI01458,Cliente 1458,cliente1458@email.exemplo,Rio de Janeiro,2023-11-04
+CLI01459,Cliente 1459,cliente1459@email.exemplo,Fortaleza,2023-05-28
+CLI01460,Cliente 1460,cliente1460@email.exemplo,Curitiba,2023-03-01
+CLI01461,Cliente 1461,cliente1461@email.exemplo,Brasilia,2024-02-27
+CLI01462,Cliente 1462,cliente1462@email.exemplo,Porto Alegre,2024-07-24
+CLI01463,Cliente 1463,cliente1463@email.exemplo,Brasilia,2023-05-18
+CLI01464,Cliente 1464,cliente1464@email.exemplo,Porto Alegre,2023-09-06
+CLI01465,Cliente 1465,cliente1465@email.exemplo,Rio de Janeiro,2023-07-28
+CLI01466,Cliente 1466,cliente1466@email.exemplo,Belo Horizonte,2024-10-24
+CLI01467,Cliente 1467,cliente1467@email.exemplo,Sao Paulo,2024-04-05
+CLI01468,Cliente 1468,cliente1468@email.exemplo,Belo Horizonte,2023-04-05
+CLI01469,Cliente 1469,cliente1469@email.exemplo,Brasilia,2023-07-15
+CLI01470,Cliente 1470,cliente1470@email.exemplo,Sao Paulo,2023-10-02
+CLI01471,Cliente 1471,cliente1471@email.exemplo,Porto Alegre,2024-11-20
+CLI01472,Cliente 1472,cliente1472@email.exemplo,Recife,2024-09-09
+CLI01473,Cliente 1473,cliente1473@email.exemplo,Sao Paulo,2023-03-16
+CLI01474,Cliente 1474,cliente1474@email.exemplo,Rio de Janeiro,2024-08-24
+CLI01475,Cliente 1475,cliente1475@email.exemplo,Fortaleza,2024-11-18
+CLI01476,Cliente 1476,cliente1476@email.exemplo,Brasilia,2023-08-11
+CLI01477,Cliente 1477,cliente1477@email.exemplo,Curitiba,2023-08-02
+CLI01478,Cliente 1478,cliente1478@email.exemplo,Belo Horizonte,2023-11-07
+CLI01479,Cliente 1479,cliente1479@email.exemplo,Sao Paulo,2023-08-05
+CLI01480,Cliente 1480,cliente1480@email.exemplo,Rio de Janeiro,2023-05-01
+CLI01481,Cliente 1481,cliente1481@email.exemplo,Fortaleza,2024-05-05
+CLI01482,Cliente 1482,cliente1482@email.exemplo,Rio de Janeiro,2024-09-10
+CLI01483,Cliente 1483,cliente1483@email.exemplo,Fortaleza,2023-07-29
+CLI01484,Cliente 1484,cliente1484@email.exemplo,Porto Alegre,2023-09-03
+CLI01485,Cliente 1485,cliente1485@email.exemplo,Brasilia,2023-11-26
+CLI01486,Cliente 1486,cliente1486@email.exemplo,Rio de Janeiro,2024-01-25
+CLI01487,Cliente 1487,cliente1487@email.exemplo,Curitiba,2024-06-30
+CLI01488,Cliente 1488,cliente1488@email.exemplo,Salvador,2024-01-03
+CLI01489,Cliente 1489,cliente1489@email.exemplo,Rio de Janeiro,2023-09-25
+CLI01490,Cliente 1490,cliente1490@email.exemplo,Belo Horizonte,2024-06-09
+CLI01491,Cliente 1491,cliente1491@email.exemplo,Curitiba,2024-04-22
+CLI01492,Cliente 1492,cliente1492@email.exemplo,Sao Paulo,2024-04-25
+CLI01493,Cliente 1493,cliente1493@email.exemplo,Belo Horizonte,2023-07-28
+CLI01494,Cliente 1494,cliente1494@email.exemplo,Belo Horizonte,2023-11-17
+CLI01495,Cliente 1495,cliente1495@email.exemplo,Porto Alegre,2023-02-16
+CLI01496,Cliente 1496,cliente1496@email.exemplo,Recife,2023-08-15
+CLI01497,Cliente 1497,cliente1497@email.exemplo,Fortaleza,2023-05-30
+CLI01498,Cliente 1498,cliente1498@email.exemplo,Sao Paulo,2023-09-25
+CLI01499,Cliente 1499,cliente1499@email.exemplo,Brasilia,2024-08-21
+CLI01500,Cliente 1500,cliente1500@email.exemplo,Recife,2024-03-03
+CLI01501,Cliente 1501,cliente1501@email.exemplo,Rio de Janeiro,2023-06-06
+CLI01502,Cliente 1502,cliente1502@email.exemplo,Rio de Janeiro,2023-12-04
+CLI01503,Cliente 1503,cliente1503@email.exemplo,Rio de Janeiro,2024-01-24
+CLI01504,Cliente 1504,cliente1504@email.exemplo,Recife,2023-09-09
+CLI01505,Cliente 1505,cliente1505@email.exemplo,Curitiba,2024-07-17
+CLI01506,Cliente 1506,cliente1506@email.exemplo,Salvador,2023-12-12
+CLI01507,Cliente 1507,cliente1507@email.exemplo,Rio de Janeiro,2024-05-15
+CLI01508,Cliente 1508,cliente1508@email.exemplo,Fortaleza,2024-10-19
+CLI01509,Cliente 1509,cliente1509@email.exemplo,Fortaleza,2024-05-17
+CLI01510,Cliente 1510,cliente1510@email.exemplo,Curitiba,2023-06-22
+CLI01511,Cliente 1511,cliente1511@email.exemplo,Fortaleza,2023-12-27
+CLI01512,Cliente 1512,cliente1512@email.exemplo,Sao Paulo,2023-05-24
+CLI01513,Cliente 1513,cliente1513@email.exemplo,Fortaleza,2024-07-13
+CLI01514,Cliente 1514,cliente1514@email.exemplo,Curitiba,2023-07-08
+CLI01515,Cliente 1515,cliente1515@email.exemplo,Brasilia,2024-10-19
+CLI01516,Cliente 1516,cliente1516@email.exemplo,Sao Paulo,2024-06-20
+CLI01517,Cliente 1517,cliente1517@email.exemplo,Sao Paulo,2023-03-18
+CLI01518,Cliente 1518,cliente1518@email.exemplo,Salvador,2023-02-19
+CLI01519,Cliente 1519,cliente1519@email.exemplo,Sao Paulo,2024-02-27
+CLI01520,Cliente 1520,cliente1520@email.exemplo,Sao Paulo,2024-10-07
+CLI01521,Cliente 1521,cliente1521@email.exemplo,Rio de Janeiro,2023-03-11
+CLI01522,Cliente 1522,cliente1522@email.exemplo,Fortaleza,2023-06-04
+CLI01523,Cliente 1523,cliente1523@email.exemplo,Sao Paulo,2023-08-12
+CLI01524,Cliente 1524,cliente1524@email.exemplo,Brasilia,2024-04-11
+CLI01525,Cliente 1525,cliente1525@email.exemplo,Belo Horizonte,2023-03-03
+CLI01526,Cliente 1526,cliente1526@email.exemplo,Recife,2024-10-15
+CLI01527,Cliente 1527,cliente1527@email.exemplo,Salvador,2024-09-23
+CLI01528,Cliente 1528,cliente1528@email.exemplo,Curitiba,2024-11-06
+CLI01529,Cliente 1529,cliente1529@email.exemplo,Curitiba,2023-01-17
+CLI01530,Cliente 1530,cliente1530@email.exemplo,Sao Paulo,2024-06-28
+CLI01531,Cliente 1531,cliente1531@email.exemplo,Brasilia,2024-02-26
+CLI01532,Cliente 1532,cliente1532@email.exemplo,Sao Paulo,2023-01-18
+CLI01533,Cliente 1533,cliente1533@email.exemplo,Brasilia,2023-10-09
+CLI01534,Cliente 1534,cliente1534@email.exemplo,Brasilia,2023-10-21
+CLI01535,Cliente 1535,cliente1535@email.exemplo,Sao Paulo,2024-05-29
+CLI01536,Cliente 1536,cliente1536@email.exemplo,Fortaleza,2024-11-21
+CLI01537,Cliente 1537,cliente1537@email.exemplo,Porto Alegre,2023-07-03
+CLI01538,Cliente 1538,cliente1538@email.exemplo,Sao Paulo,2023-04-09
+CLI01539,Cliente 1539,cliente1539@email.exemplo,Brasilia,2023-06-02
+CLI01540,Cliente 1540,cliente1540@email.exemplo,Rio de Janeiro,2023-07-16
+CLI01541,Cliente 1541,cliente1541@email.exemplo,Recife,2024-06-23
+CLI01542,Cliente 1542,cliente1542@email.exemplo,Rio de Janeiro,2023-12-29
+CLI01543,Cliente 1543,cliente1543@email.exemplo,Rio de Janeiro,2024-02-11
+CLI01544,Cliente 1544,cliente1544@email.exemplo,Sao Paulo,2024-01-18
+CLI01545,Cliente 1545,cliente1545@email.exemplo,Porto Alegre,2024-04-15
+CLI01546,Cliente 1546,cliente1546@email.exemplo,Recife,2023-09-07
+CLI01547,Cliente 1547,cliente1547@email.exemplo,Fortaleza,2023-08-20
+CLI01548,Cliente 1548,cliente1548@email.exemplo,Rio de Janeiro,2024-12-01
+CLI01549,Cliente 1549,cliente1549@email.exemplo,Sao Paulo,2024-10-31
+CLI01550,Cliente 1550,cliente1550@email.exemplo,Salvador,2023-02-02
+CLI01551,Cliente 1551,cliente1551@email.exemplo,Sao Paulo,2024-02-20
+CLI01552,Cliente 1552,cliente1552@email.exemplo,Porto Alegre,2024-01-22
+CLI01553,Cliente 1553,cliente1553@email.exemplo,Brasilia,2024-05-02
+CLI01554,Cliente 1554,cliente1554@email.exemplo,Sao Paulo,2024-10-14
+CLI01555,Cliente 1555,cliente1555@email.exemplo,Sao Paulo,2023-06-25
+CLI01556,Cliente 1556,cliente1556@email.exemplo,Sao Paulo,2024-05-26
+CLI01557,Cliente 1557,cliente1557@email.exemplo,Porto Alegre,2024-10-22
+CLI01558,Cliente 1558,cliente1558@email.exemplo,Belo Horizonte,2024-08-02
+CLI01559,Cliente 1559,cliente1559@email.exemplo,Sao Paulo,2024-06-24
+CLI01560,Cliente 1560,cliente1560@email.exemplo,Sao Paulo,2023-08-24
+CLI01561,Cliente 1561,cliente1561@email.exemplo,Rio de Janeiro,2024-08-03
+CLI01562,Cliente 1562,cliente1562@email.exemplo,Curitiba,2023-10-05
+CLI01563,Cliente 1563,cliente1563@email.exemplo,Sao Paulo,2023-03-18
+CLI01564,Cliente 1564,cliente1564@email.exemplo,Salvador,2023-10-15
+CLI01565,Cliente 1565,cliente1565@email.exemplo,Brasilia,2024-07-31
+CLI01566,Cliente 1566,cliente1566@email.exemplo,Salvador,2023-02-03
+CLI01567,Cliente 1567,cliente1567@email.exemplo,Sao Paulo,2023-11-19
+CLI01568,Cliente 1568,cliente1568@email.exemplo,Sao Paulo,2023-08-01
+CLI01569,Cliente 1569,cliente1569@email.exemplo,Recife,2023-05-28
+CLI01570,Cliente 1570,cliente1570@email.exemplo,Fortaleza,2024-02-12
+CLI01571,Cliente 1571,cliente1571@email.exemplo,Sao Paulo,2023-11-03
+CLI01572,Cliente 1572,cliente1572@email.exemplo,Sao Paulo,2024-07-31
+CLI01573,Cliente 1573,cliente1573@email.exemplo,Rio de Janeiro,2024-08-03
+CLI01574,Cliente 1574,cliente1574@email.exemplo,Porto Alegre,2024-11-24
+CLI01575,Cliente 1575,cliente1575@email.exemplo,Brasilia,2023-12-06
+CLI01576,Cliente 1576,cliente1576@email.exemplo,Porto Alegre,2023-05-24
+CLI01577,Cliente 1577,cliente1577@email.exemplo,Fortaleza,2023-03-22
+CLI01578,Cliente 1578,cliente1578@email.exemplo,Brasilia,2023-12-21
+CLI01579,Cliente 1579,cliente1579@email.exemplo,Sao Paulo,2023-04-11
+CLI01580,Cliente 1580,cliente1580@email.exemplo,Porto Alegre,2023-08-26
+CLI01581,Cliente 1581,cliente1581@email.exemplo,Sao Paulo,2023-12-15
+CLI01582,Cliente 1582,cliente1582@email.exemplo,Recife,2024-09-20
+CLI01583,Cliente 1583,cliente1583@email.exemplo,Recife,2024-02-11
+CLI01584,Cliente 1584,cliente1584@email.exemplo,Belo Horizonte,2023-01-31
+CLI01585,Cliente 1585,cliente1585@email.exemplo,Salvador,2023-10-07
+CLI01586,Cliente 1586,cliente1586@email.exemplo,Curitiba,2024-05-17
+CLI01587,Cliente 1587,cliente1587@email.exemplo,Rio de Janeiro,2023-12-31
+CLI01588,Cliente 1588,cliente1588@email.exemplo,Brasilia,2024-01-20
+CLI01589,Cliente 1589,cliente1589@email.exemplo,Porto Alegre,2023-07-10
+CLI01590,Cliente 1590,cliente1590@email.exemplo,Salvador,2024-08-22
+CLI01591,Cliente 1591,cliente1591@email.exemplo,Salvador,2024-01-25
+CLI01592,Cliente 1592,cliente1592@email.exemplo,Sao Paulo,2024-09-25
+CLI01593,Cliente 1593,cliente1593@email.exemplo,Rio de Janeiro,2023-09-10
+CLI01594,Cliente 1594,cliente1594@email.exemplo,Fortaleza,2023-03-17
+CLI01595,Cliente 1595,cliente1595@email.exemplo,Sao Paulo,2023-10-02
+CLI01596,Cliente 1596,cliente1596@email.exemplo,Sao Paulo,2024-01-25
+CLI01597,Cliente 1597,cliente1597@email.exemplo,Fortaleza,2024-10-11
+CLI01598,Cliente 1598,cliente1598@email.exemplo,Sao Paulo,2024-02-03
+CLI01599,Cliente 1599,cliente1599@email.exemplo,Belo Horizonte,2024-01-05
+CLI01600,Cliente 1600,cliente1600@email.exemplo,Sao Paulo,2023-04-04
+CLI01601,Cliente 1601,cliente1601@email.exemplo,Sao Paulo,2023-11-12
+CLI01602,Cliente 1602,cliente1602@email.exemplo,Curitiba,2024-01-04
+CLI01603,Cliente 1603,cliente1603@email.exemplo,Rio de Janeiro,2023-04-15
+CLI01604,Cliente 1604,cliente1604@email.exemplo,Sao Paulo,2023-03-31
+CLI01605,Cliente 1605,cliente1605@email.exemplo,Sao Paulo,2024-03-17
+CLI01606,Cliente 1606,cliente1606@email.exemplo,Curitiba,2024-07-24
+CLI01607,Cliente 1607,cliente1607@email.exemplo,Brasilia,2024-06-08
+CLI01608,Cliente 1608,cliente1608@email.exemplo,Porto Alegre,2023-04-16
+CLI01609,Cliente 1609,cliente1609@email.exemplo,Sao Paulo,2023-04-02
+CLI01610,Cliente 1610,cliente1610@email.exemplo,Belo Horizonte,2024-07-21
+CLI01611,Cliente 1611,cliente1611@email.exemplo,Sao Paulo,2024-09-03
+CLI01612,Cliente 1612,cliente1612@email.exemplo,Recife,2023-11-29
+CLI01613,Cliente 1613,cliente1613@email.exemplo,Porto Alegre,2023-01-13
+CLI01614,Cliente 1614,cliente1614@email.exemplo,Rio de Janeiro,2024-02-28
+CLI01615,Cliente 1615,cliente1615@email.exemplo,Porto Alegre,2023-03-28
+CLI01616,Cliente 1616,cliente1616@email.exemplo,Fortaleza,2024-07-26
+CLI01617,Cliente 1617,cliente1617@email.exemplo,Rio de Janeiro,2024-08-08
+CLI01618,Cliente 1618,cliente1618@email.exemplo,Brasilia,2023-06-23
+CLI01619,Cliente 1619,cliente1619@email.exemplo,Salvador,2024-01-25
+CLI01620,Cliente 1620,cliente1620@email.exemplo,Sao Paulo,2023-05-23
+CLI01621,Cliente 1621,cliente1621@email.exemplo,Rio de Janeiro,2023-11-05
+CLI01622,Cliente 1622,cliente1622@email.exemplo,Rio de Janeiro,2024-05-19
+CLI01623,Cliente 1623,cliente1623@email.exemplo,Sao Paulo,2023-03-06
+CLI01624,Cliente 1624,cliente1624@email.exemplo,Sao Paulo,2024-03-21
+CLI01625,Cliente 1625,cliente1625@email.exemplo,Rio de Janeiro,2024-03-07
+CLI01626,Cliente 1626,cliente1626@email.exemplo,Rio de Janeiro,2024-05-10
+CLI01627,Cliente 1627,cliente1627@email.exemplo,Sao Paulo,2024-01-05
+CLI01628,Cliente 1628,cliente1628@email.exemplo,Rio de Janeiro,2023-09-10
+CLI01629,Cliente 1629,cliente1629@email.exemplo,Fortaleza,2024-10-02
+CLI01630,Cliente 1630,cliente1630@email.exemplo,Curitiba,2024-08-31
+CLI01631,Cliente 1631,cliente1631@email.exemplo,Recife,2023-07-20
+CLI01632,Cliente 1632,cliente1632@email.exemplo,Curitiba,2023-04-20
+CLI01633,Cliente 1633,cliente1633@email.exemplo,Sao Paulo,2023-11-08
+CLI01634,Cliente 1634,cliente1634@email.exemplo,Sao Paulo,2024-02-10
+CLI01635,Cliente 1635,cliente1635@email.exemplo,Belo Horizonte,2024-09-27
+CLI01636,Cliente 1636,cliente1636@email.exemplo,Porto Alegre,2023-12-04
+CLI01637,Cliente 1637,cliente1637@email.exemplo,Curitiba,2023-12-09
+CLI01638,Cliente 1638,cliente1638@email.exemplo,Porto Alegre,2024-10-28
+CLI01639,Cliente 1639,cliente1639@email.exemplo,Recife,2023-05-20
+CLI01640,Cliente 1640,cliente1640@email.exemplo,Rio de Janeiro,2023-11-25
+CLI01641,Cliente 1641,cliente1641@email.exemplo,Recife,2023-07-25
+CLI01642,Cliente 1642,cliente1642@email.exemplo,Curitiba,2023-11-18
+CLI01643,Cliente 1643,cliente1643@email.exemplo,Sao Paulo,2024-02-12
+CLI01644,Cliente 1644,cliente1644@email.exemplo,Belo Horizonte,2023-10-26
+CLI01645,Cliente 1645,cliente1645@email.exemplo,Fortaleza,2024-10-10
+CLI01646,Cliente 1646,cliente1646@email.exemplo,Curitiba,2024-08-12
+CLI01647,Cliente 1647,cliente1647@email.exemplo,Rio de Janeiro,2023-11-30
+CLI01648,Cliente 1648,cliente1648@email.exemplo,Porto Alegre,2023-10-15
+CLI01649,Cliente 1649,cliente1649@email.exemplo,Porto Alegre,2024-01-09
+CLI01650,Cliente 1650,cliente1650@email.exemplo,Sao Paulo,2024-07-31
+CLI01651,Cliente 1651,cliente1651@email.exemplo,Rio de Janeiro,2024-08-29
+CLI01652,Cliente 1652,cliente1652@email.exemplo,Brasilia,2023-07-04
+CLI01653,Cliente 1653,cliente1653@email.exemplo,Salvador,2024-07-17
+CLI01654,Cliente 1654,cliente1654@email.exemplo,Sao Paulo,2024-04-17
+CLI01655,Cliente 1655,cliente1655@email.exemplo,Fortaleza,2023-08-03
+CLI01656,Cliente 1656,cliente1656@email.exemplo,Curitiba,2023-10-26
+CLI01657,Cliente 1657,cliente1657@email.exemplo,Fortaleza,2023-03-12
+CLI01658,Cliente 1658,cliente1658@email.exemplo,Porto Alegre,2024-11-20
+CLI01659,Cliente 1659,cliente1659@email.exemplo,Curitiba,2023-05-23
+CLI01660,Cliente 1660,cliente1660@email.exemplo,Salvador,2023-11-07
+CLI01661,Cliente 1661,cliente1661@email.exemplo,Rio de Janeiro,2023-09-16
+CLI01662,Cliente 1662,cliente1662@email.exemplo,Salvador,2023-06-07
+CLI01663,Cliente 1663,cliente1663@email.exemplo,Fortaleza,2024-03-09
+CLI01664,Cliente 1664,cliente1664@email.exemplo,Porto Alegre,2023-03-17
+CLI01665,Cliente 1665,cliente1665@email.exemplo,Curitiba,2024-09-04
+CLI01666,Cliente 1666,cliente1666@email.exemplo,Curitiba,2024-08-19
+CLI01667,Cliente 1667,cliente1667@email.exemplo,Porto Alegre,2024-07-01
+CLI01668,Cliente 1668,cliente1668@email.exemplo,Brasilia,2024-03-04
+CLI01669,Cliente 1669,cliente1669@email.exemplo,Brasilia,2023-02-07
+CLI01670,Cliente 1670,cliente1670@email.exemplo,Belo Horizonte,2024-07-03
+CLI01671,Cliente 1671,cliente1671@email.exemplo,Recife,2024-10-15
+CLI01672,Cliente 1672,cliente1672@email.exemplo,Sao Paulo,2023-04-22
+CLI01673,Cliente 1673,cliente1673@email.exemplo,Rio de Janeiro,2024-11-04
+CLI01674,Cliente 1674,cliente1674@email.exemplo,Salvador,2023-12-30
+CLI01675,Cliente 1675,cliente1675@email.exemplo,Sao Paulo,2024-10-24
+CLI01676,Cliente 1676,cliente1676@email.exemplo,Recife,2023-02-15
+CLI01677,Cliente 1677,cliente1677@email.exemplo,Recife,2024-10-22
+CLI01678,Cliente 1678,cliente1678@email.exemplo,Salvador,2024-10-24
+CLI01679,Cliente 1679,cliente1679@email.exemplo,Porto Alegre,2023-12-06
+CLI01680,Cliente 1680,cliente1680@email.exemplo,Porto Alegre,2023-04-19
+CLI01681,Cliente 1681,cliente1681@email.exemplo,Sao Paulo,2023-04-11
+CLI01682,Cliente 1682,cliente1682@email.exemplo,Rio de Janeiro,2023-08-16
+CLI01683,Cliente 1683,cliente1683@email.exemplo,Brasilia,2024-06-15
+CLI01684,Cliente 1684,cliente1684@email.exemplo,Brasilia,2024-08-17
+CLI01685,Cliente 1685,cliente1685@email.exemplo,Fortaleza,2024-08-12
+CLI01686,Cliente 1686,cliente1686@email.exemplo,Rio de Janeiro,2024-04-01
+CLI01687,Cliente 1687,cliente1687@email.exemplo,Belo Horizonte,2024-02-05
+CLI01688,Cliente 1688,cliente1688@email.exemplo,Curitiba,2024-11-26
+CLI01689,Cliente 1689,cliente1689@email.exemplo,Recife,2024-05-27
+CLI01690,Cliente 1690,cliente1690@email.exemplo,Sao Paulo,2023-12-20
+CLI01691,Cliente 1691,cliente1691@email.exemplo,Sao Paulo,2024-05-09
+CLI01692,Cliente 1692,cliente1692@email.exemplo,Sao Paulo,2023-10-30
+CLI01693,Cliente 1693,cliente1693@email.exemplo,Porto Alegre,2023-03-29
+CLI01694,Cliente 1694,cliente1694@email.exemplo,Sao Paulo,2023-05-26
+CLI01695,Cliente 1695,cliente1695@email.exemplo,Belo Horizonte,2023-11-16
+CLI01696,Cliente 1696,cliente1696@email.exemplo,Belo Horizonte,2024-04-11
+CLI01697,Cliente 1697,cliente1697@email.exemplo,Rio de Janeiro,2024-06-17
+CLI01698,Cliente 1698,cliente1698@email.exemplo,Curitiba,2023-12-23
+CLI01699,Cliente 1699,cliente1699@email.exemplo,Curitiba,2023-04-10
+CLI01700,Cliente 1700,cliente1700@email.exemplo,Curitiba,2024-04-08
+CLI01701,Cliente 1701,cliente1701@email.exemplo,Belo Horizonte,2023-03-10
+CLI01702,Cliente 1702,cliente1702@email.exemplo,Rio de Janeiro,2023-02-15
+CLI01703,Cliente 1703,cliente1703@email.exemplo,Fortaleza,2023-04-28
+CLI01704,Cliente 1704,cliente1704@email.exemplo,Sao Paulo,2023-12-18
+CLI01705,Cliente 1705,cliente1705@email.exemplo,Salvador,2023-04-22
+CLI01706,Cliente 1706,cliente1706@email.exemplo,Salvador,2023-06-18
+CLI01707,Cliente 1707,cliente1707@email.exemplo,Fortaleza,2023-09-07
+CLI01708,Cliente 1708,cliente1708@email.exemplo,Brasilia,2023-06-28
+CLI01709,Cliente 1709,cliente1709@email.exemplo,Brasilia,2023-06-13
+CLI01710,Cliente 1710,cliente1710@email.exemplo,Belo Horizonte,2024-07-27
+CLI01711,Cliente 1711,cliente1711@email.exemplo,Porto Alegre,2024-04-18
+CLI01712,Cliente 1712,cliente1712@email.exemplo,Rio de Janeiro,2024-02-19
+CLI01713,Cliente 1713,cliente1713@email.exemplo,Salvador,2023-07-08
+CLI01714,Cliente 1714,cliente1714@email.exemplo,Sao Paulo,2024-10-17
+CLI01715,Cliente 1715,cliente1715@email.exemplo,Salvador,2024-03-18
+CLI01716,Cliente 1716,cliente1716@email.exemplo,Porto Alegre,2023-01-30
+CLI01717,Cliente 1717,cliente1717@email.exemplo,Fortaleza,2024-09-20
+CLI01718,Cliente 1718,cliente1718@email.exemplo,Rio de Janeiro,2024-04-05
+CLI01719,Cliente 1719,cliente1719@email.exemplo,Recife,2024-03-15
+CLI01720,Cliente 1720,cliente1720@email.exemplo,Porto Alegre,2023-01-05
+CLI01721,Cliente 1721,cliente1721@email.exemplo,Fortaleza,2023-08-08
+CLI01722,Cliente 1722,cliente1722@email.exemplo,Rio de Janeiro,2023-10-13
+CLI01723,Cliente 1723,cliente1723@email.exemplo,Fortaleza,2023-03-06
+CLI01724,Cliente 1724,cliente1724@email.exemplo,Recife,2023-04-15
+CLI01725,Cliente 1725,cliente1725@email.exemplo,Brasilia,2023-07-11
+CLI01726,Cliente 1726,cliente1726@email.exemplo,Belo Horizonte,2023-11-30
+CLI01727,Cliente 1727,cliente1727@email.exemplo,Rio de Janeiro,2024-04-13
+CLI01728,Cliente 1728,cliente1728@email.exemplo,Sao Paulo,2023-09-26
+CLI01729,Cliente 1729,cliente1729@email.exemplo,Salvador,2024-05-16
+CLI01730,Cliente 1730,cliente1730@email.exemplo,Brasilia,2024-10-16
+CLI01731,Cliente 1731,cliente1731@email.exemplo,Belo Horizonte,2024-09-03
+CLI01732,Cliente 1732,cliente1732@email.exemplo,Porto Alegre,2024-09-17
+CLI01733,Cliente 1733,cliente1733@email.exemplo,Porto Alegre,2024-08-24
+CLI01734,Cliente 1734,cliente1734@email.exemplo,Sao Paulo,2023-12-23
+CLI01735,Cliente 1735,cliente1735@email.exemplo,Belo Horizonte,2024-04-13
+CLI01736,Cliente 1736,cliente1736@email.exemplo,Recife,2023-06-26
+CLI01737,Cliente 1737,cliente1737@email.exemplo,Salvador,2023-11-01
+CLI01738,Cliente 1738,cliente1738@email.exemplo,Recife,2024-08-27
+CLI01739,Cliente 1739,cliente1739@email.exemplo,Sao Paulo,2024-11-19
+CLI01740,Cliente 1740,cliente1740@email.exemplo,Sao Paulo,2023-11-17
+CLI01741,Cliente 1741,cliente1741@email.exemplo,Sao Paulo,2023-09-02
+CLI01742,Cliente 1742,cliente1742@email.exemplo,Rio de Janeiro,2023-04-30
+CLI01743,Cliente 1743,cliente1743@email.exemplo,Sao Paulo,2024-01-18
+CLI01744,Cliente 1744,cliente1744@email.exemplo,Fortaleza,2023-05-25
+CLI01745,Cliente 1745,cliente1745@email.exemplo,Brasilia,2024-02-02
+CLI01746,Cliente 1746,cliente1746@email.exemplo,Porto Alegre,2024-09-02
+CLI01747,Cliente 1747,cliente1747@email.exemplo,Sao Paulo,2024-08-11
+CLI01748,Cliente 1748,cliente1748@email.exemplo,Porto Alegre,2024-03-09
+CLI01749,Cliente 1749,cliente1749@email.exemplo,Sao Paulo,2024-05-13
+CLI01750,Cliente 1750,cliente1750@email.exemplo,Salvador,2024-07-04
+CLI01751,Cliente 1751,cliente1751@email.exemplo,Fortaleza,2024-10-22
+CLI01752,Cliente 1752,cliente1752@email.exemplo,Sao Paulo,2024-07-22
+CLI01753,Cliente 1753,cliente1753@email.exemplo,Sao Paulo,2024-05-16
+CLI01754,Cliente 1754,cliente1754@email.exemplo,Rio de Janeiro,2023-05-24
+CLI01755,Cliente 1755,cliente1755@email.exemplo,Sao Paulo,2023-11-19
+CLI01756,Cliente 1756,cliente1756@email.exemplo,Curitiba,2024-09-26
+CLI01757,Cliente 1757,cliente1757@email.exemplo,Sao Paulo,2024-01-03
+CLI01758,Cliente 1758,cliente1758@email.exemplo,Sao Paulo,2024-05-11
+CLI01759,Cliente 1759,cliente1759@email.exemplo,Sao Paulo,2023-07-19
+CLI01760,Cliente 1760,cliente1760@email.exemplo,Porto Alegre,2024-07-29
+CLI01761,Cliente 1761,cliente1761@email.exemplo,Brasilia,2024-10-30
+CLI01762,Cliente 1762,cliente1762@email.exemplo,Curitiba,2024-02-23
+CLI01763,Cliente 1763,cliente1763@email.exemplo,Salvador,2024-05-18
+CLI01764,Cliente 1764,cliente1764@email.exemplo,Porto Alegre,2024-03-30
+CLI01765,Cliente 1765,cliente1765@email.exemplo,Curitiba,2023-06-21
+CLI01766,Cliente 1766,cliente1766@email.exemplo,Sao Paulo,2024-08-01
+CLI01767,Cliente 1767,cliente1767@email.exemplo,Sao Paulo,2023-08-14
+CLI01768,Cliente 1768,cliente1768@email.exemplo,Rio de Janeiro,2023-02-03
+CLI01769,Cliente 1769,cliente1769@email.exemplo,Rio de Janeiro,2023-08-19
+CLI01770,Cliente 1770,cliente1770@email.exemplo,Brasilia,2023-10-23
+CLI01771,Cliente 1771,cliente1771@email.exemplo,Sao Paulo,2024-04-13
+CLI01772,Cliente 1772,cliente1772@email.exemplo,Recife,2024-05-22
+CLI01773,Cliente 1773,cliente1773@email.exemplo,Brasilia,2024-06-07
+CLI01774,Cliente 1774,cliente1774@email.exemplo,Sao Paulo,2024-08-09
+CLI01775,Cliente 1775,cliente1775@email.exemplo,Sao Paulo,2023-10-02
+CLI01776,Cliente 1776,cliente1776@email.exemplo,Brasilia,2024-01-11
+CLI01777,Cliente 1777,cliente1777@email.exemplo,Brasilia,2023-02-12
+CLI01778,Cliente 1778,cliente1778@email.exemplo,Fortaleza,2024-03-27
+CLI01779,Cliente 1779,cliente1779@email.exemplo,Brasilia,2023-08-12
+CLI01780,Cliente 1780,cliente1780@email.exemplo,Porto Alegre,2023-04-15
+CLI01781,Cliente 1781,cliente1781@email.exemplo,Fortaleza,2024-10-31
+CLI01782,Cliente 1782,cliente1782@email.exemplo,Rio de Janeiro,2023-11-01
+CLI01783,Cliente 1783,cliente1783@email.exemplo,Sao Paulo,2024-04-05
+CLI01784,Cliente 1784,cliente1784@email.exemplo,Rio de Janeiro,2023-12-23
+CLI01785,Cliente 1785,cliente1785@email.exemplo,Sao Paulo,2024-03-25
+CLI01786,Cliente 1786,cliente1786@email.exemplo,Sao Paulo,2023-08-31
+CLI01787,Cliente 1787,cliente1787@email.exemplo,Rio de Janeiro,2024-08-25
+CLI01788,Cliente 1788,cliente1788@email.exemplo,Fortaleza,2023-12-26
+CLI01789,Cliente 1789,cliente1789@email.exemplo,Fortaleza,2024-09-16
+CLI01790,Cliente 1790,cliente1790@email.exemplo,Salvador,2024-03-14
+CLI01791,Cliente 1791,cliente1791@email.exemplo,Sao Paulo,2024-09-22
+CLI01792,Cliente 1792,cliente1792@email.exemplo,Sao Paulo,2023-07-31
+CLI01793,Cliente 1793,cliente1793@email.exemplo,Rio de Janeiro,2023-03-02
+CLI01794,Cliente 1794,cliente1794@email.exemplo,Recife,2023-12-26
+CLI01795,Cliente 1795,cliente1795@email.exemplo,Brasilia,2023-10-15
+CLI01796,Cliente 1796,cliente1796@email.exemplo,Recife,2024-07-05
+CLI01797,Cliente 1797,cliente1797@email.exemplo,Sao Paulo,2023-11-28
+CLI01798,Cliente 1798,cliente1798@email.exemplo,Fortaleza,2023-10-27
+CLI01799,Cliente 1799,cliente1799@email.exemplo,Rio de Janeiro,2024-08-09
+CLI01800,Cliente 1800,cliente1800@email.exemplo,Rio de Janeiro,2024-06-10
+CLI01801,Cliente 1801,cliente1801@email.exemplo,Salvador,2023-04-08
+CLI01802,Cliente 1802,cliente1802@email.exemplo,Sao Paulo,2024-02-26
+CLI01803,Cliente 1803,cliente1803@email.exemplo,Sao Paulo,2023-10-11
+CLI01804,Cliente 1804,cliente1804@email.exemplo,Salvador,2023-05-10
+CLI01805,Cliente 1805,cliente1805@email.exemplo,Fortaleza,2023-05-16
+CLI01806,Cliente 1806,cliente1806@email.exemplo,Rio de Janeiro,2023-05-30
+CLI01807,Cliente 1807,cliente1807@email.exemplo,Fortaleza,2023-11-26
+CLI01808,Cliente 1808,cliente1808@email.exemplo,Rio de Janeiro,2024-11-23
+CLI01809,Cliente 1809,cliente1809@email.exemplo,Porto Alegre,2024-05-16
+CLI01810,Cliente 1810,cliente1810@email.exemplo,Sao Paulo,2024-08-14
+CLI01811,Cliente 1811,cliente1811@email.exemplo,Salvador,2023-10-03
+CLI01812,Cliente 1812,cliente1812@email.exemplo,Salvador,2024-02-29
+CLI01813,Cliente 1813,cliente1813@email.exemplo,Porto Alegre,2024-04-07
+CLI01814,Cliente 1814,cliente1814@email.exemplo,Sao Paulo,2024-10-10
+CLI01815,Cliente 1815,cliente1815@email.exemplo,Sao Paulo,2024-02-17
+CLI01816,Cliente 1816,cliente1816@email.exemplo,Brasilia,2023-10-12
+CLI01817,Cliente 1817,cliente1817@email.exemplo,Fortaleza,2024-01-13
+CLI01818,Cliente 1818,cliente1818@email.exemplo,Curitiba,2024-05-14
+CLI01819,Cliente 1819,cliente1819@email.exemplo,Belo Horizonte,2024-08-18
+CLI01820,Cliente 1820,cliente1820@email.exemplo,Sao Paulo,2023-04-06
+CLI01821,Cliente 1821,cliente1821@email.exemplo,Fortaleza,2024-04-14
+CLI01822,Cliente 1822,cliente1822@email.exemplo,Salvador,2024-11-11
+CLI01823,Cliente 1823,cliente1823@email.exemplo,Fortaleza,2024-01-02
+CLI01824,Cliente 1824,cliente1824@email.exemplo,Sao Paulo,2024-07-01
+CLI01825,Cliente 1825,cliente1825@email.exemplo,Porto Alegre,2023-08-12
+CLI01826,Cliente 1826,cliente1826@email.exemplo,Porto Alegre,2023-08-05
+CLI01827,Cliente 1827,cliente1827@email.exemplo,Curitiba,2023-10-02
+CLI01828,Cliente 1828,cliente1828@email.exemplo,Belo Horizonte,2023-10-18
+CLI01829,Cliente 1829,cliente1829@email.exemplo,Belo Horizonte,2024-07-14
+CLI01830,Cliente 1830,cliente1830@email.exemplo,Recife,2023-05-14
+CLI01831,Cliente 1831,cliente1831@email.exemplo,Recife,2024-05-11
+CLI01832,Cliente 1832,cliente1832@email.exemplo,Belo Horizonte,2024-11-29
+CLI01833,Cliente 1833,cliente1833@email.exemplo,Sao Paulo,2023-02-17
+CLI01834,Cliente 1834,cliente1834@email.exemplo,Sao Paulo,2024-10-03
+CLI01835,Cliente 1835,cliente1835@email.exemplo,Curitiba,2023-01-17
+CLI01836,Cliente 1836,cliente1836@email.exemplo,Sao Paulo,2023-06-11
+CLI01837,Cliente 1837,cliente1837@email.exemplo,Curitiba,2024-04-12
+CLI01838,Cliente 1838,cliente1838@email.exemplo,Sao Paulo,2024-03-14
+CLI01839,Cliente 1839,cliente1839@email.exemplo,Rio de Janeiro,2023-05-16
+CLI01840,Cliente 1840,cliente1840@email.exemplo,Salvador,2023-11-06
+CLI01841,Cliente 1841,cliente1841@email.exemplo,Sao Paulo,2023-10-08
+CLI01842,Cliente 1842,cliente1842@email.exemplo,Sao Paulo,2024-11-01
+CLI01843,Cliente 1843,cliente1843@email.exemplo,Belo Horizonte,2023-09-14
+CLI01844,Cliente 1844,cliente1844@email.exemplo,Sao Paulo,2024-01-16
+CLI01845,Cliente 1845,cliente1845@email.exemplo,Salvador,2024-10-26
+CLI01846,Cliente 1846,cliente1846@email.exemplo,Sao Paulo,2023-02-23
+CLI01847,Cliente 1847,cliente1847@email.exemplo,Porto Alegre,2024-10-02
+CLI01848,Cliente 1848,cliente1848@email.exemplo,Rio de Janeiro,2023-08-28
+CLI01849,Cliente 1849,cliente1849@email.exemplo,Porto Alegre,2024-11-02
+CLI01850,Cliente 1850,cliente1850@email.exemplo,Sao Paulo,2023-04-08
+CLI01851,Cliente 1851,cliente1851@email.exemplo,Sao Paulo,2023-08-07
+CLI01852,Cliente 1852,cliente1852@email.exemplo,Curitiba,2023-03-21
+CLI01853,Cliente 1853,cliente1853@email.exemplo,Sao Paulo,2024-08-30
+CLI01854,Cliente 1854,cliente1854@email.exemplo,Rio de Janeiro,2024-06-15
+CLI01855,Cliente 1855,cliente1855@email.exemplo,Salvador,2024-03-31
+CLI01856,Cliente 1856,cliente1856@email.exemplo,Sao Paulo,2023-01-09
+CLI01857,Cliente 1857,cliente1857@email.exemplo,Fortaleza,2023-12-18
+CLI01858,Cliente 1858,cliente1858@email.exemplo,Sao Paulo,2024-03-08
+CLI01859,Cliente 1859,cliente1859@email.exemplo,Fortaleza,2023-05-16
+CLI01860,Cliente 1860,cliente1860@email.exemplo,Curitiba,2023-03-14
+CLI01861,Cliente 1861,cliente1861@email.exemplo,Rio de Janeiro,2024-01-28
+CLI01862,Cliente 1862,cliente1862@email.exemplo,Sao Paulo,2023-04-15
+CLI01863,Cliente 1863,cliente1863@email.exemplo,Sao Paulo,2023-11-17
+CLI01864,Cliente 1864,cliente1864@email.exemplo,Belo Horizonte,2023-11-03
+CLI01865,Cliente 1865,cliente1865@email.exemplo,Sao Paulo,2024-01-27
+CLI01866,Cliente 1866,cliente1866@email.exemplo,Sao Paulo,2024-10-18
+CLI01867,Cliente 1867,cliente1867@email.exemplo,Salvador,2023-05-27
+CLI01868,Cliente 1868,cliente1868@email.exemplo,Sao Paulo,2024-06-27
+CLI01869,Cliente 1869,cliente1869@email.exemplo,Recife,2023-01-09
+CLI01870,Cliente 1870,cliente1870@email.exemplo,Recife,2024-10-27
+CLI01871,Cliente 1871,cliente1871@email.exemplo,Sao Paulo,2024-03-26
+CLI01872,Cliente 1872,cliente1872@email.exemplo,Belo Horizonte,2023-08-07
+CLI01873,Cliente 1873,cliente1873@email.exemplo,Salvador,2023-06-05
+CLI01874,Cliente 1874,cliente1874@email.exemplo,Porto Alegre,2024-09-22
+CLI01875,Cliente 1875,cliente1875@email.exemplo,Salvador,2024-03-29
+CLI01876,Cliente 1876,cliente1876@email.exemplo,Rio de Janeiro,2023-03-30
+CLI01877,Cliente 1877,cliente1877@email.exemplo,Sao Paulo,2023-05-24
+CLI01878,Cliente 1878,cliente1878@email.exemplo,Sao Paulo,2024-08-26
+CLI01879,Cliente 1879,cliente1879@email.exemplo,Fortaleza,2024-01-29
+CLI01880,Cliente 1880,cliente1880@email.exemplo,Belo Horizonte,2024-03-15
+CLI01881,Cliente 1881,cliente1881@email.exemplo,Belo Horizonte,2023-05-24
+CLI01882,Cliente 1882,cliente1882@email.exemplo,Rio de Janeiro,2023-10-11
+CLI01883,Cliente 1883,cliente1883@email.exemplo,Salvador,2023-03-28
+CLI01884,Cliente 1884,cliente1884@email.exemplo,Rio de Janeiro,2024-07-20
+CLI01885,Cliente 1885,cliente1885@email.exemplo,Recife,2024-09-06
+CLI01886,Cliente 1886,cliente1886@email.exemplo,Fortaleza,2024-09-14
+CLI01887,Cliente 1887,cliente1887@email.exemplo,Rio de Janeiro,2023-01-28
+CLI01888,Cliente 1888,cliente1888@email.exemplo,Salvador,2023-11-05
+CLI01889,Cliente 1889,cliente1889@email.exemplo,Rio de Janeiro,2024-06-14
+CLI01890,Cliente 1890,cliente1890@email.exemplo,Recife,2024-06-05
+CLI01891,Cliente 1891,cliente1891@email.exemplo,Rio de Janeiro,2024-02-06
+CLI01892,Cliente 1892,cliente1892@email.exemplo,Rio de Janeiro,2024-10-23
+CLI01893,Cliente 1893,cliente1893@email.exemplo,Sao Paulo,2023-09-03
+CLI01894,Cliente 1894,cliente1894@email.exemplo,Curitiba,2024-01-31
+CLI01895,Cliente 1895,cliente1895@email.exemplo,Sao Paulo,2023-09-04
+CLI01896,Cliente 1896,cliente1896@email.exemplo,Curitiba,2024-10-15
+CLI01897,Cliente 1897,cliente1897@email.exemplo,Recife,2023-03-14
+CLI01898,Cliente 1898,cliente1898@email.exemplo,Brasilia,2023-01-13
+CLI01899,Cliente 1899,cliente1899@email.exemplo,Belo Horizonte,2023-11-21
+CLI01900,Cliente 1900,cliente1900@email.exemplo,Sao Paulo,2024-02-01
+CLI01901,Cliente 1901,cliente1901@email.exemplo,Recife,2024-03-06
+CLI01902,Cliente 1902,cliente1902@email.exemplo,Belo Horizonte,2024-07-13
+CLI01903,Cliente 1903,cliente1903@email.exemplo,Salvador,2023-06-26
+CLI01904,Cliente 1904,cliente1904@email.exemplo,Curitiba,2023-03-16
+CLI01905,Cliente 1905,cliente1905@email.exemplo,Sao Paulo,2024-08-24
+CLI01906,Cliente 1906,cliente1906@email.exemplo,Sao Paulo,2023-01-15
+CLI01907,Cliente 1907,cliente1907@email.exemplo,Rio de Janeiro,2023-08-09
+CLI01908,Cliente 1908,cliente1908@email.exemplo,Sao Paulo,2023-03-03
+CLI01909,Cliente 1909,cliente1909@email.exemplo,Porto Alegre,2024-06-02
+CLI01910,Cliente 1910,cliente1910@email.exemplo,Rio de Janeiro,2024-10-05
+CLI01911,Cliente 1911,cliente1911@email.exemplo,Fortaleza,2024-05-28
+CLI01912,Cliente 1912,cliente1912@email.exemplo,Porto Alegre,2024-03-09
+CLI01913,Cliente 1913,cliente1913@email.exemplo,Fortaleza,2024-02-16
+CLI01914,Cliente 1914,cliente1914@email.exemplo,Sao Paulo,2024-10-17
+CLI01915,Cliente 1915,cliente1915@email.exemplo,Brasilia,2024-07-04
+CLI01916,Cliente 1916,cliente1916@email.exemplo,Recife,2023-06-06
+CLI01917,Cliente 1917,cliente1917@email.exemplo,Rio de Janeiro,2023-03-27
+CLI01918,Cliente 1918,cliente1918@email.exemplo,Rio de Janeiro,2023-03-22
+CLI01919,Cliente 1919,cliente1919@email.exemplo,Brasilia,2023-07-28
+CLI01920,Cliente 1920,cliente1920@email.exemplo,Sao Paulo,2024-07-03
+CLI01921,Cliente 1921,cliente1921@email.exemplo,Belo Horizonte,2024-02-05
+CLI01922,Cliente 1922,cliente1922@email.exemplo,Recife,2024-10-11
+CLI01923,Cliente 1923,cliente1923@email.exemplo,Salvador,2024-11-28
+CLI01924,Cliente 1924,cliente1924@email.exemplo,Salvador,2023-03-09
+CLI01925,Cliente 1925,cliente1925@email.exemplo,Rio de Janeiro,2024-03-23
+CLI01926,Cliente 1926,cliente1926@email.exemplo,Fortaleza,2023-09-02
+CLI01927,Cliente 1927,cliente1927@email.exemplo,Sao Paulo,2023-09-08
+CLI01928,Cliente 1928,cliente1928@email.exemplo,Sao Paulo,2024-03-20
+CLI01929,Cliente 1929,cliente1929@email.exemplo,Sao Paulo,2024-04-09
+CLI01930,Cliente 1930,cliente1930@email.exemplo,Recife,2024-09-15
+CLI01931,Cliente 1931,cliente1931@email.exemplo,Sao Paulo,2023-11-13
+CLI01932,Cliente 1932,cliente1932@email.exemplo,Salvador,2024-11-04
+CLI01933,Cliente 1933,cliente1933@email.exemplo,Fortaleza,2023-06-29
+CLI01934,Cliente 1934,cliente1934@email.exemplo,Sao Paulo,2023-01-13
+CLI01935,Cliente 1935,cliente1935@email.exemplo,Fortaleza,2023-05-21
+CLI01936,Cliente 1936,cliente1936@email.exemplo,Fortaleza,2023-01-12
+CLI01937,Cliente 1937,cliente1937@email.exemplo,Sao Paulo,2024-05-23
+CLI01938,Cliente 1938,cliente1938@email.exemplo,Belo Horizonte,2024-06-19
+CLI01939,Cliente 1939,cliente1939@email.exemplo,Brasilia,2023-09-23
+CLI01940,Cliente 1940,cliente1940@email.exemplo,Sao Paulo,2024-01-16
+CLI01941,Cliente 1941,cliente1941@email.exemplo,Sao Paulo,2023-10-03
+CLI01942,Cliente 1942,cliente1942@email.exemplo,Fortaleza,2023-05-01
+CLI01943,Cliente 1943,cliente1943@email.exemplo,Sao Paulo,2023-12-10
+CLI01944,Cliente 1944,cliente1944@email.exemplo,Porto Alegre,2023-10-06
+CLI01945,Cliente 1945,cliente1945@email.exemplo,Brasilia,2023-03-07
+CLI01946,Cliente 1946,cliente1946@email.exemplo,Rio de Janeiro,2024-08-13
+CLI01947,Cliente 1947,cliente1947@email.exemplo,Salvador,2023-03-20
+CLI01948,Cliente 1948,cliente1948@email.exemplo,Curitiba,2024-04-11
+CLI01949,Cliente 1949,cliente1949@email.exemplo,Brasilia,2024-01-04
+CLI01950,Cliente 1950,cliente1950@email.exemplo,Sao Paulo,2024-05-26
+CLI01951,Cliente 1951,cliente1951@email.exemplo,Recife,2023-06-20
+CLI01952,Cliente 1952,cliente1952@email.exemplo,Belo Horizonte,2023-06-11
+CLI01953,Cliente 1953,cliente1953@email.exemplo,Rio de Janeiro,2023-04-16
+CLI01954,Cliente 1954,cliente1954@email.exemplo,Recife,2024-11-21
+CLI01955,Cliente 1955,cliente1955@email.exemplo,Fortaleza,2023-04-29
+CLI01956,Cliente 1956,cliente1956@email.exemplo,Rio de Janeiro,2024-06-05
+CLI01957,Cliente 1957,cliente1957@email.exemplo,Sao Paulo,2023-02-15
+CLI01958,Cliente 1958,cliente1958@email.exemplo,Sao Paulo,2023-09-08
+CLI01959,Cliente 1959,cliente1959@email.exemplo,Sao Paulo,2024-04-28
+CLI01960,Cliente 1960,cliente1960@email.exemplo,Belo Horizonte,2024-01-28
+CLI01961,Cliente 1961,cliente1961@email.exemplo,Sao Paulo,2023-07-03
+CLI01962,Cliente 1962,cliente1962@email.exemplo,Sao Paulo,2024-07-20
+CLI01963,Cliente 1963,cliente1963@email.exemplo,Fortaleza,2024-11-02
+CLI01964,Cliente 1964,cliente1964@email.exemplo,Porto Alegre,2023-08-18
+CLI01965,Cliente 1965,cliente1965@email.exemplo,Belo Horizonte,2023-09-12
+CLI01966,Cliente 1966,cliente1966@email.exemplo,Porto Alegre,2023-11-24
+CLI01967,Cliente 1967,cliente1967@email.exemplo,Rio de Janeiro,2023-03-21
+CLI01968,Cliente 1968,cliente1968@email.exemplo,Recife,2024-01-17
+CLI01969,Cliente 1969,cliente1969@email.exemplo,Sao Paulo,2024-05-29
+CLI01970,Cliente 1970,cliente1970@email.exemplo,Salvador,2023-02-23
+CLI01971,Cliente 1971,cliente1971@email.exemplo,Sao Paulo,2023-08-17
+CLI01972,Cliente 1972,cliente1972@email.exemplo,Brasilia,2023-02-17
+CLI01973,Cliente 1973,cliente1973@email.exemplo,Porto Alegre,2023-03-12
+CLI01974,Cliente 1974,cliente1974@email.exemplo,Curitiba,2023-10-17
+CLI01975,Cliente 1975,cliente1975@email.exemplo,Rio de Janeiro,2023-12-02
+CLI01976,Cliente 1976,cliente1976@email.exemplo,Sao Paulo,2024-07-20
+CLI01977,Cliente 1977,cliente1977@email.exemplo,Curitiba,2023-01-09
+CLI01978,Cliente 1978,cliente1978@email.exemplo,Belo Horizonte,2023-07-25
+CLI01979,Cliente 1979,cliente1979@email.exemplo,Rio de Janeiro,2024-07-31
+CLI01980,Cliente 1980,cliente1980@email.exemplo,Rio de Janeiro,2024-09-29
+CLI01981,Cliente 1981,cliente1981@email.exemplo,Rio de Janeiro,2024-04-20
+CLI01982,Cliente 1982,cliente1982@email.exemplo,Belo Horizonte,2024-08-28
+CLI01983,Cliente 1983,cliente1983@email.exemplo,Curitiba,2023-07-20
+CLI01984,Cliente 1984,cliente1984@email.exemplo,Fortaleza,2024-07-13
+CLI01985,Cliente 1985,cliente1985@email.exemplo,Rio de Janeiro,2023-06-04
+CLI01986,Cliente 1986,cliente1986@email.exemplo,Sao Paulo,2024-02-24
+CLI01987,Cliente 1987,cliente1987@email.exemplo,Sao Paulo,2023-08-27
+CLI01988,Cliente 1988,cliente1988@email.exemplo,Brasilia,2023-12-21
+CLI01989,Cliente 1989,cliente1989@email.exemplo,Salvador,2023-01-10
+CLI01990,Cliente 1990,cliente1990@email.exemplo,Belo Horizonte,2023-01-02
+CLI01991,Cliente 1991,cliente1991@email.exemplo,Salvador,2024-01-21
+CLI01992,Cliente 1992,cliente1992@email.exemplo,Fortaleza,2023-11-11
+CLI01993,Cliente 1993,cliente1993@email.exemplo,Sao Paulo,2023-07-30
+CLI01994,Cliente 1994,cliente1994@email.exemplo,Brasilia,2023-09-01
+CLI01995,Cliente 1995,cliente1995@email.exemplo,Porto Alegre,2024-05-18
+CLI01996,Cliente 1996,cliente1996@email.exemplo,Sao Paulo,2023-05-26
+CLI01997,Cliente 1997,cliente1997@email.exemplo,Fortaleza,2023-10-14
+CLI01998,Cliente 1998,cliente1998@email.exemplo,Sao Paulo,2023-02-14
+CLI01999,Cliente 1999,cliente1999@email.exemplo,Rio de Janeiro,2024-06-16
+CLI02000,Cliente 2000,cliente2000@email.exemplo,Porto Alegre,2024-01-17

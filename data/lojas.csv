@@ -1,0 +1,13 @@
+loja_id,nome,cidade,estado,regiao
+LJ01,Centro - Sao Paulo,Sao Paulo,SP,Sudeste
+LJ02,Vila Mariana,Sao Paulo,SP,Sudeste
+LJ03,Pinheiros,Sao Paulo,SP,Sudeste
+LJ04,Copacabana,Rio de Janeiro,RJ,Sudeste
+LJ05,Barra da Tijuca,Rio de Janeiro,RJ,Sudeste
+LJ06,Savassi,Belo Horizonte,MG,Sudeste
+LJ07,Moinhos de Vento,Porto Alegre,RS,Sul
+LJ08,Batel,Curitiba,PR,Sul
+LJ09,Asa Sul,Brasilia,DF,Centro-Oeste
+LJ10,Boa Viagem,Recife,PE,Nordeste
+LJ11,Barra,Salvador,BA,Nordeste
+LJ12,Meireles,Fortaleza,CE,Nordeste

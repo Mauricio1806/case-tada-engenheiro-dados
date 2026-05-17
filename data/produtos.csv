@@ -1,0 +1,16 @@
+sku,nome,categoria,marca,preco_base,abv
+SKU001,Heineken Long Neck 330ml,Lager,Heineken,6.5,5.0
+SKU002,Brahma Duplo Malte 350ml,Lager,Brahma,4.2,4.7
+SKU003,Skol Pilsen Lata 350ml,Lager,Skol,3.8,4.7
+SKU004,Stella Artois Long Neck 330ml,Lager,Stella,7.9,5.0
+SKU005,Corona Extra Long Neck 330ml,Lager,Corona,8.5,4.5
+SKU006,Original 600ml,Lager,Antarctica,9.9,5.0
+SKU007,Eisenbahn Pilsen 600ml,Pilsen,Eisenbahn,12.9,4.8
+SKU008,Colorado Appia 600ml,Honey Ale,Colorado,18.9,5.4
+SKU009,Colorado Indica 600ml,IPA,Colorado,19.9,7.0
+SKU010,Goose Island IPA 355ml,IPA,Goose Island,14.9,5.9
+SKU011,Patagonia Amber Lager 740ml,Amber Lager,Patagonia,16.5,4.5
+SKU012,Leffe Blonde 330ml,Belgian Blond,Leffe,11.9,6.6
+SKU013,Hoegaarden 330ml,Witbier,Hoegaarden,10.9,4.9
+SKU014,Beck's Long Neck 330ml,Pilsen,Beck's,7.5,5.0
+SKU015,Budweiser Long Neck 330ml,Lager,Budweiser,6.9,5.0
