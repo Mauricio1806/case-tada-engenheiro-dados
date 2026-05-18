@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  grafana:
+    image: grafana/grafana:10.4.0
+    container_name: cervejaria-grafana
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=cervejaria2025
+      - GF_INSTALL_PLUGINS=grafana-databricks-datasource
+    volumes:
+      - grafana-data:/var/lib/grafana
+      - ./grafana-provisioning:/etc/grafana/provisioning
+      - ./dashboards:/var/lib/grafana/dashboards
+    restart: unless-stopped
+
+  postgres-metrics:
+    image: postgres:15
+    container_name: cervejaria-metrics-db
+    environment:
+      - POSTGRES_USER=metrics
+      - POSTGRES_PASSWORD=metrics
+      - POSTGRES_DB=pipeline_metrics
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./init-metrics-db.sql:/docker-entrypoint-initdb.d/init.sql
+    restart: unless-stopped
+
+volumes:
+  grafana-data:
+  postgres-data:

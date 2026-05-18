@@ -1,0 +1,15 @@
+apiVersion: 1
+
+datasources:
+  - name: PipelineMetrics
+    type: postgres
+    access: proxy
+    url: postgres-metrics:5432
+    database: pipeline_metrics
+    user: metrics
+    secureJsonData:
+      password: metrics
+    jsonData:
+      sslmode: disable
+      postgresVersion: 1500
+    isDefault: true

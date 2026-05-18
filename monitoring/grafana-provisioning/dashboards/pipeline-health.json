@@ -1,0 +1,178 @@
+{
+  "annotations": { "list": [] },
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 0,
+  "id": null,
+  "links": [],
+  "liveNow": false,
+  "panels": [
+    {
+      "datasource": "PipelineMetrics",
+      "fieldConfig": {
+        "defaults": {
+          "color": { "mode": "thresholds" },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              { "color": "red", "value": null },
+              { "color": "yellow", "value": 95 },
+              { "color": "green", "value": 99 }
+            ]
+          },
+          "unit": "percent"
+        }
+      },
+      "gridPos": { "h": 5, "w": 6, "x": 0, "y": 0 },
+      "id": 1,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": { "calcs": ["lastNotNull"], "fields": "", "values": false }
+      },
+      "pluginVersion": "10.4.0",
+      "targets": [{
+        "rawSql": "SELECT 100.0 * COUNT(*) FILTER (WHERE status = 'SUCCESS') / NULLIF(COUNT(*), 0) AS success_rate FROM pipeline_runs WHERE started_at > NOW() - INTERVAL '24 hours'",
+        "format": "table"
+      }],
+      "title": "Taxa de Sucesso (24h)",
+      "type": "stat"
+    },
+    {
+      "datasource": "PipelineMetrics",
+      "fieldConfig": {
+        "defaults": {
+          "color": { "mode": "thresholds" },
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              { "color": "green", "value": null },
+              { "color": "yellow", "value": 60 },
+              { "color": "red", "value": 120 }
+            ]
+          },
+          "unit": "s"
+        }
+      },
+      "gridPos": { "h": 5, "w": 6, "x": 6, "y": 0 },
+      "id": 2,
+      "options": {
+        "colorMode": "background",
+        "graphMode": "area",
+        "reduceOptions": { "calcs": ["mean"] }
+      },
+      "targets": [{
+        "rawSql": "SELECT AVG(duration_seconds) FROM pipeline_runs WHERE started_at > NOW() - INTERVAL '24 hours' AND status = 'SUCCESS'",
+        "format": "table"
+      }],
+      "title": "Duração Média (24h)",
+      "type": "stat"
+    },
+    {
+      "datasource": "PipelineMetrics",
+      "gridPos": { "h": 5, "w": 6, "x": 12, "y": 0 },
+      "id": 3,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "none",
+        "reduceOptions": { "calcs": ["lastNotNull"] }
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": { "mode": "thresholds" },
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              { "color": "green", "value": null },
+              { "color": "yellow", "value": 1 },
+              { "color": "red", "value": 5 }
+            ]
+          }
+        }
+      },
+      "targets": [{
+        "rawSql": "SELECT COUNT(*) FROM pipeline_runs WHERE status = 'FAILED' AND started_at > NOW() - INTERVAL '24 hours'",
+        "format": "table"
+      }],
+      "title": "Falhas (24h)",
+      "type": "stat"
+    },
+    {
+      "datasource": "PipelineMetrics",
+      "gridPos": { "h": 5, "w": 6, "x": 18, "y": 0 },
+      "id": 4,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "area",
+        "reduceOptions": { "calcs": ["sum"] }
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": { "mode": "thresholds" },
+          "unit": "short"
+        }
+      },
+      "targets": [{
+        "rawSql": "SELECT SUM(rows_written) FROM pipeline_runs WHERE started_at > NOW() - INTERVAL '24 hours'",
+        "format": "table"
+      }],
+      "title": "Linhas Processadas (24h)",
+      "type": "stat"
+    },
+    {
+      "datasource": "PipelineMetrics",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 5 },
+      "id": 5,
+      "options": {
+        "legend": { "calcs": ["mean", "max"], "displayMode": "table", "placement": "bottom" }
+      },
+      "targets": [{
+        "rawSql": "SELECT date_trunc('hour', started_at) AS time, layer, AVG(duration_seconds) AS \"Duracao (s)\" FROM pipeline_runs WHERE $__timeFilter(started_at) GROUP BY 1, 2 ORDER BY 1",
+        "format": "time_series"
+      }],
+      "title": "Duração por Camada (timeseries)",
+      "type": "timeseries"
+    },
+    {
+      "datasource": "PipelineMetrics",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 5 },
+      "id": 6,
+      "options": {
+        "legend": { "displayMode": "list", "placement": "right" }
+      },
+      "targets": [{
+        "rawSql": "SELECT date_trunc('day', started_at) AS time, layer, SUM(rows_written) AS \"Linhas\" FROM pipeline_runs WHERE $__timeFilter(started_at) GROUP BY 1, 2 ORDER BY 1",
+        "format": "time_series"
+      }],
+      "title": "Volume Processado por Camada",
+      "type": "timeseries"
+    },
+    {
+      "datasource": "PipelineMetrics",
+      "gridPos": { "h": 8, "w": 24, "x": 0, "y": 13 },
+      "id": 7,
+      "options": {
+        "showHeader": true,
+        "sortBy": [{ "displayName": "started_at", "desc": true }]
+      },
+      "targets": [{
+        "rawSql": "SELECT started_at, layer, table_name, ROUND(duration_seconds::numeric, 1) AS duracao_s, rows_written, rows_rejected, status FROM pipeline_runs ORDER BY started_at DESC LIMIT 50",
+        "format": "table"
+      }],
+      "title": "Histórico de Execuções (Audit Log)",
+      "type": "table"
+    }
+  ],
+  "refresh": "30s",
+  "schemaVersion": 38,
+  "tags": ["pipeline", "cervejaria", "medallion"],
+  "templating": { "list": [] },
+  "time": { "from": "now-7d", "to": "now" },
+  "title": "Pipeline Cervejaria — Saúde Operacional",
+  "uid": "cervejaria-pipeline",
+  "version": 1,
+  "weekStart": ""
+}

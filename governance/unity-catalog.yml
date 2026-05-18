@@ -1,0 +1,66 @@
+# Unity Catalog setup - governanca + RLS + lineage
+# Em prod: aplicado via Terraform databricks_grants resource
+
+catalog: cervejaria_prod
+
+schemas:
+  bronze:
+    comment: "Raw data - append-only, particionado por ingestion date"
+    grants:
+      - principal: "data_engineering"
+        privileges: [USAGE, SELECT, MODIFY]
+      - principal: "analytics"
+        privileges: [USAGE]  # so leitura
+  
+  silver:
+    comment: "Cleaned + deduped + quality-validated"
+    grants:
+      - principal: "data_engineering"
+        privileges: [USAGE, SELECT, MODIFY]
+      - principal: "data_science"
+        privileges: [USAGE, SELECT]
+      - principal: "analytics"
+        privileges: [USAGE, SELECT]
+  
+  gold:
+    comment: "Kimball star schema - BI ready"
+    grants:
+      - principal: "data_engineering"
+        privileges: [USAGE, SELECT, MODIFY]
+      - principal: "analytics"
+        privileges: [USAGE, SELECT]
+      - principal: "executives"
+        privileges: [USAGE, SELECT]
+
+tables:
+  # Mascaramento de PII via Dynamic Views
+  silver.clientes:
+    row_filter: |
+      CREATE OR REPLACE FUNCTION cervejaria_prod.silver.cliente_filter(region STRING)
+      RETURN IF(IS_ACCOUNT_GROUP_MEMBER('data_engineering'), TRUE, region = current_user_region())
+    column_mask:
+      email:
+        function: |
+          CASE
+            WHEN IS_ACCOUNT_GROUP_MEMBER('pii_access') THEN email
+            ELSE sha2(email, 256)
+          END
+      nome:
+        function: |
+          CASE
+            WHEN IS_ACCOUNT_GROUP_MEMBER('pii_access') THEN nome
+            ELSE concat(substring(nome, 1, 1), '***')
+          END
+
+lineage:
+  # Capturado automaticamente pelo Unity Catalog quando notebooks usam tabelas registradas
+  # Visualizavel em catalog.databricks.com/lineage
+  upstream_systems:
+    - name: azure_sql_app_pedidos
+      type: jdbc
+      connection: app_pedidos_cdc
+  downstream_systems:
+    - name: power_bi_workspace
+      type: bi_tool
+    - name: feature_store
+      type: ml_platform

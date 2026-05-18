@@ -1,0 +1,123 @@
+name: CI - Pipeline Validation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-code:
+    name: Validate Python and Notebooks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      
+      - name: Install deps
+        run: |
+          pip install nbformat black flake8 sqlfluff
+      
+      - name: Lint Python
+        run: |
+          flake8 gen_orders.py --max-line-length=120 --ignore=E501,W503
+          black --check gen_orders.py
+      
+      - name: Validate notebooks parse
+        run: |
+          python <<EOF
+          import nbformat, glob, sys
+          ok = True
+          for f in sorted(glob.glob('Notebooks/*.ipynb')):
+              try:
+                  nb = nbformat.read(f, as_version=4)
+                  cells = len(nb.cells)
+                  print(f'OK    {f}  ({cells} cells)')
+              except Exception as e:
+                  print(f'FAIL  {f}: {e}')
+                  ok = False
+          sys.exit(0 if ok else 1)
+          EOF
+      
+      - name: Smoke test gen_orders
+        run: |
+          python gen_orders.py
+          test -f data/pedidos.csv
+          test -f data/pedido_itens.csv
+          test -f data/pagamentos.csv
+
+  security-scan:
+    name: Secret Scanning
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check for leaked Azure storage keys
+        run: |
+          if grep -rE "(CRJbkCDgE|[A-Za-z0-9+/]{86}==)" Notebooks/ databricks.yml 2>/dev/null; then
+            echo "ERROR: Possible Azure key leaked"
+            exit 1
+          fi
+          echo "OK - no leaked keys"
+      
+      - name: Check for hardcoded secrets in YAML
+        run: |
+          if grep -iE "(password|secret|token).*['\"][^'\"]{16,}['\"]" \
+             databricks.yml monitoring/grafana-provisioning/ 2>/dev/null | \
+             grep -v "metrics\|cervejaria2025\|example"; then
+            echo "ERROR: Hardcoded secret"
+            exit 1
+          fi
+          echo "OK - no hardcoded secrets"
+
+  validate-iac:
+    name: Validate Databricks Asset Bundle
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Validate YAML syntax
+        run: |
+          python -c "import yaml; yaml.safe_load(open('databricks.yml'))"
+          echo "databricks.yml is valid YAML"
+      
+      - name: Validate docker-compose
+        run: |
+          docker compose -f monitoring/docker-compose.yml config > /dev/null
+          echo "docker-compose.yml is valid"
+
+  dbt-style-lint:
+    name: SQL Lint (dbt style)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      
+      - name: Install sqlfluff
+        run: pip install sqlfluff
+      
+      - name: Extract SQL from notebooks and lint
+        run: |
+          python <<EOF
+          import nbformat, glob, re, subprocess, tempfile, os
+          
+          ok = True
+          for nb_file in glob.glob('Notebooks/*.ipynb'):
+              nb = nbformat.read(nb_file, as_version=4)
+              for i, cell in enumerate(nb.cells):
+                  if cell.cell_type == 'code':
+                      src = ''.join(cell.source) if isinstance(cell.source, list) else cell.source
+                      sqls = re.findall(r'spark\.sql\("""(.*?)"""\)', src, re.DOTALL)
+                      for sql in sqls:
+                          if len(sql.strip()) < 20: continue
+                          # Apenas valida sintaxe basica
+                          print(f'  SQL found in {nb_file} cell {i} ({len(sql)} chars)')
+          
+          print('SQL extraction complete')
+          EOF

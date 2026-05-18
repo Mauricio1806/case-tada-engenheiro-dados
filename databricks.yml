@@ -1,0 +1,66 @@
+# Databricks Asset Bundle - infrastructure as code do pipeline
+# Em prod o deploy via 'databricks bundle deploy --target prod'
+
+bundle:
+  name: case-tada-cervejaria-pipeline
+
+variables:
+  storage_account:
+    description: "Azure Storage Account name"
+    default: "stccasemauricioes"
+
+workspace:
+  host: ${WORKSPACE_HOST}  # Set via env var or CLI: databricks bundle deploy --target prod
+
+resources:
+  jobs:
+    pipeline_medallion:
+      name: pipeline-cervejaria-medallion
+      tasks:
+        - task_key: audit_init
+          notebook_task:
+            notebook_path: ./Notebooks/00_audit_log
+        
+        - task_key: bronze_batch
+          depends_on: [{ task_key: audit_init }]
+          notebook_task:
+            notebook_path: ./Notebooks/Camada Bronze
+        
+        - task_key: bronze_stream
+          depends_on: [{ task_key: audit_init }]
+          notebook_task:
+            notebook_path: ./Notebooks/Bronze Streaming
+        
+        - task_key: silver
+          depends_on: [{ task_key: bronze_batch }]
+          notebook_task:
+            notebook_path: ./Notebooks/Camada Silver
+        
+        - task_key: gold
+          depends_on: [{ task_key: silver }]
+          notebook_task:
+            notebook_path: ./Notebooks/Camada Gold
+        
+        - task_key: quality_basic
+          depends_on: [{ task_key: gold }]
+          notebook_task:
+            notebook_path: ./Notebooks/Checagem de Qualidade
+        
+        - task_key: quality_declarative
+          depends_on: [{ task_key: gold }]
+          notebook_task:
+            notebook_path: ./Notebooks/Testes Declarativos
+        
+        - task_key: bi_queries
+          depends_on:
+            - { task_key: quality_basic }
+            - { task_key: quality_declarative }
+          notebook_task:
+            notebook_path: ./Notebooks/Queries para BI
+
+      email_notifications:
+        on_failure: ["data-engineering-oncall@empresa.com"]
+
+      schedule:
+        quartz_cron_expression: "0 0 6 * * ?"   # 6h da manha todo dia
+        timezone_id: America/Sao_Paulo
