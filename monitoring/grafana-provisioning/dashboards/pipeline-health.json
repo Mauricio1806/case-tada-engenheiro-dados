@@ -8,7 +8,7 @@
   "liveNow": false,
   "panels": [
     {
-      "datasource": "PipelineMetrics",
+      "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
       "fieldConfig": {
         "defaults": {
           "color": { "mode": "thresholds" },
@@ -35,14 +35,16 @@
       },
       "pluginVersion": "10.4.0",
       "targets": [{
+        "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
         "rawSql": "SELECT 100.0 * COUNT(*) FILTER (WHERE status = 'SUCCESS') / NULLIF(COUNT(*), 0) AS success_rate FROM pipeline_runs WHERE started_at > NOW() - INTERVAL '24 hours'",
-        "format": "table"
+        "format": "table",
+        "refId": "A"
       }],
       "title": "Taxa de Sucesso (24h)",
       "type": "stat"
     },
     {
-      "datasource": "PipelineMetrics",
+      "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
       "fieldConfig": {
         "defaults": {
           "color": { "mode": "thresholds" },
@@ -65,14 +67,16 @@
         "reduceOptions": { "calcs": ["mean"] }
       },
       "targets": [{
+        "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
         "rawSql": "SELECT AVG(duration_seconds) FROM pipeline_runs WHERE started_at > NOW() - INTERVAL '24 hours' AND status = 'SUCCESS'",
-        "format": "table"
+        "format": "table",
+        "refId": "A"
       }],
       "title": "Duração Média (24h)",
       "type": "stat"
     },
     {
-      "datasource": "PipelineMetrics",
+      "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
       "gridPos": { "h": 5, "w": 6, "x": 12, "y": 0 },
       "id": 3,
       "options": {
@@ -94,14 +98,16 @@
         }
       },
       "targets": [{
+        "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
         "rawSql": "SELECT COUNT(*) FROM pipeline_runs WHERE status = 'FAILED' AND started_at > NOW() - INTERVAL '24 hours'",
-        "format": "table"
+        "format": "table",
+        "refId": "A"
       }],
       "title": "Falhas (24h)",
       "type": "stat"
     },
     {
-      "datasource": "PipelineMetrics",
+      "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
       "gridPos": { "h": 5, "w": 6, "x": 18, "y": 0 },
       "id": 4,
       "options": {
@@ -116,42 +122,48 @@
         }
       },
       "targets": [{
+        "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
         "rawSql": "SELECT SUM(rows_written) FROM pipeline_runs WHERE started_at > NOW() - INTERVAL '24 hours'",
-        "format": "table"
+        "format": "table",
+        "refId": "A"
       }],
       "title": "Linhas Processadas (24h)",
       "type": "stat"
     },
     {
-      "datasource": "PipelineMetrics",
+      "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
       "gridPos": { "h": 8, "w": 12, "x": 0, "y": 5 },
       "id": 5,
       "options": {
         "legend": { "calcs": ["mean", "max"], "displayMode": "table", "placement": "bottom" }
       },
       "targets": [{
+        "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
         "rawSql": "SELECT date_trunc('hour', started_at) AS time, layer, AVG(duration_seconds) AS \"Duracao (s)\" FROM pipeline_runs WHERE $__timeFilter(started_at) GROUP BY 1, 2 ORDER BY 1",
-        "format": "time_series"
+        "format": "time_series",
+        "refId": "A"
       }],
       "title": "Duração por Camada (timeseries)",
       "type": "timeseries"
     },
     {
-      "datasource": "PipelineMetrics",
+      "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
       "gridPos": { "h": 8, "w": 12, "x": 12, "y": 5 },
       "id": 6,
       "options": {
         "legend": { "displayMode": "list", "placement": "right" }
       },
       "targets": [{
+        "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
         "rawSql": "SELECT date_trunc('day', started_at) AS time, layer, SUM(rows_written) AS \"Linhas\" FROM pipeline_runs WHERE $__timeFilter(started_at) GROUP BY 1, 2 ORDER BY 1",
-        "format": "time_series"
+        "format": "time_series",
+        "refId": "A"
       }],
       "title": "Volume Processado por Camada",
       "type": "timeseries"
     },
     {
-      "datasource": "PipelineMetrics",
+      "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
       "gridPos": { "h": 8, "w": 24, "x": 0, "y": 13 },
       "id": 7,
       "options": {
@@ -159,8 +171,10 @@
         "sortBy": [{ "displayName": "started_at", "desc": true }]
       },
       "targets": [{
+        "datasource": { "type": "postgres", "uid": "${DS_PIPELINEMETRICS}" },
         "rawSql": "SELECT started_at, layer, table_name, ROUND(duration_seconds::numeric, 1) AS duracao_s, rows_written, rows_rejected, status FROM pipeline_runs ORDER BY started_at DESC LIMIT 50",
-        "format": "table"
+        "format": "table",
+        "refId": "A"
       }],
       "title": "Histórico de Execuções (Audit Log)",
       "type": "table"
@@ -172,7 +186,17 @@
   "templating": { "list": [] },
   "time": { "from": "now-7d", "to": "now" },
   "title": "Pipeline Cervejaria — Saúde Operacional",
-  "uid": "cervejaria-pipeline",
-  "version": 1,
-  "weekStart": ""
+  "uid": "cervejaria-pipeline-v2",
+  "version": 2,
+  "weekStart": "",
+  "__inputs": [
+    {
+      "name": "DS_PIPELINEMETRICS",
+      "label": "PipelineMetrics",
+      "description": "",
+      "type": "datasource",
+      "pluginId": "postgres",
+      "pluginName": "PostgreSQL"
+    }
+  ]
 }
